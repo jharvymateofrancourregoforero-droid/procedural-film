@@ -931,12 +931,14 @@ def write_srt(P):
         return f"{ms // 3600000:02d}:{ms // 60000 % 60:02d}:{ms // 1000 % 60:02d},{ms % 1000:03d}"
     out = []
     for i, c in enumerate(P.chunks, 1):
+        nxt = P.chunks[i]["t0"] if i < len(P.chunks) else None
+        t1 = min(c["t1"], nxt - 0.001) if nxt is not None else c["t1"]
         words = [w["text"] for w in c["words"]]
         text = " ".join(words)
         if len(text) > 32:  # two lines at most, split near the middle
             best = min(range(1, len(words)), key=lambda k: abs(len(" ".join(words[:k])) - len(text) / 2))
             text = " ".join(words[:best]) + "\n" + " ".join(words[best:])
-        out.append(f"{i}\n{ts(max(0, c['t0']))} --> {ts(c['t1'])}\n{text}\n")
+        out.append(f"{i}\n{ts(max(0, c['t0']))} --> {ts(t1)}\n{text}\n")
     open(os.path.join(P.folder, "subtitulos.srt"), "w").write("\n".join(out))
 
 
