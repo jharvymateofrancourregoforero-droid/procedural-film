@@ -451,10 +451,10 @@ def draw_chart(frame, g, t, out):
 def draw_rule(frame, g, t, lt, out):
     a = clamp01(lt / 0.25) * out
     parts = [(0.5, "50%", "NECESIDADES", T.BLU), (0.3, "30%", "GUSTOS", T.YEL), (0.2, "20%", "AHORRO Y DEUDAS", T.GRN)]
-    x, y, w, h = 210, 330, 1500, 150
+    x, y, w, h = 170, 330, 1500, 150
     ov = Image.new("RGBA", (W, H), (0, 0, 0, 0))
     d = ImageDraw.Draw(ov)
-    d.rounded_rectangle([x - 40, y - 150, x + w + 40, y + h + 150], radius=26, fill=(10, 10, 14, int(210 * a)))
+    d.rounded_rectangle([x - 40, y - 150, x + w + 140, y + h + 150], radius=26, fill=(10, 10, 14, int(210 * a)))
     d.text((x, y - 120), "REGLA 50 / 30 / 20", font=font(FONT_BLACK, 64), fill=(255, 255, 255, int(255 * a)))
     cx = x
     for i, (frac, pct, label, col) in enumerate(parts):
@@ -462,10 +462,12 @@ def draw_rule(frame, g, t, lt, out):
         if e <= 0:
             break
         ww = w * frac * e
+        if ww < 30:
+            break
         d.rounded_rectangle([cx, y, cx + ww - 8, y + h], radius=14, fill=col + (int(255 * a),))
         if e > 0.7:
             d.text((cx + 24, y + 22), pct, font=font(FONT_BLACK, 70), fill=T.INK + (int(255 * a),))
-            d.text((cx + 6, y + h + 20), label, font=font(FONT_BLACK, 40), fill=col + (int(255 * a),))
+            d.text((cx + 6, y + h + 20), label, font=font(FONT_BLACK, 34), fill=col + (int(255 * a),))
         cx += w * frac
     frame.alpha_composite(ov)
 
@@ -743,9 +745,10 @@ def main():
         a, b = int(float(sys.argv[i + 1]) * FPS), int(float(sys.argv[i + 2]) * FPS)
     n = 4
     chunk = 900  # 30 s per job keeps every worker busy until the end
-    jobs = [(s, min(b, s + chunk), os.path.join(OUT_DIR, f"part{k:03d}.mp4")) for k, s in enumerate(range(a, b, chunk))]
+    jobs = [(s, min(b, s + chunk), os.path.join(OUT_DIR, f"part{s // chunk:03d}.mp4")) for s in range(a, b, chunk)]
     with Pool(n) as pool:
-        parts = pool.map(render_range, jobs, chunksize=1)
+        pool.map(render_range, jobs, chunksize=1)
+    parts = sorted(os.path.join(OUT_DIR, f) for f in os.listdir(OUT_DIR) if f.startswith("part") and f.endswith(".mp4"))
     lst = os.path.join(OUT_DIR, "parts.txt")
     open(lst, "w").write("".join(f"file '{p}'\n" for p in parts))
     subprocess.run(["ffmpeg", "-v", "error", "-y", "-f", "concat", "-safe", "0", "-i", lst, "-c", "copy",
