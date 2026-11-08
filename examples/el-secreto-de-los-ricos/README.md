@@ -5,7 +5,9 @@ Es el Video 1 de la serie "El dinero, la riqueza y las decisiones que cambian tu
 Usa fotos reales con licencia libre, la voz de ElevenLabs "Mauricio Viral", y música y efectos sintetizados con código.
 No usa imágenes ni música generadas con IA.
 
-- Miniatura: [`exports/miniatura.jpg`](exports/miniatura.jpg)
+- Miniaturas en el estilo "persona recortada sobre dinero" (3 variantes para la prueba A/B de YouTube): [`exports/miniatura_a.jpg`](exports/miniatura_a.jpg) "EL SECRETO / DE LOS RICOS", [`exports/miniatura_b.jpg`](exports/miniatura_b.jpg) "TRABAJAR MÁS / NO TE HACE RICO", [`exports/miniatura_c.jpg`](exports/miniatura_c.jpg) "ASÍ PIENSAN / LOS RICOS". `python3 tools/thumbnail.py` las regenera (necesita `opencv-python-headless`; el recorte usa GrabCut, sin IA).
+- Miniatura anterior, más simple: [`exports/miniatura.jpg`](exports/miniatura.jpg)
+- Títulos, descripción, capítulos, créditos y etiquetas listos para pegar: [`exports/descripcion_youtube.txt`](exports/descripcion_youtube.txt)
 - El MP4 final (`exports/el-secreto-de-los-ricos-youtube.mp4`, unos 330 MiB a ~3,7 Mbps) no está en el repositorio porque supera el límite de 100 MB de GitHub; se regenera con los pasos de abajo. Para más calidad, sube `-maxrate` a 8M.
 
 ## Para publicar en YouTube
