@@ -1,0 +1,756 @@
+{
+"words": [
+{
+"text": "Imagina",
+"type": "word",
+"start": 0.08,
+"end": 0.48
+},
+{
+"text": "invertir",
+"type": "word",
+"start": 0.64,
+"end": 1.04
+},
+{
+"text": "cien",
+"type": "word",
+"start": 1.12,
+"end": 1.36
+},
+{
+"text": "dólares",
+"type": "word",
+"start": 1.44,
+"end": 2.0
+},
+{
+"text": "y",
+"type": "word",
+"start": 2.08,
+"end": 2.16
+},
+{
+"text": "conseguir",
+"type": "word",
+"start": 2.24,
+"end": 2.56
+},
+{
+"text": "que",
+"type": "word",
+"start": 2.64,
+"end": 2.68
+},
+{
+"text": "tu",
+"type": "word",
+"start": 2.72,
+"end": 2.8
+},
+{
+"text": "dinero",
+"type": "word",
+"start": 2.88,
+"end": 3.2
+},
+{
+"text": "crezca",
+"type": "word",
+"start": 3.28,
+"end": 3.68
+},
+{
+"text": "sin",
+"type": "word",
+"start": 3.76,
+"end": 3.92
+},
+{
+"text": "añadir",
+"type": "word",
+"start": 4.0,
+"end": 4.48
+},
+{
+"text": "un",
+"type": "word",
+"start": 4.56,
+"end": 4.8
+},
+{
+"text": "solo",
+"type": "word",
+"start": 4.88,
+"end": 5.12
+},
+{
+"text": "dólar",
+"type": "word",
+"start": 5.2,
+"end": 5.44
+},
+{
+"text": "más.",
+"type": "word",
+"start": 5.52,
+"end": 6.32
+},
+{
+"text": "No",
+"type": "word",
+"start": 6.4,
+"end": 6.48
+},
+{
+"text": "es",
+"type": "word",
+"start": 6.56,
+"end": 6.64
+},
+{
+"text": "magia:",
+"type": "word",
+"start": 6.76,
+"end": 7.36
+},
+{
+"text": "es",
+"type": "word",
+"start": 7.44,
+"end": 7.68
+},
+{
+"text": "interés",
+"type": "word",
+"start": 7.76,
+"end": 8.24
+},
+{
+"text": "compuesto.",
+"type": "word",
+"start": 8.36,
+"end": 9.36
+},
+{
+"text": "Imagina",
+"type": "word",
+"start": 9.44,
+"end": 9.76
+},
+{
+"text": "que",
+"type": "word",
+"start": 9.84,
+"end": 9.92
+},
+{
+"text": "consigues",
+"type": "word",
+"start": 10.0,
+"end": 10.4
+},
+{
+"text": "una",
+"type": "word",
+"start": 10.48,
+"end": 10.56
+},
+{
+"text": "rentabilidad",
+"type": "word",
+"start": 10.68,
+"end": 11.2
+},
+{
+"text": "hipotética",
+"type": "word",
+"start": 11.28,
+"end": 11.84
+},
+{
+"text": "del",
+"type": "word",
+"start": 11.96,
+"end": 12.08
+},
+{
+"text": "diez",
+"type": "word",
+"start": 12.2,
+"end": 12.36
+},
+{
+"text": "por",
+"type": "word",
+"start": 12.4,
+"end": 12.56
+},
+{
+"text": "ciento",
+"type": "word",
+"start": 12.6,
+"end": 12.8
+},
+{
+"text": "anual,",
+"type": "word",
+"start": 12.88,
+"end": 13.44
+},
+{
+"text": "y",
+"type": "word",
+"start": 13.48,
+"end": 13.52
+},
+{
+"text": "reinviertes",
+"type": "word",
+"start": 13.6,
+"end": 14.4
+},
+{
+"text": "todas",
+"type": "word",
+"start": 14.48,
+"end": 14.72
+},
+{
+"text": "tus",
+"type": "word",
+"start": 14.773,
+"end": 14.88
+},
+{
+"text": "ganancias.",
+"type": "word",
+"start": 14.92,
+"end": 15.92
+},
+{
+"text": "El",
+"type": "word",
+"start": 15.96,
+"end": 16.0
+},
+{
+"text": "primer",
+"type": "word",
+"start": 16.08,
+"end": 16.32
+},
+{
+"text": "año",
+"type": "word",
+"start": 16.36,
+"end": 16.64
+},
+{
+"text": "tienes",
+"type": "word",
+"start": 16.773,
+"end": 17.04
+},
+{
+"text": "ciento",
+"type": "word",
+"start": 17.12,
+"end": 17.36
+},
+{
+"text": "diez",
+"type": "word",
+"start": 17.44,
+"end": 17.64
+},
+{
+"text": "dólares.",
+"type": "word",
+"start": 17.68,
+"end": 18.4
+},
+{
+"text": "El",
+"type": "word",
+"start": 18.44,
+"end": 18.48
+},
+{
+"text": "segundo,",
+"type": "word",
+"start": 18.56,
+"end": 19.2
+},
+{
+"text": "ciento",
+"type": "word",
+"start": 19.24,
+"end": 19.44
+},
+{
+"text": "veintiuno.",
+"type": "word",
+"start": 19.52,
+"end": 20.4
+},
+{
+"text": "El",
+"type": "word",
+"start": 20.44,
+"end": 20.48
+},
+{
+"text": "tercero,",
+"type": "word",
+"start": 20.56,
+"end": 21.2
+},
+{
+"text": "ciento",
+"type": "word",
+"start": 21.24,
+"end": 21.52
+},
+{
+"text": "treinta",
+"type": "word",
+"start": 21.68,
+"end": 21.92
+},
+{
+"text": "y",
+"type": "word",
+"start": 22.0,
+"end": 22.08
+},
+{
+"text": "tres",
+"type": "word",
+"start": 22.16,
+"end": 22.24
+},
+{
+"text": "dólares,",
+"type": "word",
+"start": 22.32,
+"end": 22.8
+},
+{
+"text": "aproximadamente.",
+"type": "word",
+"start": 22.88,
+"end": 24.24
+},
+{
+"text": "¿Notas",
+"type": "word",
+"start": 24.32,
+"end": 24.56
+},
+{
+"text": "algo?",
+"type": "word",
+"start": 24.64,
+"end": 25.44
+},
+{
+"text": "Cada",
+"type": "word",
+"start": 25.52,
+"end": 25.76
+},
+{
+"text": "año,",
+"type": "word",
+"start": 25.84,
+"end": 26.24
+},
+{
+"text": "los",
+"type": "word",
+"start": 26.28,
+"end": 26.32
+},
+{
+"text": "rendimientos",
+"type": "word",
+"start": 26.4,
+"end": 27.04
+},
+{
+"text": "también",
+"type": "word",
+"start": 27.08,
+"end": 27.6
+},
+{
+"text": "comienzan",
+"type": "word",
+"start": 27.68,
+"end": 28.08
+},
+{
+"text": "a",
+"type": "word",
+"start": 28.12,
+"end": 28.16
+},
+{
+"text": "producir",
+"type": "word",
+"start": 28.24,
+"end": 28.72
+},
+{
+"text": "nuevos",
+"type": "word",
+"start": 28.76,
+"end": 29.12
+},
+{
+"text": "rendimientos.",
+"type": "word",
+"start": 29.24,
+"end": 30.24
+},
+{
+"text": "Y",
+"type": "word",
+"start": 30.309,
+"end": 30.32
+},
+{
+"text": "aquí",
+"type": "word",
+"start": 30.4,
+"end": 30.72
+},
+{
+"text": "viene",
+"type": "word",
+"start": 30.8,
+"end": 31.04
+},
+{
+"text": "lo",
+"type": "word",
+"start": 31.08,
+"end": 31.12
+},
+{
+"text": "sorprendente:",
+"type": "word",
+"start": 31.16,
+"end": 32.24
+},
+{
+"text": "manteniendo",
+"type": "word",
+"start": 32.36,
+"end": 32.8
+},
+{
+"text": "ese",
+"type": "word",
+"start": 32.96,
+"end": 33.12
+},
+{
+"text": "mismo",
+"type": "word",
+"start": 33.2,
+"end": 33.44
+},
+{
+"text": "supuesto",
+"type": "word",
+"start": 33.52,
+"end": 33.92
+},
+{
+"text": "matemático",
+"type": "word",
+"start": 34.0,
+"end": 34.56
+},
+{
+"text": "durante",
+"type": "word",
+"start": 34.64,
+"end": 34.88
+},
+{
+"text": "aproximadamente",
+"type": "word",
+"start": 34.96,
+"end": 35.76
+},
+{
+"text": "veinticuatro",
+"type": "word",
+"start": 35.84,
+"end": 36.64
+},
+{
+"text": "años,",
+"type": "word",
+"start": 36.72,
+"end": 37.36
+},
+{
+"text": "tus",
+"type": "word",
+"start": 37.44,
+"end": 37.6
+},
+{
+"text": "cien",
+"type": "word",
+"start": 37.68,
+"end": 37.84
+},
+{
+"text": "dólares",
+"type": "word",
+"start": 37.92,
+"end": 38.32
+},
+{
+"text": "se",
+"type": "word",
+"start": 38.4,
+"end": 38.48
+},
+{
+"text": "convertirían",
+"type": "word",
+"start": 38.64,
+"end": 39.12
+},
+{
+"text": "en",
+"type": "word",
+"start": 39.2,
+"end": 39.28
+},
+{
+"text": "cerca",
+"type": "word",
+"start": 39.4,
+"end": 39.6
+},
+{
+"text": "de",
+"type": "word",
+"start": 39.68,
+"end": 39.76
+},
+{
+"text": "novecientos",
+"type": "word",
+"start": 39.8,
+"end": 40.56
+},
+{
+"text": "ochenta",
+"type": "word",
+"start": 40.64,
+"end": 40.96
+},
+{
+"text": "y",
+"type": "word",
+"start": 41.04,
+"end": 41.12
+},
+{
+"text": "cuatro",
+"type": "word",
+"start": 41.2,
+"end": 41.44
+},
+{
+"text": "dólares.",
+"type": "word",
+"start": 41.6,
+"end": 42.4
+},
+{
+"text": "¡Casi",
+"type": "word",
+"start": 42.48,
+"end": 42.72
+},
+{
+"text": "diez",
+"type": "word",
+"start": 42.8,
+"end": 43.08
+},
+{
+"text": "veces",
+"type": "word",
+"start": 43.12,
+"end": 43.44
+},
+{
+"text": "más!",
+"type": "word",
+"start": 43.52,
+"end": 44.04
+},
+{
+"text": "Pero",
+"type": "word",
+"start": 44.347,
+"end": 44.4
+},
+{
+"text": "recuerda:",
+"type": "word",
+"start": 44.52,
+"end": 45.2
+},
+{
+"text": "es",
+"type": "word",
+"start": 45.32,
+"end": 45.44
+},
+{
+"text": "una",
+"type": "word",
+"start": 45.52,
+"end": 45.6
+},
+{
+"text": "simulación,",
+"type": "word",
+"start": 45.68,
+"end": 46.48
+},
+{
+"text": "no",
+"type": "word",
+"start": 46.56,
+"end": 46.72
+},
+{
+"text": "una",
+"type": "word",
+"start": 46.8,
+"end": 46.96
+},
+{
+"text": "rentabilidad",
+"type": "word",
+"start": 47.08,
+"end": 47.6
+},
+{
+"text": "garantizada.",
+"type": "word",
+"start": 47.68,
+"end": 48.88
+},
+{
+"text": "Ahora",
+"type": "word",
+"start": 48.92,
+"end": 49.12
+},
+{
+"text": "dime:",
+"type": "word",
+"start": 49.2,
+"end": 49.44
+},
+{
+"text": "¿qué",
+"type": "word",
+"start": 49.76,
+"end": 49.84
+},
+{
+"text": "prefieres?",
+"type": "word",
+"start": 49.92,
+"end": 50.48
+},
+{
+"text": "¿Recibir",
+"type": "word",
+"start": 50.8,
+"end": 51.28
+},
+{
+"text": "mil",
+"type": "word",
+"start": 51.36,
+"end": 51.52
+},
+{
+"text": "dólares",
+"type": "word",
+"start": 51.6,
+"end": 51.92
+},
+{
+"text": "hoy...",
+"type": "word",
+"start": 52.08,
+"end": 52.64
+},
+{
+"text": "o",
+"type": "word",
+"start": 52.68,
+"end": 52.72
+},
+{
+"text": "aprender",
+"type": "word",
+"start": 52.8,
+"end": 53.12
+},
+{
+"text": "a",
+"type": "word",
+"start": 53.2,
+"end": 53.24
+},
+{
+"text": "construir",
+"type": "word",
+"start": 53.28,
+"end": 53.68
+},
+{
+"text": "patrimonio",
+"type": "word",
+"start": 53.76,
+"end": 54.24
+},
+{
+"text": "a",
+"type": "word",
+"start": 54.28,
+"end": 54.32
+},
+{
+"text": "largo",
+"type": "word",
+"start": 54.36,
+"end": 54.56
+},
+{
+"text": "plazo?",
+"type": "word",
+"start": 54.64,
+"end": 55.28
+}
+],
+"tempo": 1.0,
+"trimmed_lead": 0.0
+}

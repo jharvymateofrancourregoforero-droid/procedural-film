@@ -1,0 +1,852 @@
+{
+"words": [
+{
+"text": "¿Alguna",
+"type": "word",
+"start": 0.077,
+"end": 0.275
+},
+{
+"text": "vez",
+"type": "word",
+"start": 0.352,
+"end": 0.583
+},
+{
+"text": "has",
+"type": "word",
+"start": 0.66,
+"end": 0.813
+},
+{
+"text": "comprado",
+"type": "word",
+"start": 0.929,
+"end": 1.275
+},
+{
+"text": "algo",
+"type": "word",
+"start": 1.39,
+"end": 1.506
+},
+{
+"text": "que",
+"type": "word",
+"start": 1.583,
+"end": 1.737
+},
+{
+"text": "realmente",
+"type": "word",
+"start": 1.813,
+"end": 2.429
+},
+{
+"text": "no",
+"type": "word",
+"start": 2.66,
+"end": 2.737
+},
+{
+"text": "necesitabas...",
+"type": "word",
+"start": 2.813,
+"end": 3.967
+},
+{
+"text": "y",
+"type": "word",
+"start": 4.006,
+"end": 4.044
+},
+{
+"text": "después",
+"type": "word",
+"start": 4.16,
+"end": 4.429
+},
+{
+"text": "te",
+"type": "word",
+"start": 4.506,
+"end": 4.583
+},
+{
+"text": "preguntaste",
+"type": "word",
+"start": 4.66,
+"end": 5.198
+},
+{
+"text": "por",
+"type": "word",
+"start": 5.429,
+"end": 5.583
+},
+{
+"text": "qué",
+"type": "word",
+"start": 5.737,
+"end": 5.813
+},
+{
+"text": "lo",
+"type": "word",
+"start": 5.89,
+"end": 5.967
+},
+{
+"text": "hiciste?",
+"type": "word",
+"start": 6.044,
+"end": 6.506
+},
+{
+"text": "Las",
+"type": "word",
+"start": 7.121,
+"end": 7.198
+},
+{
+"text": "ofertas,",
+"type": "word",
+"start": 7.275,
+"end": 7.967
+},
+{
+"text": "los",
+"type": "word",
+"start": 8.044,
+"end": 8.121
+},
+{
+"text": "descuentos",
+"type": "word",
+"start": 8.198,
+"end": 8.89
+},
+{
+"text": "y",
+"type": "word",
+"start": 8.967,
+"end": 9.006
+},
+{
+"text": "las",
+"type": "word",
+"start": 9.044,
+"end": 9.198
+},
+{
+"text": "compras",
+"type": "word",
+"start": 9.275,
+"end": 9.583
+},
+{
+"text": "a",
+"type": "word",
+"start": 9.66,
+"end": 9.737
+},
+{
+"text": "cuotas",
+"type": "word",
+"start": 9.775,
+"end": 10.121
+},
+{
+"text": "pueden",
+"type": "word",
+"start": 10.275,
+"end": 10.506
+},
+{
+"text": "influir",
+"type": "word",
+"start": 10.583,
+"end": 10.967
+},
+{
+"text": "en",
+"type": "word",
+"start": 11.006,
+"end": 11.044
+},
+{
+"text": "nuestras",
+"type": "word",
+"start": 11.083,
+"end": 11.429
+},
+{
+"text": "decisiones.",
+"type": "word",
+"start": 11.66,
+"end": 12.275
+},
+{
+"text": "Cuando",
+"type": "word",
+"start": 12.506,
+"end": 12.66
+},
+{
+"text": "ves",
+"type": "word",
+"start": 12.737,
+"end": 12.813
+},
+{
+"text": "un",
+"type": "word",
+"start": 12.89,
+"end": 12.967
+},
+{
+"text": "producto",
+"type": "word",
+"start": 13.16,
+"end": 13.352
+},
+{
+"text": "que",
+"type": "word",
+"start": 13.429,
+"end": 13.506
+},
+{
+"text": "cuesta",
+"type": "word",
+"start": 13.544,
+"end": 13.89
+},
+{
+"text": "un",
+"type": "word",
+"start": 13.967,
+"end": 14.044
+},
+{
+"text": "millón",
+"type": "word",
+"start": 14.121,
+"end": 14.352
+},
+{
+"text": "de",
+"type": "word",
+"start": 14.429,
+"end": 14.506
+},
+{
+"text": "pesos,",
+"type": "word",
+"start": 14.621,
+"end": 15.121
+},
+{
+"text": "puedes",
+"type": "word",
+"start": 15.16,
+"end": 15.429
+},
+{
+"text": "pensarlo",
+"type": "word",
+"start": 15.467,
+"end": 15.89
+},
+{
+"text": "dos",
+"type": "word",
+"start": 15.967,
+"end": 16.044
+},
+{
+"text": "veces.",
+"type": "word",
+"start": 16.121,
+"end": 16.698
+},
+{
+"text": "Pero",
+"type": "word",
+"start": 16.89,
+"end": 17.044
+},
+{
+"text": "si",
+"type": "word",
+"start": 17.083,
+"end": 17.121
+},
+{
+"text": "te",
+"type": "word",
+"start": 17.198,
+"end": 17.275
+},
+{
+"text": "dicen",
+"type": "word",
+"start": 17.352,
+"end": 17.583
+},
+{
+"text": "que",
+"type": "word",
+"start": 17.66,
+"end": 17.737
+},
+{
+"text": "puedes",
+"type": "word",
+"start": 17.813,
+"end": 18.044
+},
+{
+"text": "pagarlo",
+"type": "word",
+"start": 18.121,
+"end": 18.429
+},
+{
+"text": "en",
+"type": "word",
+"start": 18.506,
+"end": 18.583
+},
+{
+"text": "pequeñas",
+"type": "word",
+"start": 18.66,
+"end": 18.967
+},
+{
+"text": "cuotas,",
+"type": "word",
+"start": 19.044,
+"end": 19.737
+},
+{
+"text": "posiblemente",
+"type": "word",
+"start": 19.852,
+"end": 20.506
+},
+{
+"text": "te",
+"type": "word",
+"start": 20.583,
+"end": 20.66
+},
+{
+"text": "parezca",
+"type": "word",
+"start": 20.737,
+"end": 21.121
+},
+{
+"text": "mucho",
+"type": "word",
+"start": 21.275,
+"end": 21.506
+},
+{
+"text": "más",
+"type": "word",
+"start": 21.583,
+"end": 21.737
+},
+{
+"text": "accesible.",
+"type": "word",
+"start": 21.813,
+"end": 22.352
+},
+{
+"text": "El",
+"type": "word",
+"start": 22.937,
+"end": 22.967
+},
+{
+"text": "problema",
+"type": "word",
+"start": 23.044,
+"end": 23.429
+},
+{
+"text": "es",
+"type": "word",
+"start": 23.506,
+"end": 23.66
+},
+{
+"text": "que",
+"type": "word",
+"start": 23.737,
+"end": 23.813
+},
+{
+"text": "dividir",
+"type": "word",
+"start": 23.89,
+"end": 24.198
+},
+{
+"text": "el",
+"type": "word",
+"start": 24.275,
+"end": 24.352
+},
+{
+"text": "precio",
+"type": "word",
+"start": 24.429,
+"end": 24.813
+},
+{
+"text": "no",
+"type": "word",
+"start": 25.044,
+"end": 25.121
+},
+{
+"text": "significa",
+"type": "word",
+"start": 25.198,
+"end": 25.737
+},
+{
+"text": "que",
+"type": "word",
+"start": 25.813,
+"end": 25.89
+},
+{
+"text": "el",
+"type": "word",
+"start": 25.929,
+"end": 25.967
+},
+{
+"text": "producto",
+"type": "word",
+"start": 26.044,
+"end": 26.429
+},
+{
+"text": "sea",
+"type": "word",
+"start": 26.506,
+"end": 26.66
+},
+{
+"text": "más",
+"type": "word",
+"start": 26.737,
+"end": 26.89
+},
+{
+"text": "barato.",
+"type": "word",
+"start": 26.967,
+"end": 27.352
+},
+{
+"text": "Aquí",
+"type": "word",
+"start": 27.89,
+"end": 28.121
+},
+{
+"text": "tienes",
+"type": "word",
+"start": 28.16,
+"end": 28.429
+},
+{
+"text": "una",
+"type": "word",
+"start": 28.467,
+"end": 28.506
+},
+{
+"text": "estrategia",
+"type": "word",
+"start": 28.583,
+"end": 29.044
+},
+{
+"text": "sencilla:",
+"type": "word",
+"start": 29.083,
+"end": 29.967
+},
+{
+"text": "antes",
+"type": "word",
+"start": 30.121,
+"end": 30.275
+},
+{
+"text": "de",
+"type": "word",
+"start": 30.313,
+"end": 30.352
+},
+{
+"text": "comprar",
+"type": "word",
+"start": 30.429,
+"end": 30.737
+},
+{
+"text": "algo",
+"type": "word",
+"start": 30.852,
+"end": 30.967
+},
+{
+"text": "que",
+"type": "word",
+"start": 31.044,
+"end": 31.121
+},
+{
+"text": "no",
+"type": "word",
+"start": 31.275,
+"end": 31.352
+},
+{
+"text": "necesitas",
+"type": "word",
+"start": 31.429,
+"end": 31.967
+},
+{
+"text": "inmediatamente,",
+"type": "word",
+"start": 32.044,
+"end": 33.044
+},
+{
+"text": "espera",
+"type": "word",
+"start": 33.237,
+"end": 33.506
+},
+{
+"text": "veinticuatro",
+"type": "word",
+"start": 33.66,
+"end": 34.275
+},
+{
+"text": "horas.",
+"type": "word",
+"start": 34.352,
+"end": 34.929
+},
+{
+"text": "Después",
+"type": "word",
+"start": 35.121,
+"end": 35.429
+},
+{
+"text": "pregúntate:",
+"type": "word",
+"start": 35.544,
+"end": 36.044
+},
+{
+"text": "¿realmente",
+"type": "word",
+"start": 36.429,
+"end": 37.044
+},
+{
+"text": "lo",
+"type": "word",
+"start": 37.083,
+"end": 37.121
+},
+{
+"text": "necesito?",
+"type": "word",
+"start": 37.198,
+"end": 37.737
+},
+{
+"text": "¿Puedo",
+"type": "word",
+"start": 38.121,
+"end": 38.352
+},
+{
+"text": "pagarlo?",
+"type": "word",
+"start": 38.429,
+"end": 38.89
+},
+{
+"text": "¿Qué",
+"type": "word",
+"start": 39.275,
+"end": 39.352
+},
+{
+"text": "otra",
+"type": "word",
+"start": 39.429,
+"end": 39.66
+},
+{
+"text": "cosa",
+"type": "word",
+"start": 39.737,
+"end": 39.967
+},
+{
+"text": "podría",
+"type": "word",
+"start": 40.044,
+"end": 40.352
+},
+{
+"text": "hacer",
+"type": "word",
+"start": 40.429,
+"end": 40.583
+},
+{
+"text": "con",
+"type": "word",
+"start": 40.66,
+"end": 40.737
+},
+{
+"text": "ese",
+"type": "word",
+"start": 40.813,
+"end": 40.89
+},
+{
+"text": "dinero?",
+"type": "word",
+"start": 40.967,
+"end": 41.621
+},
+{
+"text": "A",
+"type": "word",
+"start": 41.89,
+"end": 41.967
+},
+{
+"text": "veces,",
+"type": "word",
+"start": 42.044,
+"end": 42.506
+},
+{
+"text": "la",
+"type": "word",
+"start": 42.544,
+"end": 42.583
+},
+{
+"text": "mejor",
+"type": "word",
+"start": 42.66,
+"end": 42.967
+},
+{
+"text": "compra",
+"type": "word",
+"start": 43.044,
+"end": 43.506
+},
+{
+"text": "es",
+"type": "word",
+"start": 43.583,
+"end": 43.66
+},
+{
+"text": "la",
+"type": "word",
+"start": 43.698,
+"end": 43.737
+},
+{
+"text": "que",
+"type": "word",
+"start": 43.813,
+"end": 43.89
+},
+{
+"text": "decides",
+"type": "word",
+"start": 43.967,
+"end": 44.429
+},
+{
+"text": "no",
+"type": "word",
+"start": 44.66,
+"end": 44.813
+},
+{
+"text": "hacer.",
+"type": "word",
+"start": 44.852,
+"end": 45.506
+},
+{
+"text": "Ahora",
+"type": "word",
+"start": 45.813,
+"end": 46.121
+},
+{
+"text": "sé",
+"type": "word",
+"start": 46.352,
+"end": 46.429
+},
+{
+"text": "sincero:",
+"type": "word",
+"start": 46.506,
+"end": 47.198
+},
+{
+"text": "¿eres",
+"type": "word",
+"start": 47.275,
+"end": 47.429
+},
+{
+"text": "de",
+"type": "word",
+"start": 47.467,
+"end": 47.506
+},
+{
+"text": "los",
+"type": "word",
+"start": 47.583,
+"end": 47.66
+},
+{
+"text": "que",
+"type": "word",
+"start": 47.698,
+"end": 47.737
+},
+{
+"text": "compran",
+"type": "word",
+"start": 47.813,
+"end": 48.121
+},
+{
+"text": "inmediatamente,",
+"type": "word",
+"start": 48.198,
+"end": 49.198
+},
+{
+"text": "o",
+"type": "word",
+"start": 49.237,
+"end": 49.275
+},
+{
+"text": "de",
+"type": "word",
+"start": 49.352,
+"end": 49.429
+},
+{
+"text": "los",
+"type": "word",
+"start": 49.506,
+"end": 49.583
+},
+{
+"text": "que",
+"type": "word",
+"start": 49.66,
+"end": 49.737
+},
+{
+"text": "comparan",
+"type": "word",
+"start": 49.852,
+"end": 50.275
+},
+{
+"text": "y",
+"type": "word",
+"start": 50.313,
+"end": 50.352
+},
+{
+"text": "esperan?",
+"type": "word",
+"start": 50.506,
+"end": 51.198
+},
+{
+"text": "Escribe",
+"type": "word",
+"start": 51.237,
+"end": 51.66
+},
+{
+"text": "\"impulsivo\"",
+"type": "word",
+"start": 51.813,
+"end": 52.66
+},
+{
+"text": "o",
+"type": "word",
+"start": 52.698,
+"end": 52.737
+},
+{
+"text": "\"estratégico\"",
+"type": "word",
+"start": 52.775,
+"end": 53.583
+},
+{
+"text": "en",
+"type": "word",
+"start": 53.66,
+"end": 53.737
+},
+{
+"text": "los",
+"type": "word",
+"start": 53.775,
+"end": 53.813
+},
+{
+"text": "comentarios.",
+"type": "word",
+"start": 53.89,
+"end": 54.813
+}
+],
+"tempo": 1.04,
+"trimmed_lead": 0.034
+}

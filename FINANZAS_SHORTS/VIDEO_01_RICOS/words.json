@@ -1,0 +1,810 @@
+{
+"words": [
+{
+"text": "¿Por",
+"type": "word",
+"start": 0.062,
+"end": 0.222
+},
+{
+"text": "qué",
+"type": "word",
+"start": 0.259,
+"end": 0.296
+},
+{
+"text": "algunas",
+"type": "word",
+"start": 0.37,
+"end": 0.667
+},
+{
+"text": "personas",
+"type": "word",
+"start": 0.741,
+"end": 1.111
+},
+{
+"text": "trabajan",
+"type": "word",
+"start": 1.148,
+"end": 1.63
+},
+{
+"text": "cuarenta",
+"type": "word",
+"start": 1.667,
+"end": 2.148
+},
+{
+"text": "años",
+"type": "word",
+"start": 2.222,
+"end": 2.593
+},
+{
+"text": "y",
+"type": "word",
+"start": 2.667,
+"end": 2.741
+},
+{
+"text": "siguen",
+"type": "word",
+"start": 2.815,
+"end": 3.037
+},
+{
+"text": "dependiendo",
+"type": "word",
+"start": 3.111,
+"end": 3.63
+},
+{
+"text": "de",
+"type": "word",
+"start": 3.667,
+"end": 3.704
+},
+{
+"text": "su",
+"type": "word",
+"start": 3.778,
+"end": 3.852
+},
+{
+"text": "salario,",
+"type": "word",
+"start": 3.926,
+"end": 4.667
+},
+{
+"text": "mientras",
+"type": "word",
+"start": 4.704,
+"end": 5.037
+},
+{
+"text": "otras",
+"type": "word",
+"start": 5.111,
+"end": 5.481
+},
+{
+"text": "consiguen",
+"type": "word",
+"start": 5.556,
+"end": 5.926
+},
+{
+"text": "que",
+"type": "word",
+"start": 6.0,
+"end": 6.037
+},
+{
+"text": "su",
+"type": "word",
+"start": 6.074,
+"end": 6.148
+},
+{
+"text": "dinero",
+"type": "word",
+"start": 6.222,
+"end": 6.519
+},
+{
+"text": "produzca",
+"type": "word",
+"start": 6.63,
+"end": 7.037
+},
+{
+"text": "más",
+"type": "word",
+"start": 7.111,
+"end": 7.259
+},
+{
+"text": "dinero?",
+"type": "word",
+"start": 7.333,
+"end": 8.0
+},
+{
+"text": "La",
+"type": "word",
+"start": 8.296,
+"end": 8.333
+},
+{
+"text": "diferencia",
+"type": "word",
+"start": 8.37,
+"end": 8.815
+},
+{
+"text": "está",
+"type": "word",
+"start": 8.889,
+"end": 9.012
+},
+{
+"text": "en",
+"type": "word",
+"start": 9.062,
+"end": 9.111
+},
+{
+"text": "algo",
+"type": "word",
+"start": 9.222,
+"end": 9.333
+},
+{
+"text": "que",
+"type": "word",
+"start": 9.444,
+"end": 9.556
+},
+{
+"text": "muchas",
+"type": "word",
+"start": 9.667,
+"end": 9.926
+},
+{
+"text": "personas",
+"type": "word",
+"start": 10.074,
+"end": 10.444
+},
+{
+"text": "nunca",
+"type": "word",
+"start": 10.593,
+"end": 10.889
+},
+{
+"text": "aprenden:",
+"type": "word",
+"start": 10.963,
+"end": 11.852
+},
+{
+"text": "los",
+"type": "word",
+"start": 11.926,
+"end": 12.0
+},
+{
+"text": "activos.",
+"type": "word",
+"start": 12.074,
+"end": 12.926
+},
+{
+"text": "Mientras",
+"type": "word",
+"start": 13.185,
+"end": 13.407
+},
+{
+"text": "algunos",
+"type": "word",
+"start": 13.481,
+"end": 13.778
+},
+{
+"text": "utilizan",
+"type": "word",
+"start": 13.889,
+"end": 14.296
+},
+{
+"text": "todo",
+"type": "word",
+"start": 14.407,
+"end": 14.519
+},
+{
+"text": "su",
+"type": "word",
+"start": 14.593,
+"end": 14.667
+},
+{
+"text": "dinero",
+"type": "word",
+"start": 14.741,
+"end": 14.963
+},
+{
+"text": "para",
+"type": "word",
+"start": 15.037,
+"end": 15.185
+},
+{
+"text": "consumir,",
+"type": "word",
+"start": 15.259,
+"end": 16.074
+},
+{
+"text": "otros",
+"type": "word",
+"start": 16.259,
+"end": 16.444
+},
+{
+"text": "destinan",
+"type": "word",
+"start": 16.519,
+"end": 16.889
+},
+{
+"text": "una",
+"type": "word",
+"start": 16.963,
+"end": 17.111
+},
+{
+"text": "parte",
+"type": "word",
+"start": 17.259,
+"end": 17.481
+},
+{
+"text": "a",
+"type": "word",
+"start": 17.519,
+"end": 17.556
+},
+{
+"text": "construir",
+"type": "word",
+"start": 17.63,
+"end": 18.0
+},
+{
+"text": "negocios,",
+"type": "word",
+"start": 18.111,
+"end": 18.741
+},
+{
+"text": "adquirir",
+"type": "word",
+"start": 18.815,
+"end": 19.111
+},
+{
+"text": "inversiones",
+"type": "word",
+"start": 19.185,
+"end": 19.704
+},
+{
+"text": "y",
+"type": "word",
+"start": 20.0,
+"end": 20.074
+},
+{
+"text": "desarrollar",
+"type": "word",
+"start": 20.148,
+"end": 20.593
+},
+{
+"text": "fuentes",
+"type": "word",
+"start": 20.667,
+"end": 21.037
+},
+{
+"text": "de",
+"type": "word",
+"start": 21.074,
+"end": 21.111
+},
+{
+"text": "ingresos.",
+"type": "word",
+"start": 21.185,
+"end": 21.889
+},
+{
+"text": "No",
+"type": "word",
+"start": 22.148,
+"end": 22.222
+},
+{
+"text": "significa",
+"type": "word",
+"start": 22.333,
+"end": 22.667
+},
+{
+"text": "que",
+"type": "word",
+"start": 22.741,
+"end": 22.815
+},
+{
+"text": "todos",
+"type": "word",
+"start": 22.963,
+"end": 23.185
+},
+{
+"text": "los",
+"type": "word",
+"start": 23.259,
+"end": 23.333
+},
+{
+"text": "ricos",
+"type": "word",
+"start": 23.407,
+"end": 23.63
+},
+{
+"text": "tengan",
+"type": "word",
+"start": 23.704,
+"end": 23.926
+},
+{
+"text": "la",
+"type": "word",
+"start": 24.0,
+"end": 24.074
+},
+{
+"text": "misma",
+"type": "word",
+"start": 24.148,
+"end": 24.296
+},
+{
+"text": "estrategia,",
+"type": "word",
+"start": 24.407,
+"end": 25.185
+},
+{
+"text": "pero",
+"type": "word",
+"start": 25.222,
+"end": 25.333
+},
+{
+"text": "existe",
+"type": "word",
+"start": 25.407,
+"end": 25.704
+},
+{
+"text": "un",
+"type": "word",
+"start": 25.852,
+"end": 26.0
+},
+{
+"text": "principio",
+"type": "word",
+"start": 26.037,
+"end": 26.519
+},
+{
+"text": "fundamental:",
+"type": "word",
+"start": 26.593,
+"end": 27.704
+},
+{
+"text": "construir",
+"type": "word",
+"start": 27.815,
+"end": 28.222
+},
+{
+"text": "patrimonio",
+"type": "word",
+"start": 28.296,
+"end": 28.815
+},
+{
+"text": "requiere",
+"type": "word",
+"start": 28.889,
+"end": 29.259
+},
+{
+"text": "algo",
+"type": "word",
+"start": 29.333,
+"end": 29.63
+},
+{
+"text": "más",
+"type": "word",
+"start": 29.778,
+"end": 29.926
+},
+{
+"text": "que",
+"type": "word",
+"start": 30.0,
+"end": 30.074
+},
+{
+"text": "recibir",
+"type": "word",
+"start": 30.148,
+"end": 30.444
+},
+{
+"text": "un",
+"type": "word",
+"start": 30.519,
+"end": 30.556
+},
+{
+"text": "salario.",
+"type": "word",
+"start": 30.593,
+"end": 31.037
+},
+{
+"text": "Y",
+"type": "word",
+"start": 31.541,
+"end": 31.556
+},
+{
+"text": "aquí",
+"type": "word",
+"start": 31.63,
+"end": 31.815
+},
+{
+"text": "viene",
+"type": "word",
+"start": 31.852,
+"end": 32.074
+},
+{
+"text": "lo",
+"type": "word",
+"start": 32.111,
+"end": 32.148
+},
+{
+"text": "interesante:",
+"type": "word",
+"start": 32.259,
+"end": 33.111
+},
+{
+"text": "no",
+"type": "word",
+"start": 33.185,
+"end": 33.259
+},
+{
+"text": "necesitas",
+"type": "word",
+"start": 33.333,
+"end": 33.778
+},
+{
+"text": "ser",
+"type": "word",
+"start": 33.852,
+"end": 33.926
+},
+{
+"text": "millonario",
+"type": "word",
+"start": 34.0,
+"end": 34.519
+},
+{
+"text": "para",
+"type": "word",
+"start": 34.593,
+"end": 34.667
+},
+{
+"text": "comenzar.",
+"type": "word",
+"start": 34.741,
+"end": 35.37
+},
+{
+"text": "Puedes",
+"type": "word",
+"start": 35.556,
+"end": 35.778
+},
+{
+"text": "empezar",
+"type": "word",
+"start": 35.852,
+"end": 36.148
+},
+{
+"text": "aprendiendo",
+"type": "word",
+"start": 36.222,
+"end": 36.667
+},
+{
+"text": "a",
+"type": "word",
+"start": 36.722,
+"end": 36.778
+},
+{
+"text": "administrar",
+"type": "word",
+"start": 36.833,
+"end": 37.185
+},
+{
+"text": "tus",
+"type": "word",
+"start": 37.222,
+"end": 37.333
+},
+{
+"text": "ingresos,",
+"type": "word",
+"start": 37.407,
+"end": 38.0
+},
+{
+"text": "desarrollando",
+"type": "word",
+"start": 38.074,
+"end": 38.519
+},
+{
+"text": "habilidades",
+"type": "word",
+"start": 38.593,
+"end": 39.185
+},
+{
+"text": "y",
+"type": "word",
+"start": 39.333,
+"end": 39.407
+},
+{
+"text": "construyendo",
+"type": "word",
+"start": 39.481,
+"end": 40.0
+},
+{
+"text": "pequeños",
+"type": "word",
+"start": 40.074,
+"end": 40.593
+},
+{
+"text": "activos",
+"type": "word",
+"start": 40.667,
+"end": 41.037
+},
+{
+"text": "progresivamente.",
+"type": "word",
+"start": 41.111,
+"end": 42.296
+},
+{
+"text": "Ahora",
+"type": "word",
+"start": 42.593,
+"end": 42.815
+},
+{
+"text": "responde",
+"type": "word",
+"start": 42.963,
+"end": 43.407
+},
+{
+"text": "con",
+"type": "word",
+"start": 43.481,
+"end": 43.556
+},
+{
+"text": "sinceridad:",
+"type": "word",
+"start": 43.593,
+"end": 44.593
+},
+{
+"text": "si",
+"type": "word",
+"start": 44.667,
+"end": 44.741
+},
+{
+"text": "mañana",
+"type": "word",
+"start": 44.815,
+"end": 45.037
+},
+{
+"text": "recibieras",
+"type": "word",
+"start": 45.111,
+"end": 45.704
+},
+{
+"text": "un",
+"type": "word",
+"start": 45.778,
+"end": 45.926
+},
+{
+"text": "millón",
+"type": "word",
+"start": 46.037,
+"end": 46.222
+},
+{
+"text": "de",
+"type": "word",
+"start": 46.259,
+"end": 46.296
+},
+{
+"text": "pesos",
+"type": "word",
+"start": 46.37,
+"end": 46.593
+},
+{
+"text": "adicionales,",
+"type": "word",
+"start": 46.667,
+"end": 47.63
+},
+{
+"text": "¿lo",
+"type": "word",
+"start": 47.655,
+"end": 47.704
+},
+{
+"text": "gastarías...",
+"type": "word",
+"start": 47.778,
+"end": 48.741
+},
+{
+"text": "o",
+"type": "word",
+"start": 48.778,
+"end": 48.815
+},
+{
+"text": "intentarías",
+"type": "word",
+"start": 48.889,
+"end": 49.407
+},
+{
+"text": "convertirlo",
+"type": "word",
+"start": 49.481,
+"end": 50.0
+},
+{
+"text": "en",
+"type": "word",
+"start": 50.037,
+"end": 50.074
+},
+{
+"text": "una",
+"type": "word",
+"start": 50.148,
+"end": 50.222
+},
+{
+"text": "fuente",
+"type": "word",
+"start": 50.37,
+"end": 50.593
+},
+{
+"text": "de",
+"type": "word",
+"start": 50.667,
+"end": 50.704
+},
+{
+"text": "ingresos?",
+"type": "word",
+"start": 50.741,
+"end": 51.259
+},
+{
+"text": "Escribe",
+"type": "word",
+"start": 51.704,
+"end": 52.148
+},
+{
+"text": "\"gastar\"",
+"type": "word",
+"start": 52.296,
+"end": 52.963
+},
+{
+"text": "o",
+"type": "word",
+"start": 53.037,
+"end": 53.111
+},
+{
+"text": "\"invertir\"",
+"type": "word",
+"start": 53.259,
+"end": 54.0
+},
+{
+"text": "en",
+"type": "word",
+"start": 54.037,
+"end": 54.074
+},
+{
+"text": "los",
+"type": "word",
+"start": 54.148,
+"end": 54.222
+},
+{
+"text": "comentarios.",
+"type": "word",
+"start": 54.296,
+"end": 55.111
+}
+],
+"tempo": 1.08,
+"trimmed_lead": 0.0
+}
