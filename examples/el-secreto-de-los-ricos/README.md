@@ -6,7 +6,7 @@ Usa fotos reales con licencia libre, la voz de ElevenLabs "Mauricio Viral", y m�
 No usa imágenes ni música generadas con IA.
 
 - Miniatura: [`exports/miniatura.jpg`](exports/miniatura.jpg)
-- El MP4 final (`exports/el-secreto-de-los-ricos.mp4`) no está en el repositorio porque supera el límite de 100 MB de GitHub; se regenera con los pasos de abajo.
+- El MP4 final (`exports/el-secreto-de-los-ricos-youtube.mp4`, unos 330 MiB a ~3,7 Mbps) no está en el repositorio porque supera el límite de 100 MB de GitHub; se regenera con los pasos de abajo. Para más calidad, sube `-maxrate` a 8M.
 
 ## Para publicar en YouTube
 
@@ -86,7 +86,7 @@ python3 tools/render.py
 ```
 
 ```bash
-ffmpeg -y -i build/video.mp4 -i build/mix.wav -map 0:v -map 1:a -c:v libx264 -preset slow -crf 20 -maxrate 10M -bufsize 20M -pix_fmt yuv420p -c:a aac -b:a 256k -shortest -movflags +faststart exports/el-secreto-de-los-ricos.mp4
+ffmpeg -y -i build/video.mp4 -i build/mix.wav -map 0:v -map 1:a -c:v libx264 -preset medium -crf 23 -maxrate 3700k -bufsize 7400k -pix_fmt yuv420p -c:a aac -b:a 160k -shortest -movflags +faststart exports/el-secreto-de-los-ricos-youtube.mp4
 ```
 
 `python3 tools/timeline.py` imprime la duración, los capítulos y los planos demasiado largos o cortos.
