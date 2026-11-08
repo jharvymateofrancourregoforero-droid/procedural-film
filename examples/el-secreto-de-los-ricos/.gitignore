@@ -1,0 +1,4 @@
+build/
+__pycache__/
+# El MP4 final pesa cientos de MB (límite de GitHub: 100 MB); se entrega aparte.
+exports/*.mp4
