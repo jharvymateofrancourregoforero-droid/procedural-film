@@ -3,7 +3,7 @@
 Video de YouTube en 16:9 (1920x1080, 30 fps) de **8:24** para el canal **El Precio del Poder**.
 Usa fotos reales con licencia libre, la voz de ElevenLabs "Mauricio Viral", y música y efectos sintetizados con código. No usa imágenes ni música de IA.
 
-- Miniatura: [`exports/miniatura.jpg`](exports/miniatura.jpg)
+- Miniatura: [`exports/miniatura.jpg`](exports/miniatura.jpg) (fondo de rayos, recorte con contorno, billetes y caja "#1 ???"; `python3 tools/thumbnail_v2.py`). La versión anterior está en `exports/miniatura_v1.jpg`.
 - Títulos, descripción con capítulos, aviso legal, créditos y etiquetas: [`exports/descripcion_youtube.txt`](exports/descripcion_youtube.txt)
 - El MP4 (`exports/top10-adolescentes.mp4`) no se sube al repositorio por su tamaño; se regenera con los pasos de abajo.
 
