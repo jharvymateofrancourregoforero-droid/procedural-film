@@ -385,17 +385,26 @@ def draw_table(frame, g, t, lt, out):
 
 def draw_formula(frame, g, t, out):
     steps = g["steps"]
-    xs = [W / 2 + (i - (len(steps) - 1) / 2) * 440 for i in range(len(steps))]
+    n = len(steps)
+    ims = [cached(("form", label, i == n - 1), lambda: boxed(label, 46, T.YEL if i == n - 1 else T.WHT, pad=(20, 10)))
+           for i, (label, _) in enumerate(steps)]
+    gap = 90  # room for the arrow between boxes
+    total = sum(im.width for im in ims) + gap * (n - 1)
+    sc = min(1.0, 1800 / total)
+    x = W / 2 - total * sc / 2
+    xs = []
+    for im in ims:
+        xs.append(x + im.width * sc / 2)
+        x += (im.width + gap) * sc
     for i, (label, anchor) in enumerate(steps):
         ta = T.at(*anchor)
         if t < ta:
             continue
-        col = T.YEL if i == len(steps) - 1 else T.WHT
-        im = cached(("form", label), lambda: boxed(label, 46, col, pad=(20, 10)))
-        paste(frame, im, xs[i], 110, pop(t - ta, 0.2), -1.5 if i % 2 else 1.5, out)
+        paste(frame, ims[i], xs[i], 110, pop(t - ta, 0.2) * sc, -1.5 if i % 2 else 1.5, out)
         if i:
             ar = cached("arrow", lambda: text_img("→", 64, T.YEL, stroke=6))
-            paste(frame, ar, (xs[i] + xs[i - 1]) / 2, 108, pop(t - ta), 0, out)
+            ax = (xs[i - 1] + ims[i - 1].width * sc / 2 + xs[i] - ims[i].width * sc / 2) / 2
+            paste(frame, ar, ax, 108, pop(t - ta) * sc, 0, out)
 
 
 def draw_chips(frame, g, gi, lt, out):
@@ -667,7 +676,7 @@ def chapter_tag(frame, t):
     for c in T.CARDS:
         if c["kind"] == "chapter" and t >= c["t1"]:
             cur = c
-    if cur is None or t >= T.END_SCREEN:
+    if cur is None or t >= T.END_SCREEN or any(c["t0"] <= t < c["t1"] for c in T.CARDS):
         return
     label = (f"#{cur['n']} · " if cur["n"] else "") + cur["text"].replace("\n", " ")
     im = cached(("tag", label), lambda: boxed(label, 26, T.WHT, pad=(14, 6), path=FONT_BOLD, radius=8))
