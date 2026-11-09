@@ -1,0 +1,786 @@
+{
+ "teen_boy": {
+  "title": "Male Portrait",
+  "creator": "Matt Moloney",
+  "license": "cc0",
+  "license_version": "1.0",
+  "source": "stocksnap",
+  "foreign_landing_url": "https://stocksnap.io/photo/male-portrait-NLX0RAPBGB"
+ },
+ "teen_girl": {
+  "title": "Smiling Woman",
+  "creator": "Candace McDaniel",
+  "license": "cc0",
+  "license_version": "1.0",
+  "source": "stocksnap",
+  "foreign_landing_url": "https://stocksnap.io/photo/smiling-woman-TI7XCCOF5U"
+ },
+ "friends_sunset": {
+  "title": "Friends Hugging",
+  "creator": "Helena Lopes",
+  "license": "cc0",
+  "license_version": "1.0",
+  "source": "stocksnap",
+  "foreign_landing_url": "https://stocksnap.io/photo/friends-hugging-6ZYX4YY4IR"
+ },
+ "skate_feet": {
+  "title": "Skateboard Feet",
+  "creator": "Burst",
+  "license": "cc0",
+  "license_version": "1.0",
+  "source": "stocksnap",
+  "foreign_landing_url": "https://stocksnap.io/photo/skateboard-feet-9WTQGPECAN"
+ },
+ "friends_group": {
+  "title": "Group Friends",
+  "creator": "Helena Lopes",
+  "license": "cc0",
+  "license_version": "1.0",
+  "source": "stocksnap",
+  "foreign_landing_url": "https://stocksnap.io/photo/group-friends-M16QHPDGYJ"
+ },
+ "pig_calc": {
+  "title": "Piggy Bank",
+  "creator": "Artsy Crafty",
+  "license": "cc0",
+  "license_version": "1.0",
+  "source": "stocksnap",
+  "foreign_landing_url": "https://stocksnap.io/photo/piggy-bank-ZLEVSWFWZC"
+ },
+ "neighborhood": {
+  "title": "Neighborhood Houses",
+  "creator": "Qusai Akoud",
+  "license": "cc0",
+  "license_version": "1.0",
+  "source": "stocksnap",
+  "foreign_landing_url": "https://stocksnap.io/photo/neighborhood-houses-E1WPGCLOC3"
+ },
+ "house_blue": {
+  "title": "House Home",
+  "creator": "Binyamin Mellish",
+  "license": "cc0",
+  "license_version": "1.0",
+  "source": "stocksnap",
+  "foreign_landing_url": "https://stocksnap.io/photo/house-home-LJ515CPAKI"
+ },
+ "car_bmw": {
+  "title": "Bmw Car",
+  "creator": "Maxwell Davis",
+  "license": "cc0",
+  "license_version": "1.0",
+  "source": "stocksnap",
+  "foreign_landing_url": "https://stocksnap.io/photo/bmw-car-2A1RBTLS50"
+ },
+ "car_vintage": {
+  "title": "Car Vintage",
+  "creator": "Bady Qb",
+  "license": "cc0",
+  "license_version": "1.0",
+  "source": "stocksnap",
+  "foreign_landing_url": "https://stocksnap.io/photo/car-vintage-QVSPMN4K3S"
+ },
+ "car_red": {
+  "title": "Car Light",
+  "creator": "Bob Richards",
+  "license": "cc0",
+  "license_version": "1.0",
+  "source": "stocksnap",
+  "foreign_landing_url": "https://stocksnap.io/photo/car-light-DWFM34SG2S"
+ },
+ "car_window": {
+  "title": "Auto Window",
+  "creator": "Matt Bango",
+  "license": "cc0",
+  "license_version": "1.0",
+  "source": "stocksnap",
+  "foreign_landing_url": "https://stocksnap.io/photo/auto-window-SEXSRO0DFS"
+ },
+ "moto_red": {
+  "title": "Motorcycle Motorbike",
+  "creator": "Michal Kulesza",
+  "license": "cc0",
+  "license_version": "1.0",
+  "source": "stocksnap",
+  "foreign_landing_url": "https://stocksnap.io/photo/motorcycle-motorbike-1ES1UBPHYX"
+ },
+ "moto_parked": {
+  "title": "Bike Motorcycle",
+  "creator": "Kevin Sequeira",
+  "license": "cc0",
+  "license_version": "1.0",
+  "source": "stocksnap",
+  "foreign_landing_url": "https://stocksnap.io/photo/bike-motorcycle-QBPNSXIFAX"
+ },
+ "moto_street": {
+  "title": "Motorcycle Honda",
+  "creator": "Andrew James Kovalsky",
+  "license": "cc0",
+  "license_version": "1.0",
+  "source": "stocksnap",
+  "foreign_landing_url": "https://stocksnap.io/photo/motorcycle-honda-DWKVL4HHDU"
+ },
+ "water_splash": {
+  "title": "Baby Boy",
+  "creator": "Lubomirkin",
+  "license": "cc0",
+  "license_version": "1.0",
+  "source": "stocksnap",
+  "foreign_landing_url": "https://stocksnap.io/photo/baby-boy-D3SRC48TZW"
+ },
+ "bucket_red": {
+  "title": "Dog Puppy",
+  "creator": "Andrew Branch",
+  "license": "cc0",
+  "license_version": "1.0",
+  "source": "stocksnap",
+  "foreign_landing_url": "https://stocksnap.io/photo/dog-puppy-MHIAORM8Q6"
+ },
+ "dog_walk": {
+  "title": "Walking Dog",
+  "creator": "Matt Bango",
+  "license": "cc0",
+  "license_version": "1.0",
+  "source": "stocksnap",
+  "foreign_landing_url": "https://stocksnap.io/photo/walking-dog-GJJ6TGNARW"
+ },
+ "dog_walk2": {
+  "title": "Animals Dogs",
+  "creator": "Thorn Yang",
+  "license": "cc0",
+  "license_version": "1.0",
+  "source": "stocksnap",
+  "foreign_landing_url": "https://stocksnap.io/photo/animals-dogs-AGEZT9FSY0"
+ },
+ "dog_happy": {
+  "title": "Dog Pet",
+  "creator": "Michal Kulesza",
+  "license": "cc0",
+  "license_version": "1.0",
+  "source": "stocksnap",
+  "foreign_landing_url": "https://stocksnap.io/photo/dog-pet-4T0BQID9GS"
+ },
+ "dog_pug": {
+  "title": "Dog Pug",
+  "creator": "Shopify",
+  "license": "cc0",
+  "license_version": "1.0",
+  "source": "stocksnap",
+  "foreign_landing_url": "https://stocksnap.io/photo/dog-pug-2N0WSXKY4L"
+ },
+ "puppy": {
+  "title": "Dog Puppy",
+  "creator": "Jairo Alzate",
+  "license": "cc0",
+  "license_version": "1.0",
+  "source": "stocksnap",
+  "foreign_landing_url": "https://stocksnap.io/photo/dog-puppy-19KEJ58BB9"
+ },
+ "cat_gray": {
+  "title": "Gray Cat",
+  "creator": "Snapwire",
+  "license": "cc0",
+  "license_version": "1.0",
+  "source": "stocksnap",
+  "foreign_landing_url": "https://stocksnap.io/photo/gray-cat-OU5O7ZUVH7"
+ },
+ "cat_cute": {
+  "title": "Cat Pet",
+  "creator": "Jonas Nilsson Lee",
+  "license": "cc0",
+  "license_version": "1.0",
+  "source": "stocksnap",
+  "foreign_landing_url": "https://stocksnap.io/photo/cat-pet-A2E33C32B9"
+ },
+ "dog_sign": {
+  "title": "Dog Walk",
+  "creator": "Matt Bango",
+  "license": "cc0",
+  "license_version": "1.0",
+  "source": "stocksnap",
+  "foreign_landing_url": "https://stocksnap.io/photo/dog-walk-CSF34KLDWR"
+ },
+ "brownies": {
+  "title": "Chocolate Brownie",
+  "creator": "JESHOOTS.com",
+  "license": "cc0",
+  "license_version": "1.0",
+  "source": "stocksnap",
+  "foreign_landing_url": "https://stocksnap.io/photo/chocolate-brownie-9BD568520F"
+ },
+ "cookies": {
+  "title": "Chocolatechip Cookies",
+  "creator": "JESHOOTS.com",
+  "license": "cc0",
+  "license_version": "1.0",
+  "source": "stocksnap",
+  "foreign_landing_url": "https://stocksnap.io/photo/chocolatechip-cookies-8AAE528F08"
+ },
+ "cookies_cand": {
+  "title": "Cookies Candy",
+  "creator": "Skitter Photo",
+  "license": "cc0",
+  "license_version": "1.0",
+  "source": "stocksnap",
+  "foreign_landing_url": "https://stocksnap.io/photo/cookies-candy-54A30A2537"
+ },
+ "baking_hands": {
+  "title": "Baking Gingerbread",
+  "creator": "Lukasz Dec",
+  "license": "cc0",
+  "license_version": "1.0",
+  "source": "stocksnap",
+  "foreign_landing_url": "https://stocksnap.io/photo/baking-gingerbread-G4F5OK7W8C"
+ },
+ "muffins": {
+  "title": "Muffins Baking",
+  "creator": "Pawel Kadysz",
+  "license": "cc0",
+  "license_version": "1.0",
+  "source": "stocksnap",
+  "foreign_landing_url": "https://stocksnap.io/photo/muffins-baking-G1CSDRLE3K"
+ },
+ "bake_shop": {
+  "title": "Bakery Cakes",
+  "creator": "Lisa Fotios",
+  "license": "cc0",
+  "license_version": "1.0",
+  "source": "stocksnap",
+  "foreign_landing_url": "https://stocksnap.io/photo/bakery-cakes-JBIML0PF2C"
+ },
+ "cake_slice": {
+  "title": "Cake Dessert",
+  "creator": "Adrianna Calvo",
+  "license": "cc0",
+  "license_version": "1.0",
+  "source": "stocksnap",
+  "foreign_landing_url": "https://stocksnap.io/photo/cake-dessert-NYBRCP91R9"
+ },
+ "cupcakes2": {
+  "title": "Cupcakes Dessert",
+  "creator": "Michal Kulesza",
+  "license": "cc0",
+  "license_version": "1.0",
+  "source": "stocksnap",
+  "foreign_landing_url": "https://stocksnap.io/photo/cupcakes-dessert-Z5FHOTPM31"
+ },
+ "phone_sell": {
+  "title": "Mobile Smartphone",
+  "creator": "JESHOOTS.com",
+  "license": "cc0",
+  "license_version": "1.0",
+  "source": "stocksnap",
+  "foreign_landing_url": "https://stocksnap.io/photo/mobile-smartphone-DLITZEAVJJ"
+ },
+ "homework_kid": {
+  "title": "Child Homework",
+  "creator": "Direct Media",
+  "license": "cc0",
+  "license_version": "1.0",
+  "source": "stocksnap",
+  "foreign_landing_url": "https://stocksnap.io/photo/child-homework-GV5GIEXDBA"
+ },
+ "homework_girl": {
+  "title": "Child Kid",
+  "creator": "Martin Vorel",
+  "license": "cc0",
+  "license_version": "1.0",
+  "source": "stocksnap",
+  "foreign_landing_url": "https://stocksnap.io/photo/child-kid-X6077HDEQH"
+ },
+ "study_group": {
+  "title": "People Girls",
+  "creator": "Brodie Vissers",
+  "license": "cc0",
+  "license_version": "1.0",
+  "source": "stocksnap",
+  "foreign_landing_url": "https://stocksnap.io/photo/people-girls-N444PJYUP9"
+ },
+ "laptop_kid": {
+  "title": "Laptop Apple",
+  "creator": "Tran Mau Tri Tam",
+  "license": "cc0",
+  "license_version": "1.0",
+  "source": "stocksnap",
+  "foreign_landing_url": "https://stocksnap.io/photo/laptop-apple-DT4AR42MPF"
+ },
+ "homeschool": {
+  "title": "Home Education",
+  "creator": "Words as Pictures",
+  "license": "cc0",
+  "license_version": "1.0",
+  "source": "stocksnap",
+  "foreign_landing_url": "https://stocksnap.io/photo/home-education-PVOZBIDHGL"
+ },
+ "books_open": {
+  "title": "Open Books",
+  "creator": "Matt Bango",
+  "license": "cc0",
+  "license_version": "1.0",
+  "source": "stocksnap",
+  "foreign_landing_url": "https://stocksnap.io/photo/open-books-HECYA5SP1L"
+ },
+ "grandma_phone": {
+  "title": "Orange People",
+  "creator": "Tiago Muraro",
+  "license": "cc0",
+  "license_version": "1.0",
+  "source": "stocksnap",
+  "foreign_landing_url": "https://stocksnap.io/photo/orange-people-LKGCR45SQV"
+ },
+ "elderly_phone": {
+  "title": "People Elderly",
+  "creator": "Fabrizio Verrecchia",
+  "license": "cc0",
+  "license_version": "1.0",
+  "source": "stocksnap",
+  "foreign_landing_url": "https://stocksnap.io/photo/people-elderly-PF43WRU0XB"
+ },
+ "grandpa": {
+  "title": "People Old",
+  "creator": "O.C. Gonzalez",
+  "license": "cc0",
+  "license_version": "1.0",
+  "source": "stocksnap",
+  "foreign_landing_url": "https://stocksnap.io/photo/people-old-W2QMUQHOGE"
+ },
+ "elderly_care": {
+  "title": "Caregiver Nurse",
+  "creator": "Direct Media",
+  "license": "cc0",
+  "license_version": "1.0",
+  "source": "stocksnap",
+  "foreign_landing_url": "https://stocksnap.io/photo/caregiver-nurse-PMZZ7WLOAJ"
+ },
+ "elderly_cafe": {
+  "title": "Coffee Cafe",
+  "creator": "Jeff Sheldon",
+  "license": "cc0",
+  "license_version": "1.0",
+  "source": "stocksnap",
+  "foreign_landing_url": "https://stocksnap.io/photo/coffee-cafe-8C35014CE3"
+ },
+ "phone_coffee": {
+  "title": "Mobile Smartphone",
+  "creator": "JESHOOTS.com",
+  "license": "cc0",
+  "license_version": "1.0",
+  "source": "stocksnap",
+  "foreign_landing_url": "https://stocksnap.io/photo/mobile-smartphone-DLITZEAVJJ"
+ },
+ "phone_hand": {
+  "title": "Iphone Smartphone",
+  "creator": "Adrianna Calvo",
+  "license": "cc0",
+  "license_version": "1.0",
+  "source": "stocksnap",
+  "foreign_landing_url": "https://stocksnap.io/photo/iphone-smartphone-ODN23L0AC9"
+ },
+ "clothes_rack": {
+  "title": "Fashion Clothes",
+  "creator": "Hannah Morgan",
+  "license": "cc0",
+  "license_version": "1.0",
+  "source": "stocksnap",
+  "foreign_landing_url": "https://stocksnap.io/photo/fashion-clothes-ZN97ZIF3ZU"
+ },
+ "thrift_girl": {
+  "title": "Woman Shopping",
+  "creator": "Burst",
+  "license": "cc0",
+  "license_version": "1.0",
+  "source": "stocksnap",
+  "foreign_landing_url": "https://stocksnap.io/photo/woman-shopping-JN0TSD4UG5"
+ },
+ "hangers": {
+  "title": "Wooden Hangers",
+  "creator": "Matt Bango",
+  "license": "cc0",
+  "license_version": "1.0",
+  "source": "stocksnap",
+  "foreign_landing_url": "https://stocksnap.io/photo/wooden-hangers-LTQSRPX2A4"
+ },
+ "clothes_shop": {
+  "title": "Interior Design",
+  "creator": "Jason Briscoe",
+  "license": "cc0",
+  "license_version": "1.0",
+  "source": "stocksnap",
+  "foreign_landing_url": "https://stocksnap.io/photo/interior-design-OIVWGYI0H5"
+ },
+ "woman_vintage": {
+  "title": "Girl Woman",
+  "creator": "Jakob Owens",
+  "license": "cc0",
+  "license_version": "1.0",
+  "source": "stocksnap",
+  "foreign_landing_url": "https://stocksnap.io/photo/girl-woman-L6G34HYC8X"
+ },
+ "bracelet": {
+  "title": "Bracelet Forest",
+  "creator": "Jonas Svidras",
+  "license": "cc0",
+  "license_version": "1.0",
+  "source": "stocksnap",
+  "foreign_landing_url": "https://stocksnap.io/photo/bracelet-forest-RNURXWM3MN"
+ },
+ "bracelet2": {
+  "title": "Bracelet Accessory",
+  "creator": "Jessica Monte",
+  "license": "cc0",
+  "license_version": "1.0",
+  "source": "stocksnap",
+  "foreign_landing_url": "https://stocksnap.io/photo/bracelet-accessory-M689PZ98VY"
+ },
+ "earrings": {
+  "title": "Earrings Jewelry",
+  "creator": "Petar Petkovski",
+  "license": "cc0",
+  "license_version": "1.0",
+  "source": "stocksnap",
+  "foreign_landing_url": "https://stocksnap.io/photo/earrings-jewelry-VHYI45MIFN"
+ },
+ "handmade": {
+  "title": "Artsandcrafts Artwork",
+  "creator": "Savvas Stavrinos",
+  "license": "cc0",
+  "license_version": "1.0",
+  "source": "stocksnap",
+  "foreign_landing_url": "https://stocksnap.io/photo/artsandcrafts-artwork-FOJAKAHGFY"
+ },
+ "candle_jar": {
+  "title": "Candle Decoration",
+  "creator": "Christian Mackie",
+  "license": "cc0",
+  "license_version": "1.0",
+  "source": "stocksnap",
+  "foreign_landing_url": "https://stocksnap.io/photo/candle-decoration-OVEFAJUOXU"
+ },
+ "candles": {
+  "title": "Dark Candle",
+  "creator": "George Becker",
+  "license": "cc0",
+  "license_version": "1.0",
+  "source": "stocksnap",
+  "foreign_landing_url": "https://stocksnap.io/photo/dark-candle-NXJ0DEK459"
+ },
+ "stickers": {
+  "title": "Stickers Kitchen",
+  "creator": "Dan Gold",
+  "license": "cc0",
+  "license_version": "1.0",
+  "source": "stocksnap",
+  "foreign_landing_url": "https://stocksnap.io/photo/stickers-kitchen-UD4G1NRANC"
+ },
+ "sewing": {
+  "title": "Sewing Machine",
+  "creator": "Clem Onojeghuo",
+  "license": "cc0",
+  "license_version": "1.0",
+  "source": "stocksnap",
+  "foreign_landing_url": "https://stocksnap.io/photo/sewing-machine-3HY6QI9UFT"
+ },
+ "craft_blue": {
+  "title": "Accessories Button",
+  "creator": "Chatree Petjan",
+  "license": "cc0",
+  "license_version": "1.0",
+  "source": "stocksnap",
+  "foreign_landing_url": "https://stocksnap.io/photo/accessories-button-QTCIRVEBNA"
+ },
+ "camera_photo": {
+  "title": "Camera Lens",
+  "creator": "Andrew E Weber",
+  "license": "cc0",
+  "license_version": "1.0",
+  "source": "stocksnap",
+  "foreign_landing_url": "https://stocksnap.io/photo/camera-lens-W7RWLHPKX4"
+ },
+ "videocam": {
+  "title": "Technology Camera",
+  "creator": "Donald Tong",
+  "license": "cc0",
+  "license_version": "1.0",
+  "source": "stocksnap",
+  "foreign_landing_url": "https://stocksnap.io/photo/technology-camera-H0O97B44CT"
+ },
+ "photographer": {
+  "title": "Photographer Camera",
+  "creator": "Leeroy",
+  "license": "cc0",
+  "license_version": "1.0",
+  "source": "stocksnap",
+  "foreign_landing_url": "https://stocksnap.io/photo/photographer-camera-LWKE5NGA77"
+ },
+ "iphone_cam": {
+  "title": "Iphone Camera",
+  "creator": "Jordan McQueen",
+  "license": "cc0",
+  "license_version": "1.0",
+  "source": "stocksnap",
+  "foreign_landing_url": "https://stocksnap.io/photo/iphone-camera-23EP0JGC5E"
+ },
+ "design_mock": {
+  "title": "Mockup Design",
+  "creator": "Jeffrey Betts",
+  "license": "cc0",
+  "license_version": "1.0",
+  "source": "stocksnap",
+  "foreign_landing_url": "https://stocksnap.io/photo/mockup-design-72RTRWFO25"
+ },
+ "swatches": {
+  "title": "Color Swatches",
+  "creator": "Tim Sullivan",
+  "license": "cc0",
+  "license_version": "1.0",
+  "source": "stocksnap",
+  "foreign_landing_url": "https://stocksnap.io/photo/color-swatches-VYSZEM4UWE"
+ },
+ "code": {
+  "title": "Code Coding",
+  "creator": "Lorenzo Cafaro",
+  "license": "cc0",
+  "license_version": "1.0",
+  "source": "stocksnap",
+  "foreign_landing_url": "https://stocksnap.io/photo/code-coding-TIV258VG3N"
+ },
+ "office_work": {
+  "title": "Office Work",
+  "creator": "Thomas Litangen",
+  "license": "cc0",
+  "license_version": "1.0",
+  "source": "stocksnap",
+  "foreign_landing_url": "https://stocksnap.io/photo/office-work-3TJ6NCTIRT"
+ },
+ "barber": {
+  "title": "People Man",
+  "creator": "Christoffer%20Engstr%F6m",
+  "license": "cc0",
+  "license_version": "1.0",
+  "source": "stocksnap",
+  "foreign_landing_url": "https://stocksnap.io/photo/people-man-NR1P43DL18"
+ },
+ "barber2": {
+  "title": "Barbershop Scissors",
+  "creator": "Nick Demou",
+  "license": "cc0",
+  "license_version": "1.0",
+  "source": "stocksnap",
+  "foreign_landing_url": "https://stocksnap.io/photo/barbershop-scissors-R9YRHH2JQY"
+ },
+ "gym": {
+  "title": "Gym Interior",
+  "creator": "Humphrey Muleba",
+  "license": "cc0",
+  "license_version": "1.0",
+  "source": "stocksnap",
+  "foreign_landing_url": "https://stocksnap.io/photo/gym-interior-LNCLN1NE6K"
+ },
+ "bakery_front": {
+  "title": "Vintage Bakery",
+  "creator": "Daria Shevtsova",
+  "license": "cc0",
+  "license_version": "1.0",
+  "source": "stocksnap",
+  "foreign_landing_url": "https://stocksnap.io/photo/vintage-bakery-ZAG3KUMDTW"
+ },
+ "bakery_man": {
+  "title": "People Man",
+  "creator": "Zachary Staines",
+  "license": "cc0",
+  "license_version": "1.0",
+  "source": "stocksnap",
+  "foreign_landing_url": "https://stocksnap.io/photo/people-man-V5ZVS5WP3K"
+ },
+ "insta_phone": {
+  "title": "Instagram Socialmedia",
+  "creator": "Freestocks.org",
+  "license": "cc0",
+  "license_version": "1.0",
+  "source": "stocksnap",
+  "foreign_landing_url": "https://stocksnap.io/photo/instagram-socialmedia-3M1WKORDOL"
+ },
+ "insta_hand": {
+  "title": "Instagram Application",
+  "creator": "Hans Vivek",
+  "license": "cc0",
+  "license_version": "1.0",
+  "source": "stocksnap",
+  "foreign_landing_url": "https://stocksnap.io/photo/instagram-application-YF9TNI3LDG"
+ },
+ "social_media": {
+  "title": "Social Media",
+  "creator": "Words as Pictures",
+  "license": "cc0",
+  "license_version": "1.0",
+  "source": "stocksnap",
+  "foreign_landing_url": "https://stocksnap.io/photo/social-media-VKYWD8XTYJ"
+ },
+ "phone_social": {
+  "title": "Mobile Phone",
+  "creator": "Erik Lucatero",
+  "license": "cc0",
+  "license_version": "1.0",
+  "source": "stocksnap",
+  "foreign_landing_url": "https://stocksnap.io/photo/mobile-phone-ONCJB6GHAY"
+ },
+ "content_creator": {
+  "title": "Words Text",
+  "creator": "Words as Pictures",
+  "license": "cc0",
+  "license_version": "1.0",
+  "source": "stocksnap",
+  "foreign_landing_url": "https://stocksnap.io/photo/words-text-4JOXRHBMTX"
+ },
+ "blog_tiles": {
+  "title": "Blog Text",
+  "creator": "Words as Pictures",
+  "license": "cc0",
+  "license_version": "1.0",
+  "source": "stocksnap",
+  "foreign_landing_url": "https://stocksnap.io/photo/blog-text-AWFJEGJAMS"
+ },
+ "vlog_tiles": {
+  "title": "Words Text",
+  "creator": "Words as Pictures",
+  "license": "cc0",
+  "license_version": "1.0",
+  "source": "stocksnap",
+  "foreign_landing_url": "https://stocksnap.io/photo/words-text-WCIMD7Y1G3"
+ },
+ "youtube_phone": {
+  "title": "Youtube Iphone",
+  "creator": "Freestocks.org",
+  "license": "cc0",
+  "license_version": "1.0",
+  "source": "stocksnap",
+  "foreign_landing_url": "https://stocksnap.io/photo/youtube-iphone-NGXN7V7UDZ"
+ },
+ "camera_girl": {
+  "title": "Camera Girl",
+  "creator": "Elliott Chau",
+  "license": "cc0",
+  "license_version": "1.0",
+  "source": "stocksnap",
+  "foreign_landing_url": "https://stocksnap.io/photo/camera-girl-WJL4RY6N6Z"
+ },
+ "coins": {
+  "title": "Money Coins",
+  "creator": "Negative Space",
+  "license": "cc0",
+  "license_version": "1.0",
+  "source": "stocksnap",
+  "foreign_landing_url": "https://stocksnap.io/photo/money-coins-SDM03P88BO"
+ },
+ "coins2": {
+  "title": "Money Coins",
+  "creator": "Negative Space",
+  "license": "cc0",
+  "license_version": "1.0",
+  "source": "stocksnap",
+  "foreign_landing_url": "https://stocksnap.io/photo/money-coins-E5RETXVN7R"
+ },
+ "cash_hand": {
+  "title": "Bills Money",
+  "creator": "Shopify",
+  "license": "cc0",
+  "license_version": "1.0",
+  "source": "stocksnap",
+  "foreign_landing_url": "https://stocksnap.io/photo/bills-money-11HX337XXR"
+ },
+ "bills": {
+  "title": "Bills Cash",
+  "creator": "Shopify",
+  "license": "cc0",
+  "license_version": "1.0",
+  "source": "stocksnap",
+  "foreign_landing_url": "https://stocksnap.io/photo/bills-cash-RG4XMMLSNU"
+ },
+ "bank_calc": {
+  "title": "Bank Finance",
+  "creator": "Artsy Crafty",
+  "license": "cc0",
+  "license_version": "1.0",
+  "source": "stocksnap",
+  "foreign_landing_url": "https://stocksnap.io/photo/bank-finance-OLL4BSGLBE"
+ },
+ "safety": {
+  "title": "Employee Safety",
+  "creator": "Words as Pictures",
+  "license": "cc0",
+  "license_version": "1.0",
+  "source": "stocksnap",
+  "foreign_landing_url": "https://stocksnap.io/photo/employee-safety-GHBHQAGS1Q"
+ },
+ "mask_tiles": {
+  "title": "Coronavirus Safety",
+  "creator": "Words as Pictures",
+  "license": "cc0",
+  "license_version": "1.0",
+  "source": "stocksnap",
+  "foreign_landing_url": "https://stocksnap.io/photo/coronavirus-safety-G16EUSSEPC"
+ },
+ "student_walk": {
+  "title": "Students Backpack",
+  "creator": "Alex Jones",
+  "license": "cc0",
+  "license_version": "1.0",
+  "source": "stocksnap",
+  "foreign_landing_url": "https://stocksnap.io/photo/students-backpack-38E811B1DF"
+ },
+ "student_desk": {
+  "title": "Student School",
+  "creator": "Tamarcus Brown",
+  "license": "cc0",
+  "license_version": "1.0",
+  "source": "stocksnap",
+  "foreign_landing_url": "https://stocksnap.io/photo/student-school-1KOT8HDPAX"
+ },
+ "student_write": {
+  "title": "Writing Drawing",
+  "creator": "Green Chameleon",
+  "license": "cc0",
+  "license_version": "1.0",
+  "source": "stocksnap",
+  "foreign_landing_url": "https://stocksnap.io/photo/writing-drawing-8Y0EDX4VP9"
+ },
+ "student_think": {
+  "title": "Guy Man",
+  "creator": "Startup Stock Photos",
+  "license": "cc0",
+  "license_version": "1.0",
+  "source": "stocksnap",
+  "foreign_landing_url": "https://stocksnap.io/photo/guy-man-SWRREC0K3A"
+ },
+ "student_lap": {
+  "title": "Working Typing",
+  "creator": "Bench Accounting",
+  "license": "cc0",
+  "license_version": "1.0",
+  "source": "stocksnap",
+  "foreign_landing_url": "https://stocksnap.io/photo/working-typing-0E0M5W9O3V"
+ },
+ "skate_sunset": {
+  "title": "Skateboarder Sunset",
+  "creator": "Willian Was",
+  "license": "cc0",
+  "license_version": "1.0",
+  "source": "stocksnap",
+  "foreign_landing_url": "https://stocksnap.io/photo/skateboarder-sunset-BZJWBPQZOS"
+ },
+ "teens_phones": {
+  "title": "People Phones",
+  "creator": "Candace McDaniel",
+  "license": "cc0",
+  "license_version": "1.0",
+  "source": "stocksnap",
+  "foreign_landing_url": "https://stocksnap.io/photo/people-phones-VVOIIW3CDS"
+ },
+ "burn_money": {
+  "title": "Money Hand",
+  "creator": "Jp Valery",
+  "license": "cc0",
+  "license_version": "1.0",
+  "source": "stocksnap",
+  "foreign_landing_url": "https://stocksnap.io/photo/money-hand-QZTMMLUZOP"
+ }
+}
