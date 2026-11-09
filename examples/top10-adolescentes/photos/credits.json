@@ -782,5 +782,21 @@
   "license_version": "1.0",
   "source": "stocksnap",
   "foreign_landing_url": "https://stocksnap.io/photo/money-hand-QZTMMLUZOP"
+ },
+ "kid_sad": {
+  "title": "Sad Child",
+  "creator": "Direct Media",
+  "license": "cc0",
+  "license_version": "1.0",
+  "source": "stocksnap",
+  "foreign_landing_url": "https://stocksnap.io/photo/sad-child-RK0OIXCHLZ"
+ },
+ "kid_happy": {
+  "title": "Baby Kid",
+  "creator": "Ben White",
+  "license": "cc0",
+  "license_version": "1.0",
+  "source": "stocksnap",
+  "foreign_landing_url": "https://stocksnap.io/photo/baby-kid-WTI11TRZ8F"
  }
 }
