@@ -51,7 +51,7 @@ export const Subtitulos: React.FC<{palabras: Palabra[]; verde?: string[]; rojo?:
       <div style={{
         position: 'absolute', left: z.lados, right: z.lados,
         top: vertical ? height * 0.68 : undefined, bottom: vertical ? undefined : z.abajo + 70,
-        display: 'flex', justifyContent: 'center', flexWrap: 'wrap', gap: `0 ${tam * 0.42}px`,
+        display: 'flex', justifyContent: 'center', flexWrap: 'wrap', gap: `0 ${tam * 0.6}px`,
         transform: `scale(${0.85 + 0.15 * entra}) translateY(${(1 - entra) * 18}px)`,
       }}>
         {g.palabras.map((p, i) => {
@@ -64,7 +64,7 @@ export const Subtitulos: React.FC<{palabras: Palabra[]; verde?: string[]; rojo?:
               fontFamily: fuerte, fontWeight: 900, fontSize: tam, lineHeight: 1.12, textTransform: 'uppercase',
               color: activa ? C.acento : especial ?? C.texto,
               opacity: t >= p.s - 0.02 ? 1 : 0.55,
-              transform: `scale(${activa ? 1 + 0.14 * pop : 1}) rotate(${activa ? (i % 2 ? 1.5 : -1.5) * pop : 0}deg)`,
+              transform: `scale(${activa ? 1 + 0.07 * pop : 1}) rotate(${activa ? (i % 2 ? 1.5 : -1.5) * pop : 0}deg)`,
               display: 'inline-block', ...contorno(vertical ? 14 : 12),
               textShadow: '0 8px 22px rgba(0,0,0,0.7)',
             }}>
