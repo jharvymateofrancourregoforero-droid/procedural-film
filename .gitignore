@@ -20,3 +20,13 @@ client_secret*.json
 STATE.md
 CLAUDE.md
 AGENTS.md
+
+out/
+.env
+__pycache__/
+# Pesados y regenerables gratis en cada sesión (exportar.py los recupera solo):
+public/*/medios/
+public/*/voz.wav
+public/*/voz/cache/*.wav
+# Se versionan a propósito: public/*/voz/cache/*.mp3 y *.json (evitan volver a pagar ElevenLabs),
+# palabras.json, creditos.txt y entregas/ (para descargar los videos desde GitHub).

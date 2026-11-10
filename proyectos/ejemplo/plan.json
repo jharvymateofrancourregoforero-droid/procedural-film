@@ -1,0 +1,63 @@
+{
+  "slug": "ejemplo",
+  "titulo": "Ejemplo de la plantilla (sin voz ni medios)",
+  "formato": "vertical",
+  "aviso": true,
+  "escenas": [
+    {
+      "texto": "Tu CDT te paga intereses, pero igual pierdes plata.",
+      "tipo": "texto",
+      "titulo": "Tu CDT te paga… pero *pierdes* plata"
+    },
+    {
+      "texto": "Un CDT a un año paga cerca del nueve por ciento.",
+      "tipo": "cifra",
+      "titulo": "Tasa CDT a 1 año (ejemplo)",
+      "valor": 9.1,
+      "decimales": 1,
+      "sufijo": " %",
+      "fuente": "dato ilustrativo",
+      "entrada": "zoom"
+    },
+    {
+      "texto": "Y así se movió el dólar este año.",
+      "tipo": "linea",
+      "titulo": "Dólar en Colombia (ejemplo)",
+      "prefijo": "$",
+      "datos": [
+        {"etiqueta": "Ene", "valor": 4380},
+        {"etiqueta": "Mar", "valor": 4150},
+        {"etiqueta": "May", "valor": 4210},
+        {"etiqueta": "Jul", "valor": 4020},
+        {"etiqueta": "Sep", "valor": 3950},
+        {"etiqueta": "Nov", "valor": 3880}
+      ],
+      "fuente": "dato ilustrativo"
+    },
+    {
+      "texto": "¿Dónde rinde más un millón de pesos?",
+      "tipo": "barras",
+      "titulo": "Rendimiento anual (ejemplo)",
+      "sufijo": " %",
+      "decimales": 1,
+      "datos": [
+        {"etiqueta": "Cuenta de ahorros", "valor": 1.5},
+        {"etiqueta": "CDT", "valor": 9.1},
+        {"etiqueta": "Fondo de inversión", "valor": 7.4}
+      ],
+      "fuente": "dato ilustrativo",
+      "entrada": "desliza"
+    },
+    {
+      "texto": "La diferencia real es esta.",
+      "tipo": "comparar",
+      "a": {"etiqueta": "CDT", "valor": "9,1 %"},
+      "b": {"etiqueta": "Inflación", "valor": "5,2 %"}
+    },
+    {
+      "texto": "Sin clip, una escena media usa el fondo de la marca.",
+      "tipo": "media",
+      "titulo": "Aquí va un clip de Pexels o Pixabay"
+    }
+  ]
+}
