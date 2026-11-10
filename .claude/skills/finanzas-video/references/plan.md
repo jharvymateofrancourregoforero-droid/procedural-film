@@ -83,3 +83,18 @@ Los campos marcados con (auto) los rellenan los scripts: **no los escribas**.
 - `musica`: una pista de `public/musica/`. Elige según el tono del video y no repitas la misma en videos consecutivos.
 - `aviso`: muestra "Contenido educativo. No es asesoría financiera." al final.
 - `resaltar_verde` / `resaltar_rojo`: palabras que se colorean en los subtítulos (las cifras habladas van en dorado automáticamente).
+
+## Estilo viral (plantilla actual)
+La plantilla usa titulares en Anton, subtítulos en Montserrat Black que saltan palabra por palabra, transiciones de golpe/barrido, barra de progreso con marcas de capítulo y etiqueta del capítulo actual.
+
+Tipos extra de escena:
+| `tipo` | Campos | Uso |
+|---|---|---|
+| `intro` | `titulo` (la última palabra va en amarillo), `subtitulo` | Tarjeta de título tras el gancho en frío (primeros 30–45 s). |
+| `capitulo` | `numero` (0 = sin número), `titulo`, `subtitulo`, `etiqueta` (por defecto "CIFRA #n") | Abre cada bloque del video largo. |
+
+Campos extra:
+- Escena: `voz` (`"A"` narrador, `"B"` segunda voz con las preguntas del público) y `tag` (emoción para ElevenLabs v4: `[excited]`, `[whispers]`, `[dramatically]`…). El `texto` nunca lleva las etiquetas.
+- Plan: `voces` (`{"A": voice_id, "B": voice_id}`), `sfx` (`{"whoosh", "pop", "impacto", "caja"}` → rutas en `public/sfx/`) y `volumen_sfx`. Con `sfx`, la plantilla pone efectos solos según el tipo de escena (impacto en intro/capítulos, caja registradora en cifras con `$`, pop en cifras, whoosh en texto, gráficas y una de cada tres imágenes), con al menos 1,2 s entre efectos.
+
+Estructura que mejor retiene en 16:9: gancho en frío con la cifra más dolorosa → pregunta de la voz B → promesa ("5 cifras, 5 decisiones, 1 plan") → `intro` → capítulos con `capitulo`, cada uno cerrando con "¿Qué hago con esto?" (3 acciones) y un adelanto del siguiente → resumen → plan → CTA.
