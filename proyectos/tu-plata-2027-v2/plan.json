@@ -1,0 +1,1889 @@
+{
+  "slug": "tu-plata-2027-v2",
+  "titulo": "Tu plata en 2027: las 5 cifras que lo deciden (versión viral)",
+  "formato": "horizontal",
+  "estilo": "viral",
+  "voces": {
+    "A": "OwXM764IiSDeqYNU1rbL",
+    "B": "yfUfwZTRubVrsUZWqzwp"
+  },
+  "aviso": true,
+  "resaltar_verde": [
+    "gana",
+    "ganas",
+    "crece",
+    "ahorrar",
+    "positivo",
+    "barato",
+    "bien"
+  ],
+  "resaltar_rojo": [
+    "pierdes",
+    "perdiste",
+    "perdiendo",
+    "perdió",
+    "caro",
+    "caras",
+    "deuda",
+    "deudas",
+    "alerta",
+    "menos",
+    "flaca"
+  ],
+  "escenas": [
+    {
+      "texto": "Si tienes plata guardada en el banco… este año perdiste. Aunque no hayas tocado ni un peso.",
+      "tipo": "texto",
+      "voz": "A",
+      "titulo": "Tu plata guardada *PERDIÓ*",
+      "tag": "[dramatically]",
+      "inicio": 0.0,
+      "fin": 6.48
+    },
+    {
+      "texto": "Un millón de pesos de hace un año… hoy compra lo mismo que novecientos cuarenta mil.",
+      "tipo": "cifra",
+      "voz": "A",
+      "valor": 940734,
+      "titulo": "Lo que compra hoy tu $1.000.000",
+      "fuente": "Cálculo con IPC anual del DANE (6,30 %)",
+      "prefijo": "$",
+      "tono": "negativo",
+      "tag": "[seriously]",
+      "inicio": 6.87,
+      "fin": 11.5
+    },
+    {
+      "texto": "Espera, espera… ¿cómo así? Si el dólar bajó.",
+      "tipo": "media",
+      "voz": "B",
+      "src": "tu-plata-2027/mis/e028.jpg",
+      "tag": "[confused]",
+      "inicio": 11.89,
+      "fin": 15.17
+    },
+    {
+      "texto": "¡Exacto! El dólar bajó casi trece por ciento este año… y el mercado no bajó ni un peso.",
+      "tipo": "media",
+      "voz": "A",
+      "src": "tu-plata-2027/mis/e039.jpg",
+      "fuente": "Superfinanciera vía datos.gov.co",
+      "tag": "[excited]",
+      "inicio": 15.56,
+      "fin": 21.25
+    },
+    {
+      "texto": "Y eso no es lo más loco.",
+      "tipo": "media",
+      "voz": "A",
+      "src": "tu-plata-2027/mis/e011.jpg",
+      "tag": "[mischievously]",
+      "inicio": 21.64,
+      "fin": 23.39
+    },
+    {
+      "texto": "Una de las decisiones que más mueve tu bolsillo… se definió por un solo voto.",
+      "tipo": "texto",
+      "voz": "A",
+      "titulo": "Se decidió por *UN SOLO VOTO*",
+      "tag": "[whispers]",
+      "inicio": 23.78,
+      "fin": 28.83
+    },
+    {
+      "texto": "Ajá… ¿y eso a mí en qué me afecta?",
+      "tipo": "media",
+      "voz": "B",
+      "src": "tu-plata-2027/mis/e037.jpg",
+      "tag": "[skeptical]",
+      "inicio": 29.08,
+      "fin": 31.31
+    },
+    {
+      "texto": "En tu crédito. En tu tarjeta. En tu sueldo. Y en lo que pagas cada vez que vas al mercado.",
+      "tipo": "media",
+      "voz": "A",
+      "src": "tu-plata-2027/mis/e082.jpg",
+      "tag": "[confident]",
+      "inicio": 31.85,
+      "fin": 37.21
+    },
+    {
+      "texto": "Cinco cifras. Cinco decisiones. Y al final, un plan para que dos mil veintisiete no te agarre desprevenido.",
+      "tipo": "texto",
+      "voz": "A",
+      "titulo": "5 cifras · 5 decisiones · *1 plan*",
+      "tag": "[excited]",
+      "inicio": 37.6,
+      "fin": 44.19
+    },
+    {
+      "texto": "Esto es… tu plata en dos mil veintisiete.",
+      "tipo": "intro",
+      "voz": "A",
+      "titulo": "TU PLATA 2027",
+      "subtitulo": "Las 5 cifras que lo deciden",
+      "tag": "[dramatically]",
+      "inicio": 44.93,
+      "fin": 47.936
+    },
+    {
+      "texto": "Cifra número uno. La inflación.",
+      "tipo": "capitulo",
+      "voz": "A",
+      "numero": 1,
+      "titulo": "LA INFLACIÓN",
+      "subtitulo": "6,30 % anual",
+      "tag": "[dramatically]",
+      "inicio": 49.42,
+      "fin": 52.14
+    },
+    {
+      "texto": "Ok, pero explícamelo fácil. ¿Qué es la inflación?",
+      "tipo": "media",
+      "voz": "B",
+      "src": "tu-plata-2027/mis/e009.jpg",
+      "tag": "[curious]",
+      "inicio": 53.18,
+      "fin": 56.05
+    },
+    {
+      "texto": "Facilito: es cuánto más caro está todo, comparado con hace un año.",
+      "tipo": "media",
+      "voz": "A",
+      "src": "tu-plata-2027/mis/e018.jpg",
+      "tag": "[warmly]",
+      "inicio": 56.59,
+      "fin": 61.08
+    },
+    {
+      "texto": "Y en octubre, según el DANE, llegó a seis coma treinta por ciento.",
+      "tipo": "cifra",
+      "voz": "A",
+      "valor": 6.3,
+      "titulo": "Inflación anual · octubre 2026",
+      "fuente": "DANE, IPC oct. 2026",
+      "decimales": 2,
+      "sufijo": " %",
+      "tono": "negativo",
+      "tag": "[seriously]",
+      "inicio": 61.47,
+      "fin": 65.72
+    },
+    {
+      "texto": "Traducido: lo que te costaba cien mil pesos, hoy te cuesta unos ciento seis mil trescientos.",
+      "tipo": "media",
+      "voz": "A",
+      "src": "tu-plata-2027/mis/e012.jpg",
+      "fuente": "Cálculo con IPC anual del DANE (6,30 %)",
+      "inicio": 65.99,
+      "fin": 71.49
+    },
+    {
+      "texto": "¿Seis mil pesos más? Eso no suena tan grave.",
+      "tipo": "media",
+      "voz": "B",
+      "src": "tu-plata-2027/mis/e066.jpg",
+      "tag": "[surprised]",
+      "inicio": 71.76,
+      "fin": 74.73
+    },
+    {
+      "texto": "Eso pensamos todos. Pero mira la dirección.",
+      "tipo": "texto",
+      "voz": "A",
+      "titulo": "Mira la *DIRECCIÓN*",
+      "tag": "[laughs softly]",
+      "inicio": 75.12,
+      "fin": 77.96
+    },
+    {
+      "texto": "Hace un año estaba en cinco coma cincuenta y uno. Ahora, en seis coma treinta. No está bajando: está subiendo.",
+      "tipo": "barras",
+      "voz": "A",
+      "titulo": "Inflación anual en Colombia",
+      "datos": [
+        {
+          "etiqueta": "Oct 2025",
+          "valor": 5.51
+        },
+        {
+          "etiqueta": "Sep 2026",
+          "valor": 6.29
+        },
+        {
+          "etiqueta": "Oct 2026",
+          "valor": 6.3
+        }
+      ],
+      "fuente": "DANE",
+      "destacar": 2,
+      "tono": "negativo",
+      "decimales": 2,
+      "sufijo": " %",
+      "inicio": 78.35,
+      "fin": 85.22
+    },
+    {
+      "texto": "Y en lo que va del año, los precios ya subieron cinco coma noventa y cuatro por ciento. Con dos meses todavía por delante.",
+      "tipo": "cifra",
+      "voz": "A",
+      "valor": 5.94,
+      "titulo": "Inflación en lo corrido de 2026",
+      "fuente": "DANE, IPC oct. 2026",
+      "decimales": 2,
+      "sufijo": " %",
+      "tono": "negativo",
+      "inicio": 85.47,
+      "fin": 92.29
+    },
+    {
+      "texto": "Y lo que más subió no fueron lujos.",
+      "tipo": "media",
+      "voz": "A",
+      "src": "tu-plata-2027/mis/e144.jpg",
+      "tag": "[seriously]",
+      "inicio": 92.68,
+      "fin": 94.87
+    },
+    {
+      "texto": "Según el DANE, lo que más empujó fueron los restaurantes y hoteles…",
+      "tipo": "media",
+      "voz": "A",
+      "src": "tu-plata-2027/mis/e021.jpg",
+      "fuente": "DANE, IPC oct. 2026",
+      "inicio": 95.26,
+      "fin": 98.71
+    },
+    {
+      "texto": "…la educación, la salud y los alimentos.",
+      "tipo": "media",
+      "voz": "A",
+      "src": "tu-plata-2027/mis/e022.jpg",
+      "fuente": "DANE, IPC oct. 2026",
+      "inicio": 99.1,
+      "fin": 101.53
+    },
+    {
+      "texto": "Comer. Estudiar. Cuidarte. Justo lo que no puedes dejar de pagar.",
+      "tipo": "texto",
+      "voz": "A",
+      "titulo": "Comer. Estudiar. *Cuidarte.*",
+      "fuente": "DANE, IPC oct. 2026",
+      "tag": "[dramatically]",
+      "inicio": 101.92,
+      "fin": 106.75
+    },
+    {
+      "texto": "O sea que si mi sueldo se va en mercado, arriendo y bus…",
+      "tipo": "media",
+      "voz": "B",
+      "src": "tu-plata-2027/mis/e025.jpg",
+      "tag": "[thoughtful]",
+      "inicio": 107.14,
+      "fin": 111.05
+    },
+    {
+      "texto": "Tu inflación personal puede ser más alta que el promedio. Sí. Y casi nadie la calcula.",
+      "tipo": "media",
+      "voz": "A",
+      "src": "tu-plata-2027/mis/e024.jpg",
+      "inicio": 111.3,
+      "fin": 116.43
+    },
+    {
+      "texto": "Hagamos un ejemplo. Imagina a Camila: gana dos millones al mes, y casi todo se le va en lo básico.",
+      "tipo": "media",
+      "voz": "A",
+      "src": "tu-plata-2027/mis/e153.jpg",
+      "tag": "[warmly]",
+      "inicio": 116.68,
+      "fin": 122.8
+    },
+    {
+      "texto": "Si sus gastos suben al ritmo de la inflación, necesita unos ciento veintiséis mil pesos más cada mes, solo para vivir igual.",
+      "tipo": "cifra",
+      "voz": "A",
+      "valor": 126000,
+      "titulo": "Lo que necesita de más Camila cada mes",
+      "fuente": "Ejemplo con $2.000.000 e IPC del DANE (6,30 %)",
+      "prefijo": "$",
+      "tono": "negativo",
+      "inicio": 123.19,
+      "fin": 130.34
+    },
+    {
+      "texto": "¿Y si a Camila no le suben el sueldo?",
+      "tipo": "media",
+      "voz": "B",
+      "src": "tu-plata-2027/mis/e120.jpg",
+      "tag": "[worried]",
+      "inicio": 130.73,
+      "fin": 132.39
+    },
+    {
+      "texto": "Entonces cada mes vive con un poquito menos. Sin darse cuenta. Así funciona la inflación: en silencio.",
+      "tipo": "media",
+      "voz": "A",
+      "src": "tu-plata-2027/mis/e132.jpg",
+      "tag": "[softly]",
+      "inicio": 132.93,
+      "fin": 139.98
+    },
+    {
+      "texto": "Para ponerlo en perspectiva: el Banco de la República apunta a una inflación del tres por ciento.",
+      "tipo": "cifra",
+      "voz": "A",
+      "valor": 3,
+      "titulo": "Meta de inflación",
+      "fuente": "Banco de la República",
+      "sufijo": " %",
+      "subtitulo": "Rango tolerado: 2 % a 4 %",
+      "tono": "neutro",
+      "inicio": 140.37,
+      "fin": 145.43
+    },
+    {
+      "texto": "Hoy estamos a más del doble.",
+      "tipo": "texto",
+      "voz": "A",
+      "titulo": "Más del *DOBLE* de la meta",
+      "fuente": "DANE / Banco de la República",
+      "tag": "[excited]",
+      "inicio": 145.7,
+      "fin": 147.76
+    },
+    {
+      "texto": "Y aquí va un truco que pocos conocen: la regla del setenta y dos.",
+      "tipo": "media",
+      "voz": "A",
+      "src": "tu-plata-2027/mis/e032.jpg",
+      "tag": "[mischievously]",
+      "inicio": 148.15,
+      "fin": 152.73
+    },
+    {
+      "texto": "Divides setenta y dos entre la inflación… y te dice en cuántos años se duplican los precios.",
+      "tipo": "media",
+      "voz": "A",
+      "src": "tu-plata-2027/mis/e006.jpg",
+      "inicio": 153.0,
+      "fin": 158.09
+    },
+    {
+      "texto": "Con seis coma tres, los precios se duplicarían en poco más de once años.",
+      "tipo": "cifra",
+      "voz": "A",
+      "valor": 11.4,
+      "titulo": "Años para que los precios se dupliquen",
+      "fuente": "Cálculo propio: 72 ÷ 6,3 (IPC del DANE)",
+      "decimales": 1,
+      "sufijo": " años",
+      "tono": "negativo",
+      "inicio": 158.48,
+      "fin": 162.77
+    },
+    {
+      "texto": "¿Once años? O sea que lo que hoy me cuesta un millón…",
+      "tipo": "media",
+      "voz": "B",
+      "src": "tu-plata-2027/mis/e132.jpg",
+      "tag": "[shocked]",
+      "inicio": 163.16,
+      "fin": 166.83
+    },
+    {
+      "texto": "…en poco más de once años te costaría dos millones. Si la inflación sigue a este ritmo.",
+      "tipo": "cifra",
+      "voz": "A",
+      "valor": 2000000,
+      "titulo": "Lo que hoy cuesta $1.000.000",
+      "fuente": "Regla del 72 con IPC del DANE (6,30 %)",
+      "prefijo": "$",
+      "subtitulo": "en ~11 años, si la inflación sigue en 6,3 %",
+      "tono": "negativo",
+      "tag": "[dramatically]",
+      "inicio": 167.08,
+      "fin": 172.53
+    },
+    {
+      "texto": "La regla es simple: si tu plata rinde menos de seis coma tres por ciento al año, está perdiendo.",
+      "tipo": "texto",
+      "voz": "A",
+      "titulo": "Rinde menos de 6,3 % = *PIERDES*",
+      "fuente": "DANE",
+      "tag": "[seriously]",
+      "inicio": 172.92,
+      "fin": 178.51
+    },
+    {
+      "texto": "Aunque el número en tu cuenta suba. Guarda esa cifra, que la vamos a necesitar más adelante.",
+      "tipo": "media",
+      "voz": "A",
+      "src": "tu-plata-2027/mis/e028.jpg",
+      "inicio": 178.9,
+      "fin": 183.77
+    },
+    {
+      "texto": "¿Y qué hago con esto? Tres cosas que puedes hacer esta misma semana.",
+      "tipo": "texto",
+      "voz": "A",
+      "titulo": "¿Qué hago *CON ESTO*?",
+      "tag": "[excited]",
+      "inicio": 184.16,
+      "fin": 188.13
+    },
+    {
+      "texto": "Una: compara precios del mercado. Las marcas propias de los supermercados suelen costar menos por lo mismo.",
+      "tipo": "media",
+      "voz": "A",
+      "src": "tu-plata-2027/mis/e144.jpg",
+      "inicio": 188.52,
+      "fin": 194.19
+    },
+    {
+      "texto": "Dos: revisa tus suscripciones y cobros automáticos. Esa plata que se va sola, mes a mes, es inflación que sí puedes frenar.",
+      "tipo": "media",
+      "voz": "A",
+      "src": "tu-plata-2027/mis/e066.jpg",
+      "inicio": 194.58,
+      "fin": 202.21
+    },
+    {
+      "texto": "Y tres: si un pago se puede negociar, como el plan del celular o el internet, llama y pregunta. Muchas veces bajan la tarifa solo por pedirlo.",
+      "tipo": "media",
+      "voz": "A",
+      "src": "tu-plata-2027/mis/e130.jpg",
+      "inicio": 202.6,
+      "fin": 210.603
+    },
+    {
+      "texto": "Listo. Pero ahora explícame lo del dólar, porque eso no me cuadra.",
+      "tipo": "media",
+      "voz": "B",
+      "src": "tu-plata-2027/mis/e037.jpg",
+      "tag": "[curious]",
+      "inicio": 210.993,
+      "fin": 214.493
+    },
+    {
+      "texto": "Y ahí está la trampa número dos. Porque el dólar bajó… y aun así nada se siente más barato.",
+      "tipo": "media",
+      "voz": "A",
+      "src": "tu-plata-2027/mis/e039.jpg",
+      "tag": "[mischievously]",
+      "inicio": 214.883,
+      "fin": 220.833
+    },
+    {
+      "texto": "Cifra número dos. El dólar.",
+      "tipo": "capitulo",
+      "voz": "A",
+      "numero": 2,
+      "titulo": "EL DÓLAR",
+      "subtitulo": "−13 % desde diciembre",
+      "tag": "[dramatically]",
+      "inicio": 221.573,
+      "fin": 224.293
+    },
+    {
+      "texto": "Mira esta gráfica. En diciembre, el dólar estaba cerca de tres mil setecientos cincuenta y siete pesos.",
+      "tipo": "linea",
+      "voz": "A",
+      "titulo": "El dólar en 2026",
+      "prefijo": "$",
+      "tono": "acento",
+      "fuente": "Superfinanciera vía datos.gov.co",
+      "datos": [
+        {
+          "etiqueta": "Dic 25",
+          "valor": 3757.0
+        },
+        {
+          "etiqueta": "Ene 26",
+          "valor": 3670.0
+        },
+        {
+          "etiqueta": "Feb 26",
+          "valor": 3766.0
+        },
+        {
+          "etiqueta": "Mar 26",
+          "valor": 3670.0
+        },
+        {
+          "etiqueta": "Abr 26",
+          "valor": 3622.0
+        },
+        {
+          "etiqueta": "May 26",
+          "valor": 3678.0
+        },
+        {
+          "etiqueta": "Jun 26",
+          "valor": 3444.0
+        },
+        {
+          "etiqueta": "Jul 26",
+          "valor": 3132.0
+        },
+        {
+          "etiqueta": "Ago 26",
+          "valor": 3203.0
+        },
+        {
+          "etiqueta": "Sep 26",
+          "valor": 3341.0
+        },
+        {
+          "etiqueta": "Oct 26",
+          "valor": 3183.0
+        },
+        {
+          "etiqueta": "Nov 26",
+          "valor": 3270.0
+        }
+      ],
+      "inicio": 225.333,
+      "fin": 231.103
+    },
+    {
+      "texto": "A mitad de año se desplomó. En julio rondó los tres mil ciento treinta y dos.",
+      "tipo": "media",
+      "voz": "A",
+      "src": "tu-plata-2027/mis/e016.jpg",
+      "fuente": "Superfinanciera vía datos.gov.co",
+      "tag": "[excited]",
+      "inicio": 231.493,
+      "fin": 236.683
+    },
+    {
+      "texto": "Y hoy, diez de noviembre, está en tres mil doscientos sesenta y nueve pesos.",
+      "tipo": "cifra",
+      "voz": "A",
+      "valor": 3269.88,
+      "titulo": "Dólar hoy (TRM)",
+      "fuente": "Superfinanciera vía datos.gov.co",
+      "prefijo": "$",
+      "decimales": 2,
+      "subtitulo": "10 de noviembre de 2026",
+      "tono": "acento",
+      "inicio": 236.953,
+      "fin": 241.293
+    },
+    {
+      "texto": "Casi trece por ciento más barato que en diciembre.",
+      "tipo": "texto",
+      "voz": "A",
+      "titulo": "*−13 %* desde diciembre",
+      "fuente": "Cálculo con TRM de Superfinanciera",
+      "tag": "[excited]",
+      "inicio": 241.683,
+      "fin": 244.533
+    },
+    {
+      "texto": "¡Uy! Entonces es buen momento para viajar.",
+      "tipo": "media",
+      "voz": "B",
+      "src": "tu-plata-2027/mis/e064.jpg",
+      "tag": "[excited]",
+      "inicio": 244.923,
+      "fin": 247.433
+    },
+    {
+      "texto": "Para viajar, o para pagar una deuda en dólares, sí: te sale más barato que hace un año.",
+      "tipo": "media",
+      "voz": "A",
+      "src": "tu-plata-2027/mis/e048.jpg",
+      "tag": "[laughs]",
+      "inicio": 247.683,
+      "fin": 252.633
+    },
+    {
+      "texto": "Pero ojo. En la última semana rebotó cerca de tres coma cuatro por ciento, justo después de las elecciones de mitad de mandato en Estados Unidos.",
+      "tipo": "media",
+      "voz": "A",
+      "src": "tu-plata-2027/mis/e047.jpg",
+      "fuente": "Superfinanciera / Portafolio, nov. 2026",
+      "tag": "[seriously]",
+      "inicio": 253.023,
+      "fin": 260.793
+    },
+    {
+      "texto": "Lo que pasa allá… se siente acá.",
+      "tipo": "texto",
+      "voz": "A",
+      "titulo": "Lo que pasa allá *se siente acá*",
+      "tag": "[dramatically]",
+      "inicio": 261.183,
+      "fin": 263.313
+    },
+    {
+      "texto": "Además, las tasas altas en Colombia atraen inversionistas de afuera que traen dólares. Guarda esa pista: vuelve en la cifra tres.",
+      "tipo": "media",
+      "voz": "A",
+      "src": "tu-plata-2027/mis/e004.jpg",
+      "tag": "[mischievously]",
+      "inicio": 263.703,
+      "fin": 271.293
+    },
+    {
+      "texto": "Bueno, pero si el dólar está barato… ¿por qué el mercado sigue igual de caro?",
+      "tipo": "media",
+      "voz": "B",
+      "src": "tu-plata-2027/mis/e144.jpg",
+      "tag": "[frustrated]",
+      "inicio": 271.563,
+      "fin": 275.883
+    },
+    {
+      "texto": "Esa es LA pregunta. Y tiene tres respuestas.",
+      "tipo": "texto",
+      "voz": "A",
+      "titulo": "*3 RAZONES*",
+      "tag": "[excited]",
+      "inicio": 276.423,
+      "fin": 279.123
+    },
+    {
+      "texto": "Uno: los precios suben en ascensor… y bajan por las escaleras. A pocos comerciantes les gusta bajar precios.",
+      "tipo": "media",
+      "voz": "A",
+      "src": "tu-plata-2027/mis/e050.jpg",
+      "tag": "[laughs softly]",
+      "inicio": 279.513,
+      "fin": 286.103
+    },
+    {
+      "texto": "Muchos compraron su inventario con el dólar caro… y lo siguen vendiendo a ese precio.",
+      "tipo": "media",
+      "voz": "A",
+      "src": "tu-plata-2027/mis/e053.jpg",
+      "inicio": 286.353,
+      "fin": 291.013
+    },
+    {
+      "texto": "Dos: mucho de lo que pagas no viene de afuera. El arriendo, el corte de pelo, el almuerzo.",
+      "tipo": "media",
+      "voz": "A",
+      "src": "tu-plata-2027/mis/e055.jpg",
+      "inicio": 291.403,
+      "fin": 297.193
+    },
+    {
+      "texto": "Eso depende de costos locales. Y justo eso fue lo que más subió.",
+      "tipo": "media",
+      "voz": "A",
+      "src": "tu-plata-2027/mis/e056.jpg",
+      "fuente": "DANE, IPC oct. 2026",
+      "inicio": 297.583,
+      "fin": 301.773
+    },
+    {
+      "texto": "Por eso puedes tener un dólar más barato… y una inflación más alta. Al mismo tiempo.",
+      "tipo": "comparar",
+      "voz": "A",
+      "a": {
+        "etiqueta": "Dólar desde diciembre",
+        "valor": "−13 %"
+      },
+      "b": {
+        "etiqueta": "Inflación anual",
+        "valor": "6,30 %"
+      },
+      "fuente": "Superfinanciera / DANE",
+      "inicio": 302.163,
+      "fin": 307.153
+    },
+    {
+      "texto": "Y tres: el dólar no se queda quieto. Lo que bajó en meses puede subir en semanas.",
+      "tipo": "media",
+      "voz": "A",
+      "src": "tu-plata-2027/mis/e058.jpg",
+      "tag": "[seriously]",
+      "inicio": 307.543,
+      "fin": 313.123
+    },
+    {
+      "texto": "Y un detalle más: en la casa de cambio no te dan la tasa oficial. Te compran más barato… y te venden más caro.",
+      "tipo": "comparar",
+      "voz": "A",
+      "a": {
+        "etiqueta": "Te compran a",
+        "valor": "$3.130"
+      },
+      "b": {
+        "etiqueta": "Te venden a",
+        "valor": "$3.210"
+      },
+      "fuente": "dolarhoy.co, casas de cambio, 8 nov. 2026",
+      "inicio": 313.513,
+      "fin": 320.143
+    },
+    {
+      "texto": "Y ahora, lo que casi nadie te dice del dólar barato.",
+      "tipo": "texto",
+      "voz": "A",
+      "titulo": "Lo que *NADIE TE DICE*",
+      "tag": "[whispers]",
+      "inicio": 320.533,
+      "fin": 323.763
+    },
+    {
+      "texto": "Si trabajas para afuera, o te pagan en dólares… hoy recibes menos pesos por el mismo trabajo.",
+      "tipo": "media",
+      "voz": "A",
+      "src": "tu-plata-2027/mis/e061.jpg",
+      "inicio": 324.153,
+      "fin": 329.383
+    },
+    {
+      "texto": "Por cada mil dólares, son casi medio millón de pesos menos que en diciembre.",
+      "tipo": "cifra",
+      "voz": "A",
+      "valor": 487000,
+      "titulo": "Pesos de menos por cada US$1.000",
+      "fuente": "Cálculo con TRM de Superfinanciera (dic. 2025 vs. nov. 2026)",
+      "prefijo": "$",
+      "tono": "negativo",
+      "tag": "[dramatically]",
+      "inicio": 329.773,
+      "fin": 334.303
+    },
+    {
+      "texto": "¡Y la plata que me manda mi tía desde Estados Unidos también llega más flaca!",
+      "tipo": "media",
+      "voz": "B",
+      "src": "tu-plata-2027/mis/e130.jpg",
+      "tag": "[frustrated]",
+      "inicio": 334.693,
+      "fin": 338.423
+    },
+    {
+      "texto": "Exacto. Menos pesos por cada dólar. El dólar barato tiene ganadores… y perdedores.",
+      "tipo": "media",
+      "voz": "A",
+      "src": "tu-plata-2027/mis/e040.jpg",
+      "tag": "[laughs softly]",
+      "inicio": 338.813,
+      "fin": 344.663
+    },
+    {
+      "texto": "Nadie sabe con certeza a dónde va el dólar. La pregunta real es otra.",
+      "tipo": "texto",
+      "voz": "A",
+      "titulo": "La pregunta real es *OTRA*",
+      "inicio": 345.053,
+      "fin": 349.123
+    },
+    {
+      "texto": "¿Qué parte de tu vida depende del dólar? Si tienes gastos en dólares, ten un colchón para cuando suba.",
+      "tipo": "media",
+      "voz": "A",
+      "src": "tu-plata-2027/mis/e066.jpg",
+      "tag": "[seriously]",
+      "inicio": 349.513,
+      "fin": 355.283
+    },
+    {
+      "texto": "¿Y qué hago con esto?",
+      "tipo": "texto",
+      "voz": "A",
+      "titulo": "¿Qué hago *CON ESTO*?",
+      "tag": "[excited]",
+      "inicio": 355.673,
+      "fin": 356.663
+    },
+    {
+      "texto": "Si tienes una deuda en dólares, este es buen momento para abonarle: cada dólar te cuesta menos pesos que hace un año.",
+      "tipo": "media",
+      "voz": "A",
+      "src": "tu-plata-2027/mis/e082.jpg",
+      "inicio": 357.203,
+      "fin": 363.613
+    },
+    {
+      "texto": "Si vas a viajar, no compres todos los dólares de una. Cómpralos por partes, en varias semanas. Así no apuestas todo a un solo precio.",
+      "tipo": "media",
+      "voz": "A",
+      "src": "tu-plata-2027/mis/e064.jpg",
+      "inicio": 364.003,
+      "fin": 371.273
+    },
+    {
+      "texto": "Y si te pagan en dólares, no cambies todo de golpe. Cambia lo que necesitas para el mes, y dale tiempo al resto.",
+      "tipo": "media",
+      "voz": "A",
+      "src": "tu-plata-2027/mis/e061.jpg",
+      "inicio": 371.523,
+      "fin": 377.823
+    },
+    {
+      "texto": "Bueno, ahora sí… cuéntame lo del voto.",
+      "tipo": "media",
+      "voz": "B",
+      "src": "tu-plata-2027/mis/e037.jpg",
+      "tag": "[curious]",
+      "inicio": 378.213,
+      "fin": 380.623
+    },
+    {
+      "texto": "Agárrate, porque esta es la que más le pega a tu crédito.",
+      "tipo": "texto",
+      "voz": "A",
+      "titulo": "La que más le pega *A TU CRÉDITO*",
+      "tag": "[dramatically]",
+      "inicio": 381.013,
+      "fin": 384.701
+    },
+    {
+      "texto": "Cifra número tres. La que se decidió… por un solo voto.",
+      "tipo": "capitulo",
+      "voz": "A",
+      "numero": 3,
+      "titulo": "LA TASA DEL BANCO",
+      "subtitulo": "12,25 %",
+      "tag": "[dramatically]",
+      "inicio": 385.283,
+      "fin": 390.243
+    },
+    {
+      "texto": "El Banco de la República fija la tasa a la que les presta plata a los bancos.",
+      "tipo": "media",
+      "voz": "A",
+      "src": "tu-plata-2027/mis/e069.jpg",
+      "inicio": 391.283,
+      "fin": 395.313
+    },
+    {
+      "texto": "Y esa tasa termina en tu crédito, en tu tarjeta… y en lo que te pagan por ahorrar.",
+      "tipo": "media",
+      "voz": "A",
+      "src": "tu-plata-2027/mis/e082.jpg",
+      "inicio": 395.703,
+      "fin": 400.113
+    },
+    {
+      "texto": "El treinta de octubre la dejaron en doce coma veinticinco por ciento.",
+      "tipo": "cifra",
+      "voz": "A",
+      "valor": 12.25,
+      "titulo": "Tasa de intervención",
+      "fuente": "Banco de la República (Portafolio, 30 oct. 2026)",
+      "decimales": 2,
+      "sufijo": " %",
+      "subtitulo": "Decisión del 30 de octubre de 2026",
+      "tono": "acento",
+      "inicio": 400.503,
+      "fin": 404.393
+    },
+    {
+      "texto": "El mercado esperaba otra subida. Pero la junta frenó.",
+      "tipo": "media",
+      "voz": "A",
+      "src": "tu-plata-2027/mis/e073.jpg",
+      "tag": "[surprised]",
+      "inicio": 404.663,
+      "fin": 407.963
+    },
+    {
+      "texto": "La votación: cuatro contra tres.",
+      "tipo": "comparar",
+      "voz": "A",
+      "a": {
+        "etiqueta": "Mantener",
+        "valor": "4 votos"
+      },
+      "b": {
+        "etiqueta": "Subir 0,25 pp",
+        "valor": "3 votos"
+      },
+      "fuente": "BBVA Research, oct. 2026",
+      "tag": "[dramatically]",
+      "inicio": 408.353,
+      "fin": 411.203
+    },
+    {
+      "texto": "Si una sola persona hubiera votado distinto… la tasa habría subido para millones de colombianos.",
+      "tipo": "texto",
+      "voz": "A",
+      "titulo": "*UNA PERSONA* hizo la diferencia",
+      "entrada": "zoom",
+      "tag": "[whispers]",
+      "inicio": 411.473,
+      "fin": 417.293
+    },
+    {
+      "texto": "¿En serio? ¿Una sola persona?",
+      "tipo": "media",
+      "voz": "B",
+      "src": "tu-plata-2027/mis/e132.jpg",
+      "tag": "[shocked]",
+      "inicio": 417.563,
+      "fin": 419.873
+    },
+    {
+      "texto": "Así de cerrado. Y eso que en la reunión anterior la junta sí la había subido.",
+      "tipo": "media",
+      "voz": "A",
+      "src": "tu-plata-2027/mis/e076.jpg",
+      "fuente": "Cambio / La República, oct. 2026",
+      "inicio": 420.413,
+      "fin": 424.753
+    },
+    {
+      "texto": "En enero estaba en nueve coma veinticinco. Hoy, en doce coma veinticinco. Tres puntos más en menos de un año.",
+      "tipo": "barras",
+      "voz": "A",
+      "titulo": "Tasa del Banco de la República",
+      "datos": [
+        {
+          "etiqueta": "Ene 2026",
+          "valor": 9.25
+        },
+        {
+          "etiqueta": "Oct 2026",
+          "valor": 12.25
+        }
+      ],
+      "fuente": "Banco de la República (vía La República)",
+      "destacar": 1,
+      "tono": "negativo",
+      "decimales": 2,
+      "sufijo": " %",
+      "inicio": 425.143,
+      "fin": 432.153
+    },
+    {
+      "texto": "¿Y para qué la suben?",
+      "tipo": "media",
+      "voz": "B",
+      "src": "tu-plata-2027/mis/e120.jpg",
+      "tag": "[curious]",
+      "inicio": 432.403,
+      "fin": 433.533
+    },
+    {
+      "texto": "Para frenar la inflación. Subir la tasa es como pisar el freno: el crédito se encarece, la gente compra menos… y los precios se calman.",
+      "tipo": "media",
+      "voz": "A",
+      "src": "tu-plata-2027/mis/e078.jpg",
+      "inicio": 434.073,
+      "fin": 441.873
+    },
+    {
+      "texto": "No se detiene de una. Pero baja la velocidad.",
+      "tipo": "texto",
+      "voz": "A",
+      "titulo": "Subir tasas = *FRENAR*",
+      "inicio": 442.263,
+      "fin": 444.793
+    },
+    {
+      "texto": "¿Y te acuerdas de la pista? Esas tasas altas también atraen dólares de afuera… y eso puede ayudar a que el dólar baje.",
+      "tipo": "media",
+      "voz": "A",
+      "src": "tu-plata-2027/mis/e004.jpg",
+      "tag": "[mischievously]",
+      "inicio": 445.183,
+      "fin": 451.593
+    },
+    {
+      "texto": "El gerente, Leonardo Villar, dijo que la política seguirá siendo restrictiva, y que lo que venga depende de los nuevos datos.",
+      "tipo": "media",
+      "voz": "A",
+      "src": "tu-plata-2027/mis/e070.jpg",
+      "fuente": "Banco de la República, rueda de prensa 30 oct. 2026",
+      "inicio": 451.843,
+      "fin": 458.763
+    },
+    {
+      "texto": "Traducción: tasas altas por un buen rato.",
+      "tipo": "texto",
+      "voz": "A",
+      "titulo": "Tasas altas *POR UN BUEN RATO*",
+      "tag": "[laughs softly]",
+      "inicio": 459.153,
+      "fin": 461.923
+    },
+    {
+      "texto": "¿Y si yo tengo un crédito?",
+      "tipo": "media",
+      "voz": "B",
+      "src": "tu-plata-2027/mis/e085.jpg",
+      "tag": "[worried]",
+      "inicio": 462.313,
+      "fin": 463.563
+    },
+    {
+      "texto": "Si es de tasa variable, como algunos de vivienda o de libre inversión, tu cuota puede seguir alta.",
+      "tipo": "media",
+      "voz": "A",
+      "src": "tu-plata-2027/mis/e096.jpg",
+      "tag": "[seriously]",
+      "inicio": 464.103,
+      "fin": 469.353
+    },
+    {
+      "texto": "Y la tarjeta de crédito suele ser de las deudas más caras. Una o dos cuotas cuestan mucho menos en intereses que treinta y seis.",
+      "tipo": "media",
+      "voz": "A",
+      "src": "tu-plata-2027/mis/e087.jpg",
+      "inicio": 469.743,
+      "fin": 477.099
+    },
+    {
+      "texto": "Si puedes abonar a capital, hazlo. Cada peso que abonas deja de cobrarte intereses.",
+      "tipo": "texto",
+      "voz": "A",
+      "titulo": "Abono a capital = *MENOS INTERESES*",
+      "tag": "[confident]",
+      "inicio": 477.323,
+      "fin": 482.423
+    },
+    {
+      "texto": "Pero hay una buena noticia escondida aquí.",
+      "tipo": "texto",
+      "voz": "A",
+      "titulo": "La *BUENA NOTICIA*",
+      "tag": "[excited]",
+      "inicio": 482.793,
+      "fin": 484.923
+    },
+    {
+      "texto": "Cuando las tasas están altas, ahorrar también paga más.",
+      "tipo": "media",
+      "voz": "A",
+      "src": "tu-plata-2027/mis/e091.jpg",
+      "inicio": 485.313,
+      "fin": 488.643
+    },
+    {
+      "texto": "¿Te acuerdas de la cifra que te pedí guardar? Tasa del Banco: doce coma veinticinco. Inflación: seis coma treinta.",
+      "tipo": "comparar",
+      "voz": "A",
+      "a": {
+        "etiqueta": "Tasa del Banco",
+        "valor": "12,25 %"
+      },
+      "b": {
+        "etiqueta": "Inflación",
+        "valor": "6,30 %"
+      },
+      "fuente": "Banco de la República / DANE",
+      "inicio": 489.033,
+      "fin": 495.763
+    },
+    {
+      "texto": "La diferencia es de casi seis puntos. Eso se llama tasa real… y hoy está bien por encima de cero.",
+      "tipo": "cifra",
+      "voz": "A",
+      "valor": 5.95,
+      "titulo": "Tasa real",
+      "fuente": "Cálculo con datos del Banco de la República y el DANE",
+      "decimales": 2,
+      "sufijo": " pts",
+      "subtitulo": "12,25 − 6,30",
+      "tono": "positivo",
+      "tag": "[excited]",
+      "inicio": 496.033,
+      "fin": 502.633
+    },
+    {
+      "texto": "Eso quiere decir que hay productos de ahorro que, por ahora, sí le pueden ganar a la inflación.",
+      "tipo": "media",
+      "voz": "A",
+      "src": "tu-plata-2027/mis/e101.jpg",
+      "inicio": 503.023,
+      "fin": 507.713
+    },
+    {
+      "texto": "¿Como un CDT?",
+      "tipo": "media",
+      "voz": "B",
+      "src": "tu-plata-2027/mis/e084.jpg",
+      "tag": "[curious]",
+      "inicio": 507.963,
+      "fin": 508.913
+    },
+    {
+      "texto": "Por ejemplo. Un CDT es un certificado de depósito a término: le prestas tu plata al banco por un tiempo fijo, y te paga intereses.",
+      "tipo": "media",
+      "voz": "A",
+      "src": "tu-plata-2027/mis/e096.jpg",
+      "inicio": 509.453,
+      "fin": 517.133
+    },
+    {
+      "texto": "Si lo abres a tasa fija, esa tasa se queda contigo hasta que vence. Aunque después las tasas bajen.",
+      "tipo": "texto",
+      "voz": "A",
+      "titulo": "Tasa fija: *SE QUEDA CONTIGO*",
+      "inicio": 517.523,
+      "fin": 523.373
+    },
+    {
+      "texto": "Pero ojo: cada banco pone su propia tasa. Compara la tasa efectiva anual… y réstale la inflación.",
+      "tipo": "media",
+      "voz": "A",
+      "src": "tu-plata-2027/mis/e110.jpg",
+      "tag": "[seriously]",
+      "inicio": 523.763,
+      "fin": 529.813
+    },
+    {
+      "texto": "Positivo: tu plata crece de verdad. Negativo: solo parece que crece.",
+      "tipo": "texto",
+      "voz": "A",
+      "titulo": "*POSITIVO* = crece de verdad",
+      "inicio": 530.203,
+      "fin": 535.313
+    },
+    {
+      "texto": "Y con cuatro votos contra tres… la próxima decisión puede ir para cualquier lado.",
+      "tipo": "media",
+      "voz": "A",
+      "src": "tu-plata-2027/mis/e102.jpg",
+      "tag": "[mischievously]",
+      "inicio": 535.563,
+      "fin": 540.583
+    },
+    {
+      "texto": "¿Y qué hago con esto antes de pedir un crédito?",
+      "tipo": "texto",
+      "voz": "A",
+      "titulo": "Antes de pedir *UN CRÉDITO*",
+      "tag": "[seriously]",
+      "inicio": 540.973,
+      "fin": 543.163
+    },
+    {
+      "texto": "Uno: mira la tasa efectiva anual, no solo la cuota. Una cuota baja a muchos meses puede salir carísima.",
+      "tipo": "media",
+      "voz": "A",
+      "src": "tu-plata-2027/mis/e112.jpg",
+      "inicio": 543.703,
+      "fin": 550.373
+    },
+    {
+      "texto": "Dos: pide el costo total del crédito. Con seguros, comisiones y todo. Ese es el número que de verdad vas a pagar.",
+      "tipo": "media",
+      "voz": "A",
+      "src": "tu-plata-2027/mis/e154.jpg",
+      "inicio": 550.763,
+      "fin": 558.213
+    },
+    {
+      "texto": "Y tres: si es para algo que puede esperar, espera. Con tasas así de altas, ahorrar primero casi siempre sale más barato.",
+      "tipo": "media",
+      "voz": "A",
+      "src": "tu-plata-2027/mis/e087.jpg",
+      "inicio": 558.603,
+      "fin": 566.253
+    },
+    {
+      "texto": "Ok… ¿y el salario mínimo? Porque eso sí me toca directo.",
+      "tipo": "media",
+      "voz": "B",
+      "src": "tu-plata-2027/mis/e122.jpg",
+      "tag": "[hopeful]",
+      "inicio": 566.643,
+      "fin": 570.353
+    },
+    {
+      "texto": "Cifra número cuatro. El salario mínimo de dos mil veintisiete.",
+      "tipo": "capitulo",
+      "voz": "A",
+      "numero": 4,
+      "titulo": "EL SALARIO MÍNIMO",
+      "subtitulo": "Negociación 2027",
+      "tag": "[dramatically]",
+      "inicio": 571.093,
+      "fin": 574.973
+    },
+    {
+      "texto": "Le llega directo a millones de trabajadores. Y no solo a los que ganan el mínimo.",
+      "tipo": "media",
+      "voz": "A",
+      "src": "tu-plata-2027/mis/e104.jpg",
+      "inicio": 575.893,
+      "fin": 580.593
+    },
+    {
+      "texto": "Hoy está en un millón setecientos cincuenta mil novecientos cinco pesos.",
+      "tipo": "cifra",
+      "voz": "A",
+      "valor": 1750905,
+      "titulo": "Salario mínimo 2026",
+      "fuente": "Mintrabajo (vía Publimetro, nov. 2026)",
+      "prefijo": "$",
+      "subtitulo": "Sin auxilio de transporte",
+      "tono": "acento",
+      "inicio": 580.843,
+      "fin": 585.103
+    },
+    {
+      "texto": "Con el auxilio de transporte, llega a dos millones justos.",
+      "tipo": "media",
+      "voz": "A",
+      "src": "tu-plata-2027/mis/e107.jpg",
+      "fuente": "Mintrabajo (vía Publimetro, nov. 2026)",
+      "inicio": 585.353,
+      "fin": 589.153
+    },
+    {
+      "texto": "¿Y cuánto va a subir?",
+      "tipo": "media",
+      "voz": "B",
+      "src": "tu-plata-2027/mis/e122.jpg",
+      "tag": "[hopeful]",
+      "inicio": 589.403,
+      "fin": 590.353
+    },
+    {
+      "texto": "Arranca la negociación entre gobierno, empresarios y sindicatos. Fenalco propone hasta nueve por ciento. Algunos analistas hablan de entre nueve y diez.",
+      "tipo": "media",
+      "voz": "A",
+      "src": "tu-plata-2027/mis/e109.jpg",
+      "fuente": "Publimetro / Portafolio, nov. 2026",
+      "inicio": 590.893,
+      "fin": 599.893
+    },
+    {
+      "texto": "Hagamos cuentas. Igual a la inflación: un millón ochocientos sesenta y un mil. Con nueve por ciento: un millón novecientos ocho mil. Con diez: un millón novecientos veintiséis mil.",
+      "tipo": "barras",
+      "voz": "A",
+      "titulo": "Salario mínimo 2027 según el alza",
+      "datos": [
+        {
+          "etiqueta": "+6,30 %",
+          "valor": 1861212
+        },
+        {
+          "etiqueta": "+9 %",
+          "valor": 1908486
+        },
+        {
+          "etiqueta": "+10 %",
+          "valor": 1925996
+        }
+      ],
+      "fuente": "Cálculo propio sobre $1.750.905 (Mintrabajo)",
+      "destacar": 1,
+      "tono": "acento",
+      "prefijo": "$",
+      "inicio": 600.163,
+      "fin": 611.143
+    },
+    {
+      "texto": "Las centrales sindicales piden bastante más. Y no hay una fórmula automática: pesan la inflación y la productividad.",
+      "tipo": "media",
+      "voz": "A",
+      "src": "tu-plata-2027/mis/e150.jpg",
+      "fuente": "Portafolio, nov. 2026",
+      "inicio": 611.413,
+      "fin": 617.933
+    },
+    {
+      "texto": "Si no hay acuerdo, el gobierno lo fija por decreto antes de fin de año.",
+      "tipo": "media",
+      "voz": "A",
+      "src": "tu-plata-2027/mis/e115.jpg",
+      "inicio": 618.183,
+      "fin": 622.403
+    },
+    {
+      "texto": "Pero aquí viene lo que nadie dice.",
+      "tipo": "texto",
+      "voz": "A",
+      "titulo": "Lo que *NADIE DICE*",
+      "tag": "[whispers]",
+      "inicio": 622.653,
+      "fin": 624.653
+    },
+    {
+      "texto": "Si te suben exactamente la inflación, no ganaste nada. Solo recuperaste lo que perdiste.",
+      "tipo": "texto",
+      "voz": "A",
+      "titulo": "Alza = inflación → *NO GANAS*",
+      "tag": "[seriously]",
+      "inicio": 624.903,
+      "fin": 630.363
+    },
+    {
+      "texto": "¿Te acuerdas de Camila? Si le suben el sueldo seis coma tres por ciento… queda exactamente donde estaba hace un año.",
+      "tipo": "media",
+      "voz": "A",
+      "src": "tu-plata-2027/mis/e153.jpg",
+      "inicio": 630.613,
+      "fin": 636.973
+    },
+    {
+      "texto": "¿Y si yo no gano el mínimo? A mí nadie me sube nada…",
+      "tipo": "media",
+      "voz": "B",
+      "src": "tu-plata-2027/mis/e117.jpg",
+      "tag": "[frustrated]",
+      "inicio": 637.223,
+      "fin": 640.133
+    },
+    {
+      "texto": "Ahí está el problema. Tu aumento no está garantizado. Y si tu sueldo no sube, la inflación te quita poder de compra cada mes.",
+      "tipo": "media",
+      "voz": "A",
+      "src": "tu-plata-2027/mis/e105.jpg",
+      "inicio": 640.523,
+      "fin": 648.283
+    },
+    {
+      "texto": "Mira: unos gastos de tres millones al mes, con seis coma tres por ciento de inflación, hoy cuestan unos ciento ochenta y nueve mil pesos más.",
+      "tipo": "cifra",
+      "voz": "A",
+      "valor": 189000,
+      "titulo": "Lo que cuestan de más $3.000.000 de gastos",
+      "fuente": "Cálculo con IPC anual del DANE (6,30 %)",
+      "prefijo": "$",
+      "subtitulo": "Cada mes",
+      "tono": "negativo",
+      "inicio": 648.533,
+      "fin": 656.113
+    },
+    {
+      "texto": "Por eso, cuando pidas un aumento, no pidas un número al aire.",
+      "tipo": "media",
+      "voz": "A",
+      "src": "tu-plata-2027/mis/e110.jpg",
+      "inicio": 656.363,
+      "fin": 659.943
+    },
+    {
+      "texto": "Pide al menos la inflación. Y llega con datos de lo que aportas.",
+      "tipo": "texto",
+      "voz": "A",
+      "titulo": "Pide *AL MENOS* la inflación",
+      "subtitulo": "Inflación anual: 6,30 %",
+      "fuente": "DANE, IPC oct. 2026",
+      "tag": "[confident]",
+      "inicio": 660.193,
+      "fin": 663.893
+    },
+    {
+      "texto": "¿Eres independiente? Revisa tus tarifas cada año. Si cobras lo mismo que el año pasado, en realidad estás cobrando menos.",
+      "tipo": "media",
+      "voz": "A",
+      "src": "tu-plata-2027/mis/e124.jpg",
+      "inicio": 664.143,
+      "fin": 670.903
+    },
+    {
+      "texto": "Y prepárate para enero: es cuando muchos precios y tarifas se reajustan.",
+      "tipo": "media",
+      "voz": "A",
+      "src": "tu-plata-2027/mis/e125.jpg",
+      "inicio": 671.153,
+      "fin": 675.513
+    },
+    {
+      "texto": "¿Y qué hago con esto para pedir un aumento?",
+      "tipo": "texto",
+      "voz": "A",
+      "titulo": "Cómo pedir *UN AUMENTO*",
+      "tag": "[confident]",
+      "inicio": 675.763,
+      "fin": 677.783
+    },
+    {
+      "texto": "Uno: elige el momento. Después de un buen resultado, no en medio de una crisis.",
+      "tipo": "media",
+      "voz": "A",
+      "src": "tu-plata-2027/mis/e110.jpg",
+      "inicio": 678.323,
+      "fin": 682.663
+    },
+    {
+      "texto": "Dos: lleva datos. Qué lograste, cuánto aportaste, cuánto cobra el mercado por lo que tú haces.",
+      "tipo": "media",
+      "voz": "A",
+      "src": "tu-plata-2027/mis/e089.jpg",
+      "inicio": 683.053,
+      "fin": 688.803
+    },
+    {
+      "texto": "Y tres: si no te pueden subir el sueldo, negocia otras cosas: horarios, capacitación, días de trabajo en casa.",
+      "tipo": "media",
+      "voz": "A",
+      "src": "tu-plata-2027/mis/e105.jpg",
+      "inicio": 689.193,
+      "fin": 696.023
+    },
+    {
+      "texto": "Bueno… ¿y el bitcoin? Porque todo el mundo habla de eso.",
+      "tipo": "media",
+      "voz": "B",
+      "src": "tu-plata-2027/mis/e127.jpg",
+      "tag": "[nervous]",
+      "inicio": 696.273,
+      "fin": 699.683
+    },
+    {
+      "texto": "Ah, el bitcoin. La cifra que más emociones despierta… y la que más gente ha hecho perder plata por no entenderla.",
+      "tipo": "media",
+      "voz": "A",
+      "src": "tu-plata-2027/mis/e127.jpg",
+      "tag": "[mischievously]",
+      "inicio": 699.933,
+      "fin": 707.413
+    },
+    {
+      "texto": "Cifra número cinco. La más volátil de todas: el bitcoin.",
+      "tipo": "capitulo",
+      "voz": "A",
+      "numero": 5,
+      "titulo": "EL BITCOIN",
+      "subtitulo": "US$74.772",
+      "tag": "[dramatically]",
+      "inicio": 708.153,
+      "fin": 713.013
+    },
+    {
+      "texto": "Hoy un bitcoin cuesta unos setenta y cuatro mil setecientos setenta y dos dólares.",
+      "tipo": "cifra",
+      "voz": "A",
+      "valor": 74772,
+      "titulo": "Precio de 1 bitcoin",
+      "fuente": "CoinGecko, 10 nov. 2026",
+      "prefijo": "US$",
+      "subtitulo": "10 de noviembre de 2026",
+      "tono": "acento",
+      "inicio": 714.053,
+      "fin": 718.003
+    },
+    {
+      "texto": "En pesos, más de doscientos cuarenta millones.",
+      "tipo": "media",
+      "voz": "A",
+      "src": "tu-plata-2027/mis/e134.jpg",
+      "fuente": "CoinGecko, 10 nov. 2026",
+      "inicio": 718.393,
+      "fin": 721.103
+    },
+    {
+      "texto": "Eso es lo mismo que unos diez años de salario mínimo con auxilio.",
+      "tipo": "cifra",
+      "voz": "A",
+      "valor": 10,
+      "titulo": "1 bitcoin ≈",
+      "fuente": "Cálculo con CoinGecko y Mintrabajo",
+      "sufijo": " años",
+      "subtitulo": "de salario mínimo con auxilio de transporte (2026)",
+      "tono": "acento",
+      "tag": "[dramatically]",
+      "inicio": 721.493,
+      "fin": 725.083
+    },
+    {
+      "texto": "¿Diez años de trabajo por UN bitcoin?",
+      "tipo": "media",
+      "voz": "B",
+      "src": "tu-plata-2027/mis/e066.jpg",
+      "tag": "[shocked]",
+      "inicio": 725.473,
+      "fin": 728.453
+    },
+    {
+      "texto": "Así es. Y la gente lo compra porque es escaso: nunca va a haber más de veintiún millones de bitcoins.",
+      "tipo": "media",
+      "voz": "A",
+      "src": "tu-plata-2027/mis/e137.jpg",
+      "fuente": "Protocolo de Bitcoin",
+      "inicio": 728.993,
+      "fin": 734.903
+    },
+    {
+      "texto": "Ethereum, la segunda más conocida, está en unos dos mil ciento veintiún dólares.",
+      "tipo": "media",
+      "voz": "A",
+      "src": "tu-plata-2027/mis/e042.jpg",
+      "fuente": "CoinGecko, 10 nov. 2026",
+      "inicio": 735.293,
+      "fin": 739.643
+    },
+    {
+      "texto": "Pero escaso no significa que solo suba. En febrero de este año, el bitcoin llegó a estar por debajo de setenta mil dólares.",
+      "tipo": "media",
+      "voz": "A",
+      "src": "tu-plata-2027/mis/e135.jpg",
+      "fuente": "La Razón, feb. 2026",
+      "tag": "[seriously]",
+      "inicio": 739.893,
+      "fin": 747.173
+    },
+    {
+      "texto": "Y en Colombia, el bitcoin te pega doble.",
+      "tipo": "texto",
+      "voz": "A",
+      "titulo": "En Colombia te pega *DOBLE*",
+      "tag": "[whispers]",
+      "inicio": 747.563,
+      "fin": 750.193
+    },
+    {
+      "texto": "¿Doble? ¿Por qué?",
+      "tipo": "media",
+      "voz": "B",
+      "src": "tu-plata-2027/mis/e130.jpg",
+      "tag": "[confused]",
+      "inicio": 750.583,
+      "fin": 751.643
+    },
+    {
+      "texto": "Porque su precio está en dólares… y el dólar también se mueve.",
+      "tipo": "media",
+      "voz": "A",
+      "src": "tu-plata-2027/mis/e148.jpg",
+      "inicio": 752.183,
+      "fin": 755.413
+    },
+    {
+      "texto": "Si el bitcoin sube diez por ciento, pero el dólar baja diez por ciento, en pesos quedas casi igual.",
+      "tipo": "comparar",
+      "voz": "A",
+      "a": {
+        "etiqueta": "Bitcoin en dólares",
+        "valor": "+10 %"
+      },
+      "b": {
+        "etiqueta": "Dólar en pesos",
+        "valor": "−10 %"
+      },
+      "fuente": "Ejemplo ilustrativo: 1,10 × 0,90 = 0,99",
+      "inicio": 755.803,
+      "fin": 761.193
+    },
+    {
+      "texto": "Y este año el dólar bajó casi trece por ciento. Eso le restó a cualquier ganancia medida en pesos.",
+      "tipo": "media",
+      "voz": "A",
+      "src": "tu-plata-2027/mis/e139.jpg",
+      "fuente": "Superfinanciera vía datos.gov.co",
+      "inicio": 761.583,
+      "fin": 766.853
+    },
+    {
+      "texto": "Regla de oro: nunca metas en cripto plata que necesites el próximo año.",
+      "tipo": "texto",
+      "voz": "A",
+      "titulo": "Regla de oro: *PLATA QUE NO NECESITES*",
+      "tag": "[seriously]",
+      "inicio": 767.103,
+      "fin": 771.723
+    },
+    {
+      "texto": "Ni la del arriendo. Ni la del fondo de emergencia. Ni plata prestada.",
+      "tipo": "media",
+      "voz": "A",
+      "src": "tu-plata-2027/mis/e141.jpg",
+      "inicio": 772.113,
+      "fin": 775.903
+    },
+    {
+      "texto": "¿Y si alguien te promete ganancias garantizadas?",
+      "tipo": "texto",
+      "voz": "A",
+      "titulo": "¿Ganancia *GARANTIZADA*?",
+      "tag": "[skeptical]",
+      "inicio": 776.293,
+      "fin": 778.523
+    },
+    {
+      "texto": "Eso no existe. Ni en cripto, ni en ninguna inversión. Es una señal de alerta.",
+      "tipo": "texto",
+      "voz": "A",
+      "titulo": "Señal de *ALERTA*",
+      "tag": "[seriously]",
+      "inicio": 779.063,
+      "fin": 783.953
+    },
+    {
+      "texto": "Si aun así quieres invertir, que sea poco, que entiendas lo que compras… y sabiendo que puedes perder.",
+      "tipo": "media",
+      "voz": "A",
+      "src": "tu-plata-2027/mis/e163.jpg",
+      "inicio": 784.343,
+      "fin": 789.773
+    },
+    {
+      "texto": "Y lo que ganes puede tener obligaciones de impuestos. Asesórate antes de declarar.",
+      "tipo": "media",
+      "voz": "A",
+      "src": "tu-plata-2027/mis/e154.jpg",
+      "inicio": 790.163,
+      "fin": 794.653
+    },
+    {
+      "texto": "Y tres señales de que te quieren estafar con cripto.",
+      "tipo": "texto",
+      "voz": "A",
+      "titulo": "3 señales de *ESTAFA*",
+      "tag": "[whispers]",
+      "inicio": 795.043,
+      "fin": 797.673
+    },
+    {
+      "texto": "Uno: te prometen un rendimiento fijo cada mes. Las inversiones de verdad no funcionan así.",
+      "tipo": "media",
+      "voz": "A",
+      "src": "tu-plata-2027/mis/e130.jpg",
+      "inicio": 798.063,
+      "fin": 803.153
+    },
+    {
+      "texto": "Dos: ganas más si traes a más gente. Eso no es inversión: es una pirámide.",
+      "tipo": "media",
+      "voz": "A",
+      "src": "tu-plata-2027/mis/e122.jpg",
+      "inicio": 803.543,
+      "fin": 808.383
+    },
+    {
+      "texto": "Y tres: te presionan para que decidas ya, hoy, ahora. Cuando hay afán, desconfía.",
+      "tipo": "media",
+      "voz": "A",
+      "src": "tu-plata-2027/mis/e037.jpg",
+      "inicio": 808.773,
+      "fin": 814.283
+    },
+    {
+      "texto": "Uy… conozco a alguien que cayó en una de esas.",
+      "tipo": "media",
+      "voz": "B",
+      "src": "tu-plata-2027/mis/e066.jpg",
+      "tag": "[sad]",
+      "inicio": 814.673,
+      "fin": 817.223
+    },
+    {
+      "texto": "Por desgracia, casi todos conocemos a alguien. Por eso vale la pena compartir esto.",
+      "tipo": "media",
+      "voz": "A",
+      "src": "tu-plata-2027/mis/e132.jpg",
+      "tag": "[softly]",
+      "inicio": 817.613,
+      "fin": 822.523
+    },
+    {
+      "texto": "Resumen en treinta segundos.",
+      "tipo": "capitulo",
+      "voz": "A",
+      "numero": 0,
+      "titulo": "RESUMEN",
+      "subtitulo": "Las 5 cifras",
+      "etiqueta": "EN 30 SEGUNDOS",
+      "tag": "[excited]",
+      "inicio": 823.263,
+      "fin": 824.983
+    },
+    {
+      "texto": "Uno: inflación de seis coma treinta por ciento… y subiendo.",
+      "tipo": "cifra",
+      "voz": "A",
+      "valor": 6.3,
+      "titulo": "Inflación anual",
+      "fuente": "DANE, IPC oct. 2026",
+      "decimales": 2,
+      "sufijo": " %",
+      "tono": "negativo",
+      "inicio": 826.023,
+      "fin": 829.583
+    },
+    {
+      "texto": "Dos: el dólar bajó casi trece por ciento desde diciembre… pero puede rebotar rápido.",
+      "tipo": "media",
+      "voz": "A",
+      "src": "tu-plata-2027/mis/e148.jpg",
+      "fuente": "Superfinanciera vía datos.gov.co",
+      "inicio": 829.973,
+      "fin": 834.863
+    },
+    {
+      "texto": "Tres: tasa del Banco en doce coma veinticinco por ciento. Decidida cuatro contra tres.",
+      "tipo": "cifra",
+      "voz": "A",
+      "valor": 12.25,
+      "titulo": "Tasa del Banco de la República",
+      "fuente": "Banco de la República (Portafolio, 30 oct. 2026)",
+      "decimales": 2,
+      "sufijo": " %",
+      "tono": "acento",
+      "inicio": 835.253,
+      "fin": 840.983
+    },
+    {
+      "texto": "Cuatro: el salario mínimo de dos mil veintisiete, en negociación, con propuestas alrededor del nueve por ciento.",
+      "tipo": "media",
+      "voz": "A",
+      "src": "tu-plata-2027/mis/e150.jpg",
+      "fuente": "Publimetro / Portafolio, nov. 2026",
+      "inicio": 841.253,
+      "fin": 847.113
+    },
+    {
+      "texto": "Y cinco: bitcoin en unos setenta y cinco mil dólares, moviéndose fuerte para ambos lados.",
+      "tipo": "cifra",
+      "voz": "A",
+      "valor": 74772,
+      "titulo": "Precio de 1 bitcoin",
+      "fuente": "CoinGecko, 10 nov. 2026",
+      "prefijo": "US$",
+      "tono": "acento",
+      "inicio": 847.383,
+      "fin": 852.543
+    },
+    {
+      "texto": "Y ahora, lo que viniste a buscar: el plan. Cinco pasos.",
+      "tipo": "capitulo",
+      "voz": "A",
+      "numero": 0,
+      "titulo": "EL PLAN",
+      "subtitulo": "5 pasos para 2027",
+      "etiqueta": "LO QUE SÍ CONTROLAS",
+      "tag": "[excited]",
+      "inicio": 853.283,
+      "fin": 857.243
+    },
+    {
+      "texto": "Paso uno: calcula tu inflación personal. Compara lo que gastabas hace un año en mercado, arriendo y transporte… con lo que gastas hoy.",
+      "tipo": "media",
+      "voz": "A",
+      "src": "tu-plata-2027/mis/e153.jpg",
+      "inicio": 858.143,
+      "fin": 865.703
+    },
+    {
+      "texto": "Los extractos de tu banco o tu app de pagos ya tienen esa información. Es sentarte una hora.",
+      "tipo": "media",
+      "voz": "A",
+      "src": "tu-plata-2027/mis/e112.jpg",
+      "inicio": 866.093,
+      "fin": 870.763
+    },
+    {
+      "texto": "Paso dos: ataca primero la deuda más cara.",
+      "tipo": "texto",
+      "voz": "A",
+      "titulo": "Paso 2: la deuda *MÁS CARA* primero",
+      "tag": "[confident]",
+      "inicio": 871.153,
+      "fin": 873.963
+    },
+    {
+      "texto": "Casi siempre es la tarjeta de crédito. Con tasas altas, cada mes que la arrastras te cuesta más.",
+      "tipo": "media",
+      "voz": "A",
+      "src": "tu-plata-2027/mis/e082.jpg",
+      "inicio": 874.353,
+      "fin": 879.363
+    },
+    {
+      "texto": "Paso tres: que tu ahorro le gane a la inflación.",
+      "tipo": "texto",
+      "voz": "A",
+      "titulo": "Paso 3: ahorro que *LE GANE* a la inflación",
+      "subtitulo": "Más de 6,30 % al año",
+      "fuente": "DANE, IPC oct. 2026",
+      "inicio": 879.753,
+      "fin": 882.463
+    },
+    {
+      "texto": "Tasa efectiva anual, menos inflación. Si da positivo, vas bien. Y antes de invertir, arma un fondo de emergencia.",
+      "tipo": "media",
+      "voz": "A",
+      "src": "tu-plata-2027/mis/e091.jpg",
+      "inicio": 882.713,
+      "fin": 889.473
+    },
+    {
+      "texto": "Paso cuatro: prepárate para enero.",
+      "tipo": "texto",
+      "voz": "A",
+      "titulo": "Paso 4: prepárate para *ENERO*",
+      "inicio": 889.863,
+      "fin": 891.933
+    },
+    {
+      "texto": "Cuando salga el nuevo salario mínimo, ajusta tu presupuesto. Y si eres independiente, actualiza tus tarifas.",
+      "tipo": "media",
+      "voz": "A",
+      "src": "tu-plata-2027/mis/e079.jpg",
+      "inicio": 892.323,
+      "fin": 897.893
+    },
+    {
+      "texto": "Paso cinco: cripto o dólares, solo con plata que puedas dejar quieta.",
+      "tipo": "texto",
+      "voz": "A",
+      "titulo": "Paso 5: solo plata que puedas *DEJAR QUIETA*",
+      "inicio": 898.283,
+      "fin": 902.653
+    },
+    {
+      "texto": "Y que sea una parte pequeña de lo que tienes. Nunca todo.",
+      "tipo": "media",
+      "voz": "A",
+      "src": "tu-plata-2027/mis/e165.jpg",
+      "inicio": 903.043,
+      "fin": 906.113
+    },
+    {
+      "texto": "Uff… o sea que nada de esto lo controlo yo.",
+      "tipo": "media",
+      "voz": "B",
+      "src": "tu-plata-2027/mis/e122.jpg",
+      "tag": "[sighs]",
+      "inicio": 906.503,
+      "fin": 909.473
+    },
+    {
+      "texto": "No controlas las cifras. Pero sí controlas qué haces con ellas.",
+      "tipo": "texto",
+      "voz": "A",
+      "titulo": "No controlas las cifras. *Controlas qué haces.*",
+      "entrada": "desenfoque",
+      "pausa": 0.6,
+      "tag": "[warmly]",
+      "inicio": 909.863,
+      "fin": 913.513
+    },
+    {
+      "texto": "Compártele este video a alguien que esté negociando su sueldo… o a punto de endeudarse.",
+      "tipo": "media",
+      "voz": "A",
+      "src": "tu-plata-2027/mis/e167.jpg",
+      "tag": "[excited]",
+      "inicio": 914.253,
+      "fin": 918.213
+    },
+    {
+      "texto": "Y cuéntame en los comentarios: ¿cuál de estas cinco cifras te está golpeando más?",
+      "tipo": "texto",
+      "voz": "A",
+      "titulo": "¿Cuál cifra *te golpea más*?",
+      "pausa": 0.8,
+      "tag": "[excited]",
+      "inicio": 918.603,
+      "fin": 922.453
+    }
+  ],
+  "voz": "tu-plata-2027-v2/voz/narracion.mp3",
+  "palabras": "tu-plata-2027-v2/palabras.json",
+  "duracion": 926.43,
+  "musica": "musica/finanzas-ritmo-mix.mp3",
+  "volumen_musica": 0.13,
+  "sfx": {
+    "whoosh": "sfx/whoosh.mp3",
+    "pop": "sfx/pop.mp3",
+    "impacto": "sfx/impacto.mp3",
+    "caja": "sfx/caja.mp3"
+  },
+  "volumen_sfx": 0.4
+}

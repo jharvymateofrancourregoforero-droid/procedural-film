@@ -1,4 +1,4 @@
-export type Tipo = 'media' | 'cifra' | 'barras' | 'linea' | 'texto' | 'comparar';
+export type Tipo = 'media' | 'cifra' | 'barras' | 'linea' | 'texto' | 'comparar' | 'capitulo' | 'intro';
 export type Tono = 'acento' | 'positivo' | 'negativo' | 'neutro';
 export type Entrada = 'corte' | 'zoom' | 'desliza' | 'desenfoque';
 
@@ -29,6 +29,12 @@ export type Escena = {
   entrada?: Entrada;
   sfx?: string;
   pausa?: number;
+  // capítulos: número grande de fondo y etiqueta ("CIFRA #1" por defecto)
+  numero?: number;
+  etiqueta?: string;
+  // quién habla: A = narrador, B = segunda voz (preguntas del público)
+  voz?: string;
+  tag?: string;
 };
 
 export type Plan = {
@@ -43,6 +49,9 @@ export type Plan = {
   resaltar_verde?: string[];
   resaltar_rojo?: string[];
   duracion?: number;
+  // efectos de sonido automáticos por tipo de escena (rutas dentro de public/)
+  sfx?: {whoosh?: string; pop?: string; impacto?: string; caja?: string};
+  volumen_sfx?: number;
   escenas: Escena[];
 };
 

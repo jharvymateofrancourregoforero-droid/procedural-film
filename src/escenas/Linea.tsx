@@ -1,6 +1,6 @@
 import React from 'react';
 import {AbsoluteFill, Easing, interpolate, spring, useCurrentFrame, useVideoConfig} from 'remotion';
-import {C, colorTono, numero} from '../estilo';
+import {C, colorTono, display, fuerte, numero} from '../estilo';
 import type {Escena} from '../tipos';
 import {Fondo} from './Fondo';
 
@@ -39,10 +39,10 @@ export const Linea: React.FC<{e: Escena}> = ({e}) => {
       <Fondo src={e.fondo} />
       <AbsoluteFill style={{justifyContent: 'center', alignItems: 'center', gap: 30, paddingBottom: vertical ? 300 : 0}}>
         <div style={{display: 'flex', justifyContent: 'space-between', alignItems: 'flex-end', width: W, gap: 20}}>
-          <div style={{color: C.texto, fontSize: vertical ? 54 : 52, fontWeight: 800, opacity: entra, lineHeight: 1.1}}>
+          <div style={{color: C.texto, fontFamily: display, fontSize: vertical ? 76 : 84, textTransform: 'uppercase', opacity: entra, lineHeight: 1}}>
             {e.titulo ?? ''}
           </div>
-          <div style={{color, fontSize: vertical ? 64 : 60, fontWeight: 800, fontVariantNumeric: 'tabular-nums',
+          <div style={{color, fontFamily: display, fontSize: vertical ? 100 : 120, fontVariantNumeric: 'tabular-nums', textShadow: `0 0 60px ${color}66`,
             whiteSpace: 'nowrap', opacity: fin, transform: `scale(${0.85 + 0.15 * fin})`, transformOrigin: 'right bottom'}}>
             {e.prefijo ?? ''}{numero(vals[vals.length - 1], e.decimales ?? 0)}{e.sufijo ?? ''}
           </div>
@@ -52,14 +52,16 @@ export const Linea: React.FC<{e: Escena}> = ({e}) => {
             <line key={t} x1={pad} x2={W - pad} y1={pad + t * (H - pad * 2)} y2={pad + t * (H - pad * 2)}
               stroke="rgba(255,255,255,0.08)" strokeWidth={2} />
           ))}
-          <path d={camino} fill="none" stroke={color} strokeWidth={10} strokeLinecap="round" strokeLinejoin="round"
+          <defs><linearGradient id="area" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stopColor={color} stopOpacity={0.35} /><stop offset="100%" stopColor={color} stopOpacity={0} /></linearGradient></defs>
+          <path d={`${camino} L${ultimo.x.toFixed(1)},${H - pad} L${pts[0].x.toFixed(1)},${H - pad} Z`} fill="url(#area)" opacity={progreso} />
+          <path d={camino} fill="none" stroke={color} strokeWidth={12} style={{filter: `drop-shadow(0 0 14px ${color})`}} strokeLinecap="round" strokeLinejoin="round"
             strokeDasharray={largo} strokeDashoffset={largo * (1 - progreso)} />
           <circle cx={ultimo.x} cy={ultimo.y} r={16 * fin} fill={color} />
           <circle cx={ultimo.x} cy={ultimo.y} r={16 + 30 * fin} fill="none" stroke={color} strokeWidth={3}
             opacity={(1 - fin) * 0.8} />
         </svg>
         <div style={{display: 'flex', justifyContent: 'space-between', width: W, color: C.suave,
-          fontSize: vertical ? 34 : 30, fontWeight: 600, opacity: entra}}>
+          fontFamily: fuerte, fontSize: vertical ? 34 : 32, fontWeight: 800, opacity: entra}}>
           <span>{datos[0].etiqueta}</span>
           <span>{datos[datos.length - 1].etiqueta}</span>
         </div>

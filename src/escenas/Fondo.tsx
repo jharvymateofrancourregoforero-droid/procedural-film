@@ -3,7 +3,8 @@ import {AbsoluteFill, interpolate, useCurrentFrame, useVideoConfig} from 'remoti
 import {C} from '../estilo';
 import {Media} from './Media';
 
-// Fondo de las escenas gráficas: degradado vivo + retícula sutil, o un clip oscurecido.
+// Fondo de las escenas gráficas: negro con brillo amarillo que se mueve, rayas diagonales y un giro de luz.
+// Con `src`, usa la imagen muy oscurecida.
 export const Fondo: React.FC<{src?: string | null}> = ({src}) => {
   const f = useCurrentFrame();
   const {durationInFrames} = useVideoConfig();
@@ -11,23 +12,28 @@ export const Fondo: React.FC<{src?: string | null}> = ({src}) => {
     return (
       <AbsoluteFill>
         <Media src={src} />
-        <AbsoluteFill style={{backgroundColor: 'rgba(11,18,32,0.78)'}} />
+        <AbsoluteFill style={{backgroundColor: 'rgba(7,8,11,0.82)'}} />
       </AbsoluteFill>
     );
   }
-  const x = interpolate(f, [0, durationInFrames], [30, 70]);
+  const x = interpolate(f, [0, durationInFrames], [28, 72]);
   return (
     <AbsoluteFill
       style={{
         backgroundColor: C.fondo,
         backgroundImage: [
-          `radial-gradient(circle at ${x}% 30%, rgba(224,176,75,0.13), transparent 55%)`,
-          `radial-gradient(circle at ${100 - x}% 85%, rgba(34,197,94,0.07), transparent 50%)`,
-          'linear-gradient(rgba(255,255,255,0.035) 1px, transparent 1px)',
-          'linear-gradient(90deg, rgba(255,255,255,0.035) 1px, transparent 1px)',
+          `radial-gradient(circle at ${x}% 38%, rgba(255,212,0,0.17), transparent 48%)`,
+          `radial-gradient(circle at ${100 - x}% 92%, rgba(0,230,118,0.09), transparent 42%)`,
+          'repeating-linear-gradient(115deg, rgba(255,255,255,0.028) 0 2px, transparent 2px 52px)',
         ].join(','),
-        backgroundSize: 'auto, auto, 72px 72px, 72px 72px',
+        backgroundPosition: `0 0, 0 0, ${f * 1.2}px 0`,
       }}
-    />
+    >
+      <AbsoluteFill
+        style={{
+          background: `conic-gradient(from ${f * 0.25}deg at 50% 45%, rgba(255,212,0,0.05), transparent 12%, rgba(255,212,0,0.035) 25%, transparent 40%, rgba(255,212,0,0.05) 58%, transparent 72%)`,
+        }}
+      />
+    </AbsoluteFill>
   );
 };
