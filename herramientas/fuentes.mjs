@@ -1,11 +1,13 @@
 // Copia las fuentes (paquetes npm @fontsource/*) a public/fuentes para renderizar sin internet.
-// Inter: textos pequeños · Anton: titulares · Montserrat: subtítulos y etiquetas.
+// Inter: textos pequeños · Anton: titulares · Montserrat: subtítulos y etiquetas · Nunito y Caveat Brush: miniaturas.
 import {copyFileSync, existsSync, mkdirSync} from 'node:fs';
 
 const fuentes = [
   ['inter', ['400', '600', '800']],
   ['anton', ['400']],
   ['montserrat', ['700', '800', '900']],
+  ['nunito', ['800', '900']],
+  ['caveat-brush', ['400']],
 ];
 mkdirSync('public/fuentes', {recursive: true});
 for (const [familia, pesos] of fuentes) {

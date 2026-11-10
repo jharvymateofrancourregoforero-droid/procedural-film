@@ -1,8 +1,10 @@
 import React from 'react';
-import {CalculateMetadataFunction, Composition} from 'remotion';
+import {CalculateMetadataFunction, Composition, Still} from 'remotion';
 import ejemplo from '../proyectos/ejemplo/plan.json';
 import type {Plan} from './tipos';
 import {tiempos, Video} from './Video';
+import {Miniatura} from './Miniatura';
+import type {PropsMiniatura} from './Miniatura';
 
 const FPS = 30;
 
@@ -21,5 +23,8 @@ export const RemotionRoot: React.FC = () => (
       durationInFrames={FPS * 10} defaultProps={base} calculateMetadata={calcular} />
     <Composition id="FinanzasHorizontal" component={Video} width={1920} height={1080} fps={FPS}
       durationInFrames={FPS * 10} defaultProps={base} calculateMetadata={calcular} />
+    <Still id="Miniatura" component={Miniatura} width={1280} height={720} defaultProps={{
+      persona: '', etiqueta: 'COLOMBIA 2027', linea1: 'Tu plata', linea2: 'perdió valor', cifra: '−$59.266', nota: 'por cada millón',
+    } as PropsMiniatura} />
   </>
 );
