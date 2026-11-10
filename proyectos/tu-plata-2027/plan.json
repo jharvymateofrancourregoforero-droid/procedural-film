@@ -43,7 +43,8 @@
       "tipo": "media",
       "query": "woman checking long supermarket receipt",
       "inicio": 5.69,
-      "fin": 9.04
+      "fin": 9.04,
+      "src": "tu-plata-2027/mis/e002.jpg"
     },
     {
       "texto": "En octubre, la inflación en Colombia llegó al seis coma treinta por ciento anual.",
@@ -64,7 +65,8 @@
       "tipo": "media",
       "query": "stock exchange board numbers changing",
       "inicio": 14.58,
-      "fin": 17.2
+      "fin": 17.2,
+      "src": "tu-plata-2027/mis/e004.jpg"
     },
     {
       "texto": "Son cinco cifras. Y entre las cinco deciden cómo te va con tu plata en dos mil veintisiete.",
@@ -78,7 +80,8 @@
       "tipo": "media",
       "query": "calculator and coins on wooden table",
       "inicio": 24.33,
-      "fin": 29.44
+      "fin": 29.44,
+      "src": "tu-plata-2027/mis/e006.jpg"
     },
     {
       "texto": "Una de ellas se decidió por un solo voto. Literal.",
@@ -93,14 +96,16 @@
       "tipo": "media",
       "query": "person writing plan in notebook at desk",
       "inicio": 33.94,
-      "fin": 39.11
+      "fin": 39.11,
+      "src": "tu-plata-2027/mis/e008.jpg"
     },
     {
       "texto": "Pero empecemos por la que más te toca el bolsillo, todos los días.",
       "tipo": "media",
       "query": "latin american street market fruit stand",
       "inicio": 39.66,
-      "fin": 43.27
+      "fin": 43.27,
+      "src": "tu-plata-2027/mis/e009.jpg"
     },
     {
       "texto": "Cifra número uno: la inflación.",
@@ -114,15 +119,17 @@
       "tipo": "media",
       "query": "shopping cart moving down grocery aisle",
       "inicio": 46.926,
-      "fin": 52.346
+      "fin": 52.346,
+      "src": "tu-plata-2027/mis/e011.jpg"
     },
     {
       "texto": "Si algo costaba cien mil pesos en octubre del año pasado, hoy en promedio cuesta unos ciento seis mil trescientos.",
       "tipo": "media",
-      "query": "hand paying with cash at store counter",
+      "query": "cash payment",
       "fuente": "Cálculo con IPC anual del DANE (6,30 %)",
       "inicio": 52.856,
-      "fin": 58.946
+      "fin": 58.946,
+      "src": "tu-plata-2027/mis/e012.jpg"
     },
     {
       "texto": "Y lo preocupante es la dirección. Hace un año estaba en cinco coma cincuenta y uno por ciento. Hoy, en seis coma treinta.",
@@ -155,7 +162,8 @@
       "tipo": "media",
       "query": "employee changing price labels on shelf",
       "inicio": 68.056,
-      "fin": 72.046
+      "fin": 72.046,
+      "src": "tu-plata-2027/mis/e014.jpg"
     },
     {
       "texto": "En lo que va del año, los precios ya subieron cinco coma noventa y cuatro por ciento. Y faltan dos meses.",
@@ -172,10 +180,11 @@
     {
       "texto": "El mercado esperaba un dato un poquito peor, seis coma treinta y ocho. Salió apenas menos. Pero sigue alta.",
       "tipo": "media",
-      "query": "economists looking at charts in office",
+      "query": "stock market chart",
       "fuente": "Encuesta Citi, vía ABC Economía",
       "inicio": 79.216,
-      "fin": 85.846
+      "fin": 85.846,
+      "src": "tu-plata-2027/mis/e016.jpg"
     },
     {
       "texto": "Y solo en octubre, en un mes, los precios subieron cero coma veinte por ciento.",
@@ -192,9 +201,10 @@
     {
       "texto": "Parece poquito. Pero la inflación no se nota en un día. Se nota cuando el mercado de siempre ya no te alcanza para lo mismo.",
       "tipo": "media",
-      "query": "woman putting groceries in half empty bag",
+      "query": "grocery bag",
       "inicio": 91.316,
-      "fin": 98.886
+      "fin": 98.886,
+      "src": "tu-plata-2027/mis/e018.jpg"
     },
     {
       "texto": "Y el dato del DANE es un promedio nacional. En unas ciudades comprar comida sube más que en otras.",
@@ -217,7 +227,8 @@
       "query": "waiter serving plates in busy restaurant",
       "fuente": "DANE, IPC oct. 2026",
       "inicio": 109.386,
-      "fin": 113.126
+      "fin": 113.126,
+      "src": "tu-plata-2027/mis/e021.jpg"
     },
     {
       "texto": "…la educación, la salud y los alimentos.",
@@ -225,7 +236,8 @@
       "query": "students walking into school building",
       "fuente": "DANE, IPC oct. 2026",
       "inicio": 113.716,
-      "fin": 116.166
+      "fin": 116.166,
+      "src": "tu-plata-2027/mis/e022.jpg"
     },
     {
       "texto": "Es decir: comer, estudiar y cuidarte. Cosas que no puedes dejar de pagar.",
@@ -239,16 +251,18 @@
     {
       "texto": "Por eso la inflación golpea más fuerte a quien tiene menos margen.",
       "tipo": "media",
-      "query": "family counting money at kitchen table",
+      "query": "counting money",
       "inicio": 121.676,
-      "fin": 125.166
+      "fin": 125.166,
+      "src": "tu-plata-2027/mis/e024.jpg"
     },
     {
       "texto": "Si casi todo tu sueldo se va en mercado, arriendo y transporte, tu inflación personal puede ser más alta que el promedio.",
       "tipo": "media",
-      "query": "crowded city bus with commuters",
+      "query": "city bus",
       "inicio": 125.666,
-      "fin": 133.406
+      "fin": 133.406,
+      "src": "tu-plata-2027/mis/e025.jpg"
     },
     {
       "texto": "Ahora, ¿qué tan lejos estamos de la meta? El Banco de la República apunta a una inflación de tres por ciento.",
@@ -273,9 +287,10 @@
     {
       "texto": "Y eso tiene un efecto silencioso sobre la plata que tienes guardada.",
       "tipo": "media",
-      "query": "piggy bank on wooden shelf",
+      "query": "piggy bank",
       "inicio": 143.976,
-      "fin": 147.666
+      "fin": 147.666,
+      "src": "tu-plata-2027/mis/e028.jpg"
     },
     {
       "texto": "Un millón de pesos guardado hace un año hoy compra lo mismo que unos novecientos cuarenta mil.",
@@ -293,7 +308,8 @@
       "tipo": "media",
       "query": "old banknotes in hands close up",
       "inicio": 154.466,
-      "fin": 158.766
+      "fin": 158.766,
+      "src": "tu-plata-2027/mis/e030.jpg"
     },
     {
       "texto": "Hay una regla rápida para ver el largo plazo: la regla del setenta y dos.",
@@ -305,9 +321,10 @@
     {
       "texto": "Divides setenta y dos entre la inflación, y te da los años que tardan los precios en duplicarse.",
       "tipo": "media",
-      "query": "person using calculator at desk",
+      "query": "calculator",
       "inicio": 163.936,
-      "fin": 169.146
+      "fin": 169.146,
+      "src": "tu-plata-2027/mis/e032.jpg"
     },
     {
       "texto": "Con inflación de seis coma tres, los precios se duplicarían en un poco más de once años.",
@@ -326,7 +343,8 @@
       "tipo": "media",
       "query": "plant growing from pile of coins",
       "inicio": 175.526,
-      "fin": 181.806
+      "fin": 181.806,
+      "src": "tu-plata-2027/mis/e034.jpg"
     },
     {
       "texto": "Si tu plata rinde menos de seis coma tres por ciento al año, está perdiendo. Aunque el número en tu cuenta suba.",
@@ -339,16 +357,18 @@
     {
       "texto": "Guarda esa cifra en la cabeza, porque la vamos a usar en un momento.",
       "tipo": "media",
-      "query": "woman thinking looking out window",
+      "query": "woman window",
       "inicio": 189.996,
-      "fin": 193.826
+      "fin": 193.826,
+      "src": "tu-plata-2027/mis/e036.jpg"
     },
     {
       "texto": "Pero primero, una pregunta que mucha gente se está haciendo.",
       "tipo": "media",
-      "query": "man looking confused at phone",
+      "query": "man phone",
       "inicio": 194.376,
-      "fin": 197.306
+      "fin": 197.306,
+      "src": "tu-plata-2027/mis/e037.jpg"
     },
     {
       "texto": "Si el dólar bajó, ¿por qué no bajó todo lo demás?",
@@ -363,14 +383,16 @@
       "tipo": "media",
       "query": "us dollar banknotes on table close up",
       "inicio": 201.371,
-      "fin": 203.551
+      "fin": 203.551,
+      "src": "tu-plata-2027/mis/e039.jpg"
     },
     {
       "texto": "La tasa oficial del dólar se calcula con las operaciones del día anterior, y la certifica la Superfinanciera.",
       "tipo": "media",
       "query": "currency exchange rate board",
       "inicio": 203.951,
-      "fin": 210.031
+      "fin": 210.031,
+      "src": "tu-plata-2027/mis/e040.jpg"
     },
     {
       "texto": "Mira cómo se movió en el último año. En diciembre estaba cerca de tres mil setecientos cincuenta y siete pesos.",
@@ -435,10 +457,11 @@
     {
       "texto": "Luego vino una caída fuerte a mitad de año. En julio rondó los tres mil ciento treinta y dos.",
       "tipo": "media",
-      "query": "financial charts on multiple monitors",
+      "query": "stock chart screen",
       "fuente": "Superfinanciera vía datos.gov.co",
       "inicio": 217.931,
-      "fin": 223.951
+      "fin": 223.951,
+      "src": "tu-plata-2027/mis/e042.jpg"
     },
     {
       "texto": "Hoy, diez de noviembre, la tasa oficial está en tres mil doscientos sesenta y nueve pesos con ochenta y ocho centavos.",
@@ -467,7 +490,8 @@
       "query": "ocean waves rising and falling aerial",
       "fuente": "Superfinanciera vía datos.gov.co",
       "inicio": 236.301,
-      "fin": 243.411
+      "fin": 243.411,
+      "src": "tu-plata-2027/mis/e045.jpg"
     },
     {
       "texto": "Ese rebote llegó justo después de las elecciones de mitad de mandato en Estados Unidos.",
@@ -482,14 +506,16 @@
       "tipo": "media",
       "query": "new york city skyline aerial",
       "inicio": 249.301,
-      "fin": 253.851
+      "fin": 253.851,
+      "src": "tu-plata-2027/mis/e047.jpg"
     },
     {
       "texto": "Además, las tasas de interés altas en Colombia atraen a inversionistas de afuera que traen dólares. Guarda esa idea, que la vas a ver otra vez.",
       "tipo": "media",
       "query": "airplane landing at airport runway",
       "inicio": 254.071,
-      "fin": 264.071
+      "fin": 264.071,
+      "src": "tu-plata-2027/mis/e048.jpg"
     },
     {
       "texto": "Ojo: en la casa de cambio no te dan la tasa oficial. Te compran más barato y te venden más caro.",
@@ -511,7 +537,8 @@
       "tipo": "media",
       "query": "smartphones displayed in electronics store",
       "inicio": 270.821,
-      "fin": 276.951
+      "fin": 276.951,
+      "src": "tu-plata-2027/mis/e050.jpg"
     },
     {
       "texto": "Entonces, ¿por qué no lo sientes?",
@@ -526,14 +553,16 @@
       "tipo": "media",
       "query": "shop owner arranging products on shelf",
       "inicio": 279.891,
-      "fin": 286.251
+      "fin": 286.251,
+      "src": "tu-plata-2027/mis/e052.jpg"
     },
     {
       "texto": "Muchos compraron su inventario cuando el dólar estaba caro, y lo siguen vendiendo a ese precio.",
       "tipo": "media",
       "query": "warehouse boxes and forklift",
       "inicio": 286.681,
-      "fin": 292.571
+      "fin": 292.571,
+      "src": "tu-plata-2027/mis/e053.jpg"
     },
     {
       "texto": "Segundo: mucho de lo que pagas no viene de afuera.",
@@ -547,7 +576,8 @@
       "tipo": "media",
       "query": "barber cutting hair in barbershop",
       "inicio": 296.341,
-      "fin": 302.991
+      "fin": 302.991,
+      "src": "tu-plata-2027/mis/e055.jpg"
     },
     {
       "texto": "Y justo eso fue lo que más subió: restaurantes, educación y salud.",
@@ -555,7 +585,8 @@
       "query": "chef cooking in restaurant kitchen",
       "fuente": "DANE, IPC oct. 2026",
       "inicio": 303.441,
-      "fin": 307.231
+      "fin": 307.231,
+      "src": "tu-plata-2027/mis/e056.jpg"
     },
     {
       "texto": "Por eso puedes tener un dólar más barato y, al mismo tiempo, una inflación más alta.",
@@ -575,9 +606,10 @@
     {
       "texto": "Tercero: el dólar no se queda quieto. Lo que bajó en meses puede subir en semanas.",
       "tipo": "media",
-      "query": "roller coaster drop slow motion",
+      "query": "roller coaster",
       "inicio": 313.941,
-      "fin": 319.091
+      "fin": 319.091,
+      "src": "tu-plata-2027/mis/e058.jpg"
     },
     {
       "texto": "Pero eso no es lo más interesante.",
@@ -591,14 +623,16 @@
       "tipo": "media",
       "query": "coffee farmer harvesting coffee cherries",
       "inicio": 322.031,
-      "fin": 325.331
+      "fin": 325.331,
+      "src": "tu-plata-2027/mis/e060.jpg"
     },
     {
       "texto": "Si exportas, o te pagan en dólares como a muchos freelancers, hoy recibes menos pesos por el mismo trabajo.",
       "tipo": "media",
       "query": "freelancer working on laptop at home",
       "inicio": 325.881,
-      "fin": 332.771
+      "fin": 332.771,
+      "src": "tu-plata-2027/mis/e061.jpg"
     },
     {
       "texto": "Y si un familiar te manda plata desde afuera, también lo notas: llegan menos pesos por cada dólar.",
@@ -624,7 +658,8 @@
       "tipo": "media",
       "query": "traveler with suitcase walking in airport",
       "inicio": 350.571,
-      "fin": 357.831
+      "fin": 357.831,
+      "src": "tu-plata-2027/mis/e064.jpg"
     },
     {
       "texto": "La pregunta no es si el dólar va a subir o bajar. Nadie lo sabe con certeza.",
@@ -636,17 +671,19 @@
     {
       "texto": "La pregunta es: ¿qué parte de tu vida depende del dólar?",
       "tipo": "media",
-      "query": "person looking at banking app on phone",
+      "query": "mobile banking",
       "pausa": 0.4,
       "inicio": 362.871,
-      "fin": 366.491
+      "fin": 366.491,
+      "src": "tu-plata-2027/mis/e066.jpg"
     },
     {
       "texto": "Si tienes gastos en dólares, como una deuda o una suscripción, ten un colchón para cuando suba.",
       "tipo": "media",
       "query": "laptop showing online subscription payment",
       "inicio": 366.891,
-      "fin": 372.131
+      "fin": 372.131,
+      "src": "tu-plata-2027/mis/e067.jpg"
     },
     {
       "texto": "Ahora sí, la cifra que se decidió por un solo voto.",
@@ -661,14 +698,16 @@
       "tipo": "media",
       "query": "classical bank building with columns",
       "inicio": 376.476,
-      "fin": 380.226
+      "fin": 380.226,
+      "src": "tu-plata-2027/mis/e069.jpg"
     },
     {
       "texto": "Es la tasa a la que el Banco de la República les presta plata a los bancos.",
       "tipo": "media",
-      "query": "bank vault door opening",
+      "query": "bank vault",
       "inicio": 380.836,
-      "fin": 386.586
+      "fin": 386.586,
+      "src": "tu-plata-2027/mis/e070.jpg"
     },
     {
       "texto": "Y termina afectando lo que tú pagas por un crédito y lo que te pagan por ahorrar.",
@@ -695,7 +734,8 @@
       "tipo": "media",
       "query": "people in meeting room around table",
       "inicio": 396.416,
-      "fin": 400.346
+      "fin": 400.346,
+      "src": "tu-plata-2027/mis/e073.jpg"
     },
     {
       "texto": "La votación quedó cuatro contra tres. Cuatro querían mantenerla. Tres querían subirla.",
@@ -725,10 +765,11 @@
     {
       "texto": "Y eso que en la reunión anterior la junta sí la había subido.",
       "tipo": "media",
-      "query": "board members walking in corridor",
+      "query": "office corridor",
       "fuente": "Cambio / La República, oct. 2026",
       "inicio": 412.546,
-      "fin": 416.016
+      "fin": 416.016,
+      "src": "tu-plata-2027/mis/e076.jpg"
     },
     {
       "texto": "El gerente, Leonardo Villar, dijo que la política seguirá siendo restrictiva, y que lo que venga depende de los nuevos datos.",
@@ -743,14 +784,16 @@
       "tipo": "media",
       "query": "traffic light turning red at intersection",
       "inicio": 424.466,
-      "fin": 430.596
+      "fin": 430.596,
+      "src": "tu-plata-2027/mis/e078.jpg"
     },
     {
       "texto": "Y no es una tasa cualquiera. A principio de año estaba mucho más abajo.",
       "tipo": "media",
-      "query": "calendar pages turning",
+      "query": "calendar",
       "inicio": 431.016,
-      "fin": 435.296
+      "fin": 435.296,
+      "src": "tu-plata-2027/mis/e079.jpg"
     },
     {
       "texto": "En enero estaba en nueve coma veinticinco. Hoy, en doce coma veinticinco. Tres puntos más en menos de un año.",
@@ -780,14 +823,16 @@
       "query": "woman comparing prices of products in supermarket",
       "pausa": 0.3,
       "inicio": 443.086,
-      "fin": 446.496
+      "fin": 446.496,
+      "src": "tu-plata-2027/mis/e081.jpg"
     },
     {
       "texto": "Subir la tasa encarece el crédito. La gente pide menos prestado, compra menos, y los precios se calman.",
       "tipo": "media",
-      "query": "person putting credit card back in wallet",
+      "query": "wallet cards",
       "inicio": 446.976,
-      "fin": 453.276
+      "fin": 453.276,
+      "src": "tu-plata-2027/mis/e082.jpg"
     },
     {
       "texto": "Es como frenar un carro: no se detiene de una, pero baja la velocidad.",
@@ -799,17 +844,19 @@
     {
       "texto": "¿Y qué significa para ti?",
       "tipo": "media",
-      "query": "young woman looking at laptop surprised",
+      "query": "woman laptop",
       "pausa": 0.4,
       "inicio": 458.106,
-      "fin": 459.476
+      "fin": 459.476,
+      "src": "tu-plata-2027/mis/e084.jpg"
     },
     {
       "texto": "Si tienes deudas con tasa variable, como algunos créditos de vivienda o de libre inversión, tu cuota puede seguir alta.",
       "tipo": "media",
       "query": "house keys on table with documents",
       "inicio": 459.876,
-      "fin": 466.416
+      "fin": 466.416,
+      "src": "tu-plata-2027/mis/e085.jpg"
     },
     {
       "texto": "Las tarjetas de crédito también se mueven con estas tasas. Y suelen ser de las deudas más caras.",
@@ -823,7 +870,8 @@
       "tipo": "media",
       "query": "credit card payment terminal close up",
       "inicio": 472.656,
-      "fin": 479.016
+      "fin": 479.016,
+      "src": "tu-plata-2027/mis/e087.jpg"
     },
     {
       "texto": "Y si ya tienes un crédito, mira si puedes hacer abonos a capital. Cada peso que abonas deja de cobrarte intereses.",
@@ -838,7 +886,8 @@
       "query": "man thinking at desk with documents",
       "pausa": 0.4,
       "inicio": 486.416,
-      "fin": 492.616
+      "fin": 492.616,
+      "src": "tu-plata-2027/mis/e089.jpg"
     },
     {
       "texto": "Pero hay una buena noticia escondida aquí.",
@@ -850,9 +899,10 @@
     {
       "texto": "Cuando las tasas están altas, ahorrar también paga más.",
       "tipo": "media",
-      "query": "stacks of coins growing",
+      "query": "coins stack",
       "inicio": 496.606,
-      "fin": 500.236
+      "fin": 500.236,
+      "src": "tu-plata-2027/mis/e091.jpg"
     },
     {
       "texto": "¿Te acuerdas de la cifra que te pedí guardar? Seis coma treinta por ciento.",
@@ -894,16 +944,18 @@
     {
       "texto": "Eso quiere decir que hay productos de ahorro que, por ahora, sí le pueden ganar a la inflación.",
       "tipo": "media",
-      "query": "woman smiling using banking app",
+      "query": "savings jar",
       "inicio": 519.596,
-      "fin": 525.156
+      "fin": 525.156,
+      "src": "tu-plata-2027/mis/e095.jpg"
     },
     {
       "texto": "Un CDT, por ejemplo, es un certificado de depósito a término. Le prestas tu plata al banco por un tiempo fijo, y te paga intereses.",
       "tipo": "media",
       "query": "person signing document at bank desk",
       "inicio": 525.656,
-      "fin": 534.476
+      "fin": 534.476,
+      "src": "tu-plata-2027/mis/e096.jpg"
     },
     {
       "texto": "Si lo abres con tasa fija, esa tasa se queda contigo hasta que vence, aunque después las tasas bajen.",
@@ -915,9 +967,10 @@
     {
       "texto": "Ojo: lo que te paga un banco no es la tasa del Banco de la República. Cada entidad pone la suya.",
       "tipo": "media",
-      "query": "people waiting in line at bank",
+      "query": "bank",
       "inicio": 541.616,
-      "fin": 547.656
+      "fin": 547.656,
+      "src": "tu-plata-2027/mis/e098.jpg"
     },
     {
       "texto": "Y si tienes un CDT por vencer, no lo renueves en automático. Compara antes.",
@@ -938,14 +991,16 @@
       "tipo": "media",
       "query": "sprout growing in soil close up",
       "inicio": 557.006,
-      "fin": 563.656
+      "fin": 563.656,
+      "src": "tu-plata-2027/mis/e101.jpg"
     },
     {
       "texto": "Y recuerda: con cuatro votos contra tres, la próxima decisión puede ir para cualquier lado.",
       "tipo": "media",
-      "query": "coin flip slow motion",
+      "query": "coin toss",
       "inicio": 564.026,
-      "fin": 569.356
+      "fin": 569.356,
+      "src": "tu-plata-2027/mis/e102.jpg"
     },
     {
       "texto": "Cifra número cuatro: el salario mínimo de dos mil veintisiete.",
@@ -957,16 +1012,18 @@
     {
       "texto": "Esta cifra le llega directo a millones de trabajadores. Y no solo a quienes ganan el mínimo.",
       "tipo": "media",
-      "query": "construction workers walking at dawn",
+      "query": "construction workers",
       "inicio": 574.063,
-      "fin": 578.913
+      "fin": 578.913,
+      "src": "tu-plata-2027/mis/e104.jpg"
     },
     {
       "texto": "Muchas negociaciones de sueldo y muchos precios lo toman como referencia.",
       "tipo": "media",
       "query": "office worker reviewing paperwork",
       "inicio": 579.423,
-      "fin": 583.573
+      "fin": 583.573,
+      "src": "tu-plata-2027/mis/e105.jpg"
     },
     {
       "texto": "Hoy el salario mínimo es de un millón setecientos cincuenta mil novecientos cinco pesos.",
@@ -986,7 +1043,8 @@
       "query": "worker receiving pay envelope",
       "fuente": "Mintrabajo (vía Publimetro, nov. 2026)",
       "inicio": 590.283,
-      "fin": 597.533
+      "fin": 597.533,
+      "src": "tu-plata-2027/mis/e107.jpg"
     },
     {
       "texto": "Ahora, ¿cuánto podría subir?",
@@ -1001,15 +1059,17 @@
       "tipo": "media",
       "query": "people negotiating at conference table",
       "inicio": 600.773,
-      "fin": 605.353
+      "fin": 605.353,
+      "src": "tu-plata-2027/mis/e109.jpg"
     },
     {
       "texto": "Fenalco propone hasta un nueve por ciento. Algunos analistas hablan de un rango entre nueve y diez.",
       "tipo": "media",
-      "query": "business people discussing charts",
+      "query": "business meeting",
       "fuente": "Publimetro / Portafolio, nov. 2026",
       "inicio": 605.833,
-      "fin": 612.113
+      "fin": 612.113,
+      "src": "tu-plata-2027/mis/e110.jpg"
     },
     {
       "texto": "Hagamos las cuentas. Con un alza igual a la inflación, quedaría cerca de un millón ochocientos sesenta y un mil. Con nueve por ciento, un millón novecientos ocho mil. Con diez, un millón novecientos veintiséis mil.",
@@ -1042,7 +1102,8 @@
       "query": "accountant working with spreadsheets",
       "fuente": "Portafolio, nov. 2026",
       "inicio": 625.863,
-      "fin": 630.993
+      "fin": 630.993,
+      "src": "tu-plata-2027/mis/e112.jpg"
     },
     {
       "texto": "Las centrales sindicales piden bastante más. Las propuestas de un lado y del otro están lejos.",
@@ -1058,14 +1119,16 @@
       "query": "factory workers assembling products",
       "fuente": "Portafolio, nov. 2026",
       "inicio": 637.283,
-      "fin": 644.113
+      "fin": 644.113,
+      "src": "tu-plata-2027/mis/e114.jpg"
     },
     {
       "texto": "Si no hay acuerdo, el gobierno lo fija por decreto antes de que termine el año.",
       "tipo": "media",
       "query": "government building facade",
       "inicio": 644.613,
-      "fin": 649.293
+      "fin": 649.293,
+      "src": "tu-plata-2027/mis/e115.jpg"
     },
     {
       "texto": "Ojo con esto: si el aumento es igual a la inflación, no ganas nada. Solo recuperas lo que perdiste.",
@@ -1079,7 +1142,8 @@
       "tipo": "media",
       "query": "man reading payslip at home",
       "inicio": 656.193,
-      "fin": 659.453
+      "fin": 659.453,
+      "src": "tu-plata-2027/mis/e117.jpg"
     },
     {
       "texto": "Y aquí viene lo que nadie dice.",
@@ -1093,14 +1157,16 @@
       "tipo": "media",
       "query": "employee talking with manager in office",
       "inicio": 661.983,
-      "fin": 667.733
+      "fin": 667.733,
+      "src": "tu-plata-2027/mis/e119.jpg"
     },
     {
       "texto": "Y si tu sueldo no sube, la inflación te quita poder de compra mes a mes, sin que lo notes.",
       "tipo": "media",
       "query": "empty wallet open on table",
       "inicio": 668.253,
-      "fin": 673.913
+      "fin": 673.913,
+      "src": "tu-plata-2027/mis/e120.jpg"
     },
     {
       "texto": "Piénsalo así: unos gastos de tres millones al mes, con seis coma tres por ciento de inflación, hoy cuestan unos ciento ochenta y nueve mil pesos más.",
@@ -1119,7 +1185,8 @@
       "tipo": "media",
       "query": "job interview handshake",
       "inicio": 684.413,
-      "fin": 687.993
+      "fin": 687.993,
+      "src": "tu-plata-2027/mis/e122.jpg"
     },
     {
       "texto": "Pide al menos la inflación. Y llega con datos de lo que aportas.",
@@ -1135,14 +1202,16 @@
       "tipo": "media",
       "query": "graphic designer working in home studio",
       "inicio": 692.473,
-      "fin": 700.913
+      "fin": 700.913,
+      "src": "tu-plata-2027/mis/e124.jpg"
     },
     {
       "texto": "Y prepárate para enero: es cuando muchos precios y tarifas se reajustan.",
       "tipo": "media",
       "query": "january calendar on wall",
       "inicio": 701.423,
-      "fin": 706.413
+      "fin": 706.413,
+      "src": "tu-plata-2027/mis/e125.jpg"
     },
     {
       "texto": "Enero es el mes en que tu presupuesto se pone a prueba.",
@@ -1156,7 +1225,8 @@
       "tipo": "media",
       "query": "lightning storm night sky",
       "inicio": 710.603,
-      "fin": 714.213
+      "fin": 714.213,
+      "src": "tu-plata-2027/mis/e127.jpg"
     },
     {
       "texto": "Cifra número cinco: el bitcoin.",
@@ -1183,7 +1253,8 @@
       "query": "cryptocurrency chart on phone screen",
       "fuente": "CoinGecko, 10 nov. 2026",
       "inicio": 723.157,
-      "fin": 726.947
+      "fin": 726.947,
+      "src": "tu-plata-2027/mis/e130.jpg"
     },
     {
       "texto": "Para ponerlo en contexto, un bitcoin cuesta lo mismo que unos diez años de salario mínimo con auxilio.",
@@ -1203,7 +1274,8 @@
       "query": "computer screen with green and red charts",
       "fuente": "CoinGecko, 10 nov. 2026",
       "inicio": 734.937,
-      "fin": 740.547
+      "fin": 740.547,
+      "src": "tu-plata-2027/mis/e132.jpg"
     },
     {
       "texto": "¿Por qué tanta gente lo compra? Porque es escaso: nunca va a haber más de veintiún millones de bitcoins.",
@@ -1218,7 +1290,8 @@
       "tipo": "media",
       "query": "gold bars stacked in vault",
       "inicio": 747.337,
-      "fin": 752.487
+      "fin": 752.487,
+      "src": "tu-plata-2027/mis/e134.jpg"
     },
     {
       "texto": "Y el precio se mueve mucho. En febrero de este año el bitcoin llegó a estar por debajo de setenta mil dólares.",
@@ -1226,7 +1299,8 @@
       "query": "stormy sea waves crashing",
       "fuente": "La Razón, feb. 2026",
       "inicio": 752.707,
-      "fin": 758.847
+      "fin": 758.847,
+      "src": "tu-plata-2027/mis/e135.jpg"
     },
     {
       "texto": "Hay algo que casi nadie tiene en cuenta: en Colombia, el bitcoin te pega doble.",
@@ -1238,9 +1312,10 @@
     {
       "texto": "Su precio está en dólares. Y el dólar también se mueve.",
       "tipo": "media",
-      "query": "two coins balanced on scale",
+      "query": "coins",
       "inicio": 764.267,
-      "fin": 767.347
+      "fin": 767.347,
+      "src": "tu-plata-2027/mis/e137.jpg"
     },
     {
       "texto": "Si el bitcoin sube diez por ciento, pero el dólar baja diez por ciento, en pesos quedas casi igual.",
@@ -1260,10 +1335,11 @@
     {
       "texto": "Este año el dólar bajó casi trece por ciento. Eso le restó a cualquier ganancia medida en pesos.",
       "tipo": "media",
-      "query": "worried man checking phone at night",
+      "query": "man phone night",
       "fuente": "Superfinanciera vía datos.gov.co",
       "inicio": 775.197,
-      "fin": 781.567
+      "fin": 781.567,
+      "src": "tu-plata-2027/mis/e139.jpg"
     },
     {
       "texto": "Otra regla: nunca metas en cripto plata que necesites el próximo año.",
@@ -1277,14 +1353,16 @@
       "tipo": "media",
       "query": "apartment keys and cash on table",
       "inicio": 786.947,
-      "fin": 790.807
+      "fin": 790.807,
+      "src": "tu-plata-2027/mis/e141.jpg"
     },
     {
       "texto": "Y desconfía de cualquiera que te prometa ganancias seguras. Eso no existe en cripto. Ni en ninguna inversión.",
       "tipo": "media",
-      "query": "man receiving suspicious phone call",
+      "query": "phone call",
       "inicio": 791.307,
-      "fin": 797.687
+      "fin": 797.687,
+      "src": "tu-plata-2027/mis/e142.jpg"
     },
     {
       "texto": "Si te prometen ganancia garantizada, es una señal de alerta.",
@@ -1298,14 +1376,16 @@
       "tipo": "media",
       "query": "young man researching on laptop at night",
       "inicio": 802.147,
-      "fin": 808.807
+      "fin": 808.807,
+      "src": "tu-plata-2027/mis/e144.jpg"
     },
     {
       "texto": "Y recuerda que lo que ganes con cripto puede tener obligaciones de impuestos. Asesórate antes de declarar.",
       "tipo": "media",
-      "query": "person filling tax form at desk",
+      "query": "tax form",
       "inicio": 809.297,
-      "fin": 815.847
+      "fin": 815.847,
+      "src": "tu-plata-2027/mis/e145.jpg"
     },
     {
       "texto": "Muy bien. Ya tienes las cinco cifras. Ahora juntémoslas.",
@@ -1329,10 +1409,11 @@
     {
       "texto": "Dos: el dólar bajó casi trece por ciento desde diciembre, pero puede rebotar rápido.",
       "tipo": "media",
-      "query": "currency exchange office window",
+      "query": "currency exchange",
       "fuente": "Superfinanciera vía datos.gov.co",
       "inicio": 825.042,
-      "fin": 830.157
+      "fin": 830.157,
+      "src": "tu-plata-2027/mis/e148.jpg"
     },
     {
       "texto": "Tres: la tasa del Banco está en doce coma veinticinco por ciento, decidida cuatro contra tres.",
@@ -1352,7 +1433,8 @@
       "query": "workers on factory production line",
       "fuente": "Publimetro / Portafolio, nov. 2026",
       "inicio": 837.694,
-      "fin": 844.637
+      "fin": 844.637,
+      "src": "tu-plata-2027/mis/e150.jpg"
     },
     {
       "texto": "Y cinco: un bitcoin cuesta unos setenta y cinco mil dólares, y se mueve fuerte en las dos direcciones.",
@@ -1377,14 +1459,16 @@
       "tipo": "media",
       "query": "woman writing budget in notebook",
       "inicio": 854.517,
-      "fin": 863.457
+      "fin": 863.457,
+      "src": "tu-plata-2027/mis/e153.jpg"
     },
     {
       "texto": "Si tus gastos subieron más que tus ingresos, ese es el primer número que tienes que corregir.",
       "tipo": "media",
       "query": "receipts and calculator on desk",
       "inicio": 863.977,
-      "fin": 869.157
+      "fin": 869.157,
+      "src": "tu-plata-2027/mis/e154.jpg"
     },
     {
       "texto": "Los extractos de tu banco o tu app de pagos ya tienen esa información. Solo es sentarte una hora a mirarla.",
@@ -1403,9 +1487,10 @@
     {
       "texto": "Casi siempre es la tarjeta de crédito. Con tasas altas, cada mes que la arrastras te cuesta más.",
       "tipo": "media",
-      "query": "cutting credit card with scissors",
+      "query": "credit cards",
       "inicio": 880.357,
-      "fin": 885.897
+      "fin": 885.897,
+      "src": "tu-plata-2027/mis/e157.jpg"
     },
     {
       "texto": "Paso tres: haz que tu ahorro le gane a la inflación.",
@@ -1419,16 +1504,18 @@
     {
       "texto": "Compara la tasa efectiva anual, réstale la inflación, y quédate solo con lo que te dé positivo.",
       "tipo": "media",
-      "query": "person comparing options on tablet",
+      "query": "tablet",
       "inicio": 890.657,
-      "fin": 896.137
+      "fin": 896.137,
+      "src": "tu-plata-2027/mis/e159.jpg"
     },
     {
       "texto": "Y aprovecha que hoy las tasas están altas. Con una votación cuatro contra tres, nadie sabe cuánto van a durar.",
       "tipo": "media",
       "query": "hourglass sand running",
       "inicio": 896.577,
-      "fin": 902.677
+      "fin": 902.677,
+      "src": "tu-plata-2027/mis/e160.jpg"
     },
     {
       "texto": "Y antes de invertir en cualquier cosa, arma un fondo de emergencia: plata para varios meses de gastos, en algo que puedas sacar rápido.",
@@ -1447,9 +1534,10 @@
     {
       "texto": "Cuando se conozca el nuevo salario mínimo, revisa tu presupuesto. Y si eres independiente, actualiza tus tarifas.",
       "tipo": "media",
-      "query": "freelancer updating invoice on laptop",
+      "query": "laptop desk",
       "inicio": 914.247,
-      "fin": 920.677
+      "fin": 920.677,
+      "src": "tu-plata-2027/mis/e163.jpg"
     },
     {
       "texto": "Paso cinco: si inviertes en cripto o en dólares, que sea plata que puedas dejar quieta.",
@@ -1461,9 +1549,10 @@
     {
       "texto": "Y que sea una parte pequeña de lo que tienes. Nunca todo.",
       "tipo": "media",
-      "query": "small plant in pot on desk",
+      "query": "small plant",
       "inicio": 926.477,
-      "fin": 929.677
+      "fin": 929.677,
+      "src": "tu-plata-2027/mis/e165.jpg"
     },
     {
       "texto": "Ninguna de estas cinco cifras la controlas tú. Pero lo que haces con ellas, sí.",
@@ -1477,9 +1566,10 @@
     {
       "texto": "Si este video te sirvió, compártelo con alguien que esté negociando su sueldo o pensando en endeudarse.",
       "tipo": "media",
-      "query": "friends sharing phone screen",
+      "query": "friends phone",
       "inicio": 935.867,
-      "fin": 941.937
+      "fin": 941.937,
+      "src": "tu-plata-2027/mis/e167.jpg"
     },
     {
       "texto": "Y cuéntame en los comentarios: ¿cuál de estas cinco cifras te está afectando más?",
@@ -1492,5 +1582,7 @@
   ],
   "voz": "tu-plata-2027/voz/narracion.mp3",
   "palabras": "tu-plata-2027/palabras.json",
-  "duracion": 951.35
+  "duracion": 951.35,
+  "musica": "musica/finanzas-calma-mix.mp3",
+  "volumen_musica": 0.16
 }
