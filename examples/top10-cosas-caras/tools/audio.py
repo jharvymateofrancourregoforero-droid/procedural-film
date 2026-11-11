@@ -120,7 +120,7 @@ PROGS = [
 ]
 BASS_PAT = [(0, 3), (3, 1), (6, 2), (10, 2), (12, 1), (14, 2)]
 CHORD_HITS = [(0, 3), (6, 2), (10, 4)]
-SOFT_SEGS = {"reglas"}  # sober chapters: no hats, softer drums
+SOFT_SEGS = set()  # every chapter keeps the full groove
 
 
 def chapter_index(t):

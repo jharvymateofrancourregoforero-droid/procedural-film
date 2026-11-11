@@ -1,4 +1,4 @@
-"""Eye-catching YouTube thumbnail (v2): burst background, outlined cut-out, flying real bills, gold TOP 10, #1 mystery box.
+"""Thumbnail helpers (burst background, gold text, outlines, cut-outs) shared with the earlier top 10 video.
 
 Cut-outs use OpenCV GrabCut (classic segmentation, no AI). usage: python3 tools/thumbnail_v2.py
 """
@@ -111,57 +111,3 @@ def put(canvas, im, cx, cy, scale=1.0, rot=0.0):
     if rot:
         im = im.rotate(rot, expand=True, resample=Image.BICUBIC)
     canvas.alpha_composite(im, (int(cx - im.width / 2), int(cy - im.height / 2)))
-
-
-def main():
-    canvas = burst_bg()
-
-    # flying real bills (cut from the "cash in hands" photo) behind the person
-    cash = punch(cutout("cash_hand", (230, 60, 520, 470)), sat=1.2)
-    cash = cash.crop(cash.getchannel("A").getbbox())
-    for x, y, s, r in ((120, 120, 0.55, 25), (60, 610, 0.45, -10)):
-        put(canvas, outline(cash, 6), x, y, s, r)
-
-    # the teen, big, outlined like a sticker
-    teen = punch(cutout("teen_boy", (180, 20, 560, 620)), sat=1.25, con=1.12, bright=0.94)
-    teen = teen.crop(teen.getchannel("A").getbbox())
-    put(canvas, outline(teen, 11), 345, 410, 1.28)
-
-    # headline on the right
-    cx = 930
-    put(canvas, gold_text("TOP 10", 200, 14), cx, 125, min(1.0, 640 / gold_text("TOP 10", 200, 14).width), -3)
-    put(canvas, plain_text("FORMAS DE GANAR", 64, (255, 255, 255)), cx, 268, min(1.0, 600 / plain_text("FORMAS DE GANAR", 64, (255, 255, 255)).width))
-    put(canvas, plain_text("DINERO", 130, (255, 255, 255), 11), cx, 365, 1.0, 0)
-
-    # badge
-    f = ImageFont.truetype(BLACK, 52)
-    lab = "SIENDO ADOLESCENTE"
-    w = f.getbbox(lab)[2]
-    badge = Image.new("RGBA", (w + 70, 104), (0, 0, 0, 0))
-    bd = ImageDraw.Draw(badge)
-    bd.rounded_rectangle([8, 12, w + 64, 100], radius=16, fill=(0, 0, 0, 160))
-    bd.rounded_rectangle([2, 4, w + 58, 92], radius=16, fill=(20, 20, 24), outline=(255, 214, 10), width=5)
-    bd.text((30, 14), lab, font=f, fill=(255, 214, 10))
-    put(canvas, badge, cx, 480, min(1.0, 620 / badge.width), 2)
-
-    # mystery box: "#1 = ???" with a red arrow pointing at it
-    box = Image.new("RGBA", (340, 150), (0, 0, 0, 0))
-    bd = ImageDraw.Draw(box)
-    bd.rounded_rectangle([10, 14, 334, 146], radius=20, fill=(0, 0, 0, 150))
-    bd.rounded_rectangle([0, 0, 324, 132], radius=20, fill=(255, 255, 255), outline=(0, 0, 0), width=6)
-    fb = ImageFont.truetype(BLACK, 92)
-    bd.text((24, 8), "#1 ???", font=fb, fill=(220, 20, 30))
-    put(canvas, box, 1085, 620, 1.0, -4)
-    ar = Image.new("RGBA", (220, 120), (0, 0, 0, 0))
-    ad = ImageDraw.Draw(ar)
-    pts = [(10, 48), (140, 48), (140, 10), (210, 60), (140, 110), (140, 72), (10, 72)]
-    ad.polygon([(x + 4, y + 6) for x, y in pts], fill=(0, 0, 0, 150))
-    ad.polygon(pts, fill=(235, 30, 40), outline=(255, 255, 255))
-    ad.line(pts + [pts[0]], fill=(255, 255, 255), width=6)
-    put(canvas, ar, 815, 640, 0.9, -12)
-
-    canvas.convert("RGB").save(os.path.join(ROOT, "exports", "miniatura.jpg"), quality=94)
-
-
-if __name__ == "__main__":
-    main()

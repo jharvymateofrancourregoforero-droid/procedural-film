@@ -1,4 +1,4 @@
-"""Render "El secreto de los ricos" (1920x1080, 30 fps) and encode it with ffmpeg.
+"""Render "Top 10 cosas más caras" (1920x1080, 30 fps) and encode it with ffmpeg.
 
 usage:
   python3 render.py                 full render into build/video.mp4
