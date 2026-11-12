@@ -5,6 +5,7 @@ Es una versión original y verificada del tema "Top 10 cosas más caras del mund
 Usa fotos reales (Wikimedia Commons y StockSnap), la voz de ElevenLabs "Mauricio Viral", y música y efectos sintetizados con código. No usa imágenes ni música de IA.
 
 - Miniatura: [`exports/miniatura.jpg`](exports/miniatura.jpg). Muestra tres fotos reales (el estegosaurio Apex, el Salvator Mundi y el Mercedes 300 SLR) con sus precios y el texto "¿QUIÉN PAGA ESTO?" (`python3 tools/thumbnail.py`).
+- Otras dos miniaturas: [`exports/miniatura_b.jpg`](exports/miniatura_b.jpg), con el Salvator Mundi de "45 libras" a "450 millones" (`python3 tools/thumbnail_b.py`), y [`exports/miniatura_c.jpg`](exports/miniatura_c.jpg), con el estegosaurio Apex y "¿44 MILLONES POR ESTO?" (`python3 tools/thumbnail_c.py`).
 - Título, descripción con capítulos, fuentes, créditos y etiquetas: [`exports/descripcion_youtube.txt`](exports/descripcion_youtube.txt).
 - El MP4 (`exports/top10-cosas-caras.mp4`) no se sube al repositorio por su tamaño. Se regenera con los pasos de abajo.
 
