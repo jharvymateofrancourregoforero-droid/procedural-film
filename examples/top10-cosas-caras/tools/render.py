@@ -281,9 +281,10 @@ def draw_gfx(frame, t):
             b = cached(("cb", gi), lambda: boxed(g["b"], 60, T.YEL))
             vs = cached("vs", lambda: text_img("VS", 70, T.RED, stroke=8))
             y = 150
-            paste(frame, a, 500, y, pop(lt), -2, out)
+            sa, sb = min(1.0, 700 / a.width), min(1.0, 700 / b.width)  # long labels must not cover the VS
+            paste(frame, a, 500, y, pop(lt) * sa, -2, out)
             paste(frame, vs, W / 2, y, pop(lt - 0.15), 0, out)
-            paste(frame, b, W - 500, y, pop(lt - 0.25), 2, out)
+            paste(frame, b, W - 500, y, pop(lt - 0.25) * sb, 2, out)
         elif k == "ticker":
             dur = g["t1"] - g["t0"]
             v = int(1_250_000 * ease(lt / dur))
